@@ -38,7 +38,7 @@ Matteo Collina shares his personal collection of AI agent skills for Node.js dev
 
 ## Concepts Mentioned
 
-- [[agent-skills]] — Standardized instructions for AI coding agents.
+- [[agent-skill]] — Standardized instructions for AI coding agents.
 - [[dspy-framework|Diátaxis framework]] — Documentation structure (tutorials, how-to, reference, explanation).
 - OAuth 2.0 — Authentication protocol.
 - [[personal-skills-ai-assisted-nodejs|Node.js internals]] — Event loop, streams, C++ addons.

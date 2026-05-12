@@ -42,7 +42,7 @@ A curated folder of 30 foundational papers in deep learning and machine learning
 - [[model-scaling|Scaling laws]] — "Scaling Laws for Neural LMs"
 - [[agent-tools-guide-rejecting-complexity-fragmentation-black-box|Kolmogorov complexity]] — referenced in later sections
 - [[machine-learning|Neural Turing machine]] — external memory for neural networks
-- [[feed-forward-network|Pointer network]] — attention-based combinatorial optimization
+- [[feed-forward-networks|Pointer network]] — attention-based combinatorial optimization
 
 ## Raw Notes
 

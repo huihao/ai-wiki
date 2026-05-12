@@ -90,7 +90,7 @@ Full isolation plus credential proxy. Generated code uses secrets through proxy 
 ## Related Concepts
 
 - [[prompt-injection]] - Attack manipulation
-- [[sandboxing]] - Execution isolation
+- [[sandbox-execution]] - Execution isolation
 - [[secrets-management]] - Credential handling
 - [[agent-architecture]] - System design
 - [[trust-boundaries]] - Security separation

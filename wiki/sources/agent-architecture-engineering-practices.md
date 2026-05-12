@@ -17,7 +17,7 @@ sources: 1
 
 ## Summary
 
-A comprehensive technical deep-dive covering every major dimension of Agent engineering: [[agent-loop|Agent Loop]] architecture, [[harness-engineering|Harness Engineering]] (why it matters more than model choice), [[context-engineering|context engineering]] (layered management, Skills lazy loading, [[prompt-caching|Prompt Caching]]), [[agent-tools|tool design]] ([[agent-capability-interface|ACI]] principles), [[agentic-memory|memory systems]] (4 types), [[multi-agent-systems|multi-agent organization]], [[agent-evaluation|evaluation frameworks]], [[observability|observability/tracing]], and security. Uses the OpenClaw implementation as a running example throughout. Key contrarian insight: more expensive models often bring smaller improvements than expected, while Harness quality and verification testing have outsized impact on success rates.
+A comprehensive technical deep-dive covering every major dimension of Agent engineering: [[agent-loop|Agent Loop]] architecture, [[harness-engineering|Harness Engineering]] (why it matters more than model choice), [[context-engineering|context engineering]] (layered management, Skills lazy loading, [[prompt-caching|Prompt Caching]]), [[agent-tools|tool design]] ([[agent-capability-interface|ACI]] principles), [[agentic-memory|memory systems]] (4 types), [[multi-agent-orchestration|multi-agent organization]], [[agent-evaluation|evaluation frameworks]], [[observability|observability/tracing]], and security. Uses the OpenClaw implementation as a running example throughout. Key contrarian insight: more expensive models often bring smaller improvements than expected, while Harness quality and verification testing have outsized impact on success rates.
 
 ## Key Takeaways
 
@@ -41,7 +41,7 @@ A comprehensive technical deep-dive covering every major dimension of Agent engi
 - [[harness-engineering]] — Engineering everything outside the model: context, tools, errors, security, caching, coordination
 - [[context-engineering]] — Managing what information reaches the model and when
 - [[agent-tools]] — Tools connecting LLMs to the real world through type-safe, self-repairing design
-- [[multi-agent-systems]] — Multiple agents working together with specialized roles
+- [[multi-agent-orchestration]] — Multiple agents working together with specialized roles
 - [[agent-evaluation]] — Frameworks for measuring Agent performance and reliability
 - [[agentic-memory]] — Memory systems enabling persistent learning across sessions
 - [[prompt-caching]] — Caching strategy for reducing token costs and latency on repeated context

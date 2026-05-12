@@ -22,14 +22,14 @@ Hardware acceleration is the use of specialized hardware components -- such as G
 
 ## Related Concepts
 
-- [[model-inference]] -- hardware acceleration is a core enabler of fast inference
+- [[llm-inference]] -- hardware acceleration is a core enabler of fast inference
 - [[onnx]] -- open format designed for hardware-agnostic model portability
 - [[onnx-runtime]] -- inference engine that maps models to available accelerators
 - [[torchserve]] -- PyTorch model serving with hardware acceleration support
 
 ## Sources
 
-- [[model-inference]]
+- [[llm-inference]]
 - [[onnx]]
 - [[onnx-runtime]]
 - [[onnx-runtime-getting-started]]

@@ -1,15 +1,15 @@
 ---
 created: 2026-04-28
-updated: 2026-04-28
-tags: []
-sources: 2
+updated: 2026-05-12
+tags: [nlp]
+sources: 4
 ---
 
-# Causal attention
+# Causal Attention
 
 ## Definition
 
-A masking strategy that ensures each position can only attend to itself and previous positions, essential for autoregressive language modeling. Also known as "masked self-attention" in transformer decoder architectures.
+A masking strategy that ensures each position can only attend to itself and previous positions, essential for autoregressive language modeling. Also called "masked self-attention" or "leftward attention" in transformer decoder architectures. The masking is typically implemented as an upper-triangular matrix of negative infinities added to attention scores, which become zero after softmax, ensuring each token prediction depends only on previously generated tokens.
 
 ## Mechanics
 
@@ -27,31 +27,33 @@ A masking strategy that ensures each position can only attend to itself and prev
 
 **Why -infinity before softmax?** More efficient than masking after softmax + renormalization. Softmax treats -inf as zero probability directly.
 
-## Purpose
+## Key Aspects
 
-- Enables GPT-style decoder-only LLMs to generate text left-to-right
-- Prevents "cheating": model cannot see future tokens during training
-- Each token's context vector incorporates only itself and previous tokens
-- Example: "Life is short" → "eat" can attend to "Life", "is", "short" but not future tokens
+- **Autoregressive Constraint**: Essential for language modeling — each token must predict the next token based only on past context, never future tokens
+- **Position i attends to positions 0 through i** (inclusive); position 0 sees only itself; the last position sees the entire sequence
+- **Encoder vs. Decoder**: Encoder self-attention is unmasked (bidirectional — all tokens attend to all others); decoder self-attention is masked (left-to-right only)
+- **Cross-Attention**: In encoder-decoder transformers, cross-attention from decoder to encoder is typically unmasked since the full input is available
+- **Visualization**: Attention maps show a distinctive lower-triangular pattern when masked, contrasting with the full-square pattern of unmasked attention
+- **Gated Attention**: Sigmoid gating after scaled dot-product attention can improve masked attention performance, mitigating attention sink phenomena and enabling long-context extrapolation (NeurIPS 2025)
+- **Critical for training efficiency**: Allows parallel computation of all positions during training while maintaining sequential generation semantics at inference
 
 ## Related Concepts
 
-- [[Self-Attention]]
-- [[Multi-Head Attention]]
-- [[Transformer Architecture]]
-- [[Attention Mask]]
-- [[Autoregressive Model]]
-
-## Related Entities
-
-- [[sebastian-raschka|Sebastian Raschka]]
+- [[self-attention]]
+- [[multi-head-attention]]
+- [[attention-mechanisms]]
+- [[autoregressive-model]]
+- [[transformers]]
 
 ## Sources
 
-- [[understanding-coding-self-attention-multi-head-causal-cross|Understanding and Coding Self-Attention, Multi-Head Attention, Causal-Attention, and Cross-Attention in LLMs]] — Sebastian Raschka implements causal masking with -inf before softmax technique
-- [[the-illustrated-transformer|The Illustrated Transformer]] — Jay Alammar visualizes masked multi-head attention in decoder stack
+- [[understanding-coding-self-attention-multi-head-causal-cross]] — Sebastian Raschka implements causal masking
+- [[the-illustrated-transformer]] — Jay Alammar visualizes masked multi-head attention
+- [[everything-about-transformers]] — Transformer mechanisms overview
+- [[encoder-decoder-architecture]] — Gated attention for masked attention
 
 ## Evolution
 
 - Original transformer (Vaswani et al. 2017): "masked multi-head attention" module in decoder
 - Modern LLMs (GPT, Llama): causal attention is default for decoder-only architectures
+- **NeurIPS 2025**: Gated attention mechanism improves masked attention performance and long-context extrapolation

@@ -21,7 +21,7 @@ GELU (Gaussian Error Linear Unit) is an activation function used in modern trans
 
 ## Related Concepts
 
-- [[feed-forward-network]] — GELU is the typical activation in transformer FFN layers
+- [[feed-forward-networks]] — GELU is the typical activation in transformer FFN layers
 - [[swiglu]] — alternative activation used in Llama and PaLM
 - [[transformers]] — GELU is a core component
 - [[layer-normalization]] — works in conjunction with GELU for stable training
@@ -29,7 +29,7 @@ GELU (Gaussian Error Linear Unit) is an activation function used in modern trans
 ## Sources
 
 - [[the-parts-of-a-transformer-nobody-talks-about|The Parts of a Transformer Nobody Talks About (But That Make It Work)]] — discusses GELU vs. ReLU
-- [[feed-forward-network]] — role of activation functions in transformers
+- [[feed-forward-networks]] — role of activation functions in transformers
 - [[explain-feed-forward-network-transformer-block]] — engineering perspective on GELU in transformer FFN blocks
 
 ## Evolution

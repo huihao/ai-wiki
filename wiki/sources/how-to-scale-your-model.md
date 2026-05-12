@@ -59,7 +59,7 @@ A free online book demystifying the science of scaling language models on TPUs a
 - [[pipeline-parallelism]] — parallelism strategy
 - Expert Parallelism — MoE parallelism
 - ZeRO — memory optimization
-- [[kv-caching|KV Cache]] — inference memory concern
+- [[kv-cache|KV Cache]] — inference memory concern
 - [[tpu]] — Google accelerator
 - [[pico-gpu|GPU]] — NVIDIA accelerator
 - [[jax]] — implementation framework

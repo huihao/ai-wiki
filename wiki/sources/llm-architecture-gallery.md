@@ -54,7 +54,7 @@ An interactive gallery collecting architecture fact sheets for 30+ prominent ope
 - [[sliding-window-attention]] — Gemma and Xiaomi families.
 - [[mixture-of-experts]] — DeepSeek V3/R1, Qwen3 235B, Llama 4, Nemotron 3.
 - [[hybrid-attention]] — Nemotron 3 (Mamba-2 + GQA), Qwen3 Next/Kimi Linear (DeltaNet + attention).
-- [[kv-caching|KV cache]] — Per-token cache sizes are a headline metric in the gallery.
+- [[kv-cache|KV cache]] — Per-token cache sizes are a headline metric in the gallery.
 - [[rope]] / QK-Norm / YaRN — Positional and normalization variations noted per model.
 
 ## Raw Notes

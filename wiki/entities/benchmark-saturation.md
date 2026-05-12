@@ -20,7 +20,7 @@ Benchmark saturation occurs when AI models achieve near-perfect or ceiling-level
 - [[kaggle]] -- Kaggle competitions have historically seen benchmark saturation on datasets like MNIST and CIFAR
 
 ## Related Concepts
-- [[ai-benchmarks]] -- the broader landscape of AI evaluation benchmarks
+- [[llm-benchmarks]] -- the broader landscape of AI evaluation benchmarks
 - [[evaluation-metrics]] -- metrics used to assess model performance
 - [[ml-benchmarking]] -- the practice of systematically evaluating ML models
 - [[mmlu]] -- a widely used multi-task language understanding benchmark that has shown signs of saturation

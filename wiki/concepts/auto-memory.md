@@ -20,7 +20,7 @@ Auto-memory is the practice of giving AI coding agents persistent, queryable rec
 
 ## Related Concepts
 - [[agent-loop]]
-- [[agentsmd]]
+- [[agents-md]]
 - [[context-bloat]]
 - [[coding-agent]]
 

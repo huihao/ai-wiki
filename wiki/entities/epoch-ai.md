@@ -21,9 +21,9 @@ Epoch AI is a research organization that tracks and analyzes the progress of art
 - [[google-deepmind]] — subject of Epoch AI research
 
 ## Related Concepts
-- [[ai-benchmarks]] — Epoch AI's primary research focus
+- [[llm-benchmarks]] — Epoch AI's primary research focus
 - [[benchmarking]] — core methodology of Epoch AI
-- [[ai-model-benchmarking]] — benchmarking specific AI model capabilities
+- [[llm-benchmarks]] — benchmarking specific AI model capabilities
 - [[crowdsourced-benchmarking]] — complementary benchmarking approaches
 
 ## Sources

@@ -26,7 +26,7 @@ The original neptune.ai article on LLM embeddings has been replaced with an anno
 - Piotr Niedzwiedz (Neptune founder/CEO)
 
 ## Concepts Mentioned
-- [[llm-embeddings]]
+- [[embeddings]]
 - experiment tracking
 - model training infrastructure
 - model monitoring

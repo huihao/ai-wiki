@@ -24,7 +24,7 @@ Momentum is a technique used in training neural networks that adds an inertia co
 
 ## Related Concepts
 
-- [[momentum-in-optimization]]
+- [[momentum]]
 - [[stochastic-gradient-descent]]
 - [[learning-rate]]
 - [[backpropagation]]

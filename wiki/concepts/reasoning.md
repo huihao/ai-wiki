@@ -25,7 +25,7 @@ Reasoning in the context of AI systems refers to the capacity of language models
 
 - [[retrieval-augmented-generation]] -- Retrieval-augmented generation as the baseline for reasoning enhancement
 - [[chain-of-thought]] -- Breaking reasoning into explicit intermediate steps
-- [[multi-agent-systems]] -- Multiple specialized agents collaborating on complex reasoning tasks
+- [[multi-agent-orchestration]] -- Multiple specialized agents collaborating on complex reasoning tasks
 - [[context-engineering]] -- Managing what information enters the reasoning context
 - [[eval-driven-development]] -- Evaluating reasoning quality through benchmarks
 

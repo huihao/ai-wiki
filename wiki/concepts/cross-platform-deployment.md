@@ -23,14 +23,14 @@ Cross-platform deployment is the practice of packaging and running machine learn
 ## Related Concepts
 
 - [[onnx]]
-- [[model-inference]]
+- [[llm-inference]]
 - [[hardware-acceleration]]
 - [[model-deployment]]
 - [[inference-optimization]]
 
 ## Sources
 
-- [[model-inference]]
+- [[llm-inference]]
 - [[onnx]]
 - [[onnx-runtime]]
 - [[onnx-runtime-getting-started]]

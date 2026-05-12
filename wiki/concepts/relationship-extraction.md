@@ -22,7 +22,7 @@ Relationship extraction is the process of automatically identifying and classify
 
 ## Related Concepts
 
-- [[graph-knowledge-base]]
+- [[knowledge-graph]]
 - [[llm-extraction]]
 - [[entity-extraction]]
 - [[graphrag]]
@@ -30,7 +30,7 @@ Relationship extraction is the process of automatically identifying and classify
 
 ## Sources
 
-- [[graph-knowledge-base]]
+- [[knowledge-graph]]
 - [[llm-extraction]]
 - [[r2r]]
 - [[turn-website-into-graph-knowledge-base]]

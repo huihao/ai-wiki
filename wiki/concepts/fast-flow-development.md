@@ -23,7 +23,7 @@ Fast-flow development is an engineering model that prioritizes rapid experimenta
 
 ## Related Concepts
 
-- [[cynefin-framework]]
+- [[cynefin]]
 - [[safe-to-fail-experiments]]
 - [[complex-domain]]
 

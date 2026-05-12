@@ -25,7 +25,7 @@ Technical writer and educator known for accessible explanations of under-appreci
 ## Related Concepts
 
 - [[layer-normalization]] — detailed accessible explanation
-- [[feed-forward-network]] — engineering and pedagogical breakdown
+- [[feed-forward-networks]] — engineering and pedagogical breakdown
 - [[transformer-architecture]] — holistic view of how components interact
 
 ## Sources

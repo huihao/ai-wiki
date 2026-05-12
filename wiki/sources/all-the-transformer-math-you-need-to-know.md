@@ -41,7 +41,7 @@ A concise, math-heavy reference from the JAX/ML scaling book that derives FLOP c
 - [[grouped-query-attention]] — Trade-off between KV-cache size and modeling quality.
 - [[mixture-of-experts]] — Routing tokens to k of E experts; introduces AllToAll communication.
 - [[self-attention|Flash attention]] — Tiling attention to reduce HBM traffic and memory footprint.
-- [[kv-caching|KV cache]] — Memory cost formula: 2SLKH bytes in int8.
+- [[kv-cache|KV cache]] — Memory cost formula: 2SLKH bytes in int8.
 - [[model-scaling]] — Power-law relationships and arithmetic intensity.
 - [[flops]] — Forward-pass vs backward-pass costs; training vs inference.
 

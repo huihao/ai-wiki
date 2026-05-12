@@ -23,7 +23,7 @@ Yizhou Liu is a researcher recognized for contributions to understanding neural 
 
 ## Related Concepts
 - [[representation-superposition|Representation Superposition]]
-- [[neural-scaling-laws|Neural Scaling Laws]]
+- [[scaling-laws|Neural Scaling Laws]]
 
 ## Sources
 - [[announcing-neurips-2025-best-paper-awards]]

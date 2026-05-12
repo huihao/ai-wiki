@@ -23,7 +23,7 @@ AI model comparison is the systematic evaluation and ranking of AI models across
 ## Related Concepts
 
 - [[arena-evaluation-methodology]]
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 - [[ai-research-data-sharing]]
 
 ## Sources

@@ -113,7 +113,7 @@ Injected credentials overwrite user-supplied headers to prevent substitution att
 ## Related Concepts
 
 - [[agent-security]] - Agent system protection
-- [[sandboxing]] - Execution isolation
+- [[sandbox-execution]] - Execution isolation
 - [[trust-boundaries]] - Security separation
 - [[credential-brokering]] - Secret distribution
 

@@ -26,7 +26,7 @@ A model chat interface is a user-facing platform that enables side-by-side conve
 
 - [[ai-model-comparison]]
 - [[crowdsourced-benchmarking]]
-- [[model-benchmarks]]
+- [[llm-benchmarks]]
 - [[frontier-ai-models]]
 
 ## Sources

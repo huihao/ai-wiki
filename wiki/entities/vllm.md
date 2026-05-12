@@ -29,7 +29,7 @@ vLLM is an open-source high-throughput inference engine for large language model
 ## Related Concepts
 
 - [[paged-attention]] — vLLM's core innovation
-- [[kv-caching]] — memory optimization that PagedAttention improves
+- [[kv-cache]] — memory optimization that PagedAttention improves
 - [[continuous-batching]] — vLLM's scheduling strategy
 - [[inference-optimization]] — vLLM is a canonical example
 - [[speculative-decoding]] — supported in vLLM for faster inference

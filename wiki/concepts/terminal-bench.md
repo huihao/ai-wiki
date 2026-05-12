@@ -23,7 +23,7 @@ Terminal Bench (Terminal-Bench) is a benchmark suite designed to evaluate the re
 ## Related Concepts
 
 - [[coding-agent]]
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 - [[evaluation]]
 
 ## Sources

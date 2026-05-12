@@ -32,7 +32,7 @@ The practice of structuring, formatting, and serving technical content so that A
 - Skill.md — declarative capability documentation
 - Token economics — context window budgeting
 - [[model-context-protocol]] — direct agent integration protocol
-- [[agent-skills]] — reusable capability packages
+- [[agent-skill]] — reusable capability packages
 
 ## Sources
 

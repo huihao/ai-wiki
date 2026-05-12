@@ -52,7 +52,7 @@ Matteo Collina (Fastify core contributor) shares his personal skills repository 
 
 ## Concepts Mentioned
 
-- [[agent-skills]] — Standardized capability packages for AI agents.
+- [[agent-skill]] — Standardized capability packages for AI agents.
 - [[skill-md]] — Metadata + instructions file format.
 - [[diataxis-framework]] — Documentation framework (4 modes: tutorial, how-to, reference, explanation).
 - [[eslint]] — Linting tool.

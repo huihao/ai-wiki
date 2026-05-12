@@ -34,12 +34,12 @@ An accessible, intuition-first explanation of how a Transformer encoder processe
 
 ## Concepts Mentioned
 
-- [[feed-forward-network|Transformer encoder]] — input understanding component
+- [[feed-forward-networks|Transformer encoder]] — input understanding component
 - [[projective-ray-positional-encoding|Positional encoding]] — encoding sequence order
 - [[multi-head-attention-from-scratch|Multi-head attention]] — parallel attention mechanisms
 - [[grouped-query-attention|Query-key-value attention]] — Q/K/V mechanism
 - [[softmax]] — normalization for attention weights
-- [[feed-forward-network]] — per-token refinement
+- [[feed-forward-networks]] — per-token refinement
 
 ## Raw Notes
 

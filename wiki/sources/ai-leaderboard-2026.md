@@ -40,7 +40,7 @@ A comprehensive leaderboard comparing 296 AI models ranked by performance, price
 
 ## Concepts Mentioned
 
-- [[ai-model-benchmarking|AI Model Benchmarking]] — Systematic evaluation of model performance
+- [[llm-benchmarks|AI Model Benchmarking]] — Systematic evaluation of model performance
 - [[model-performance-metrics|Model Performance Metrics]] — Quality, speed, and cost measurements
 - [[llm-pricing|LLM Pricing]] — Cost structures for token-based AI services
 

@@ -23,7 +23,7 @@ AI chips are specialized semiconductor hardware designed to accelerate artificia
 ## Related Concepts
 
 - [[activation-checkpointing]]
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 - [[ai-tools]]
 
 ## Sources

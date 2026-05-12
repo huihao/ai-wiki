@@ -23,7 +23,7 @@ Eigenvectors are the set of all nonzero vectors that satisfy Av = λv for a give
 
 ## Related Concepts
 
-- [[eigenvector]]
+- [[eigenvectors]]
 - [[pca]]
 - [[dimensionality-reduction]]
 

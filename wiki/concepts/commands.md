@@ -25,7 +25,7 @@ Commands in Claude Code are custom slash commands defined as markdown files in t
 
 - [[anatomy-claude-folder]]
 - [[claude-md]]
-- [[context-engineering-for-coding-agents]]
+- [[context-engineering]]
 
 ## Sources
 

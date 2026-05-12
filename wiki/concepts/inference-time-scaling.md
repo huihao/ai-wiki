@@ -16,7 +16,7 @@ Improving model performance at inference time by allocating more compute per pre
 - [[scaling-laws]] — Training-time scaling; inference-time scaling is the complementary paradigm
 - [[adaptive-parallel-reference]] — A specific inference-time scaling technique for efficient throughput
 - [[speculative-execution]] — Predictive work during inference for latency reduction
-- [[model-inference]] — The general process of running models for predictions
+- [[llm-inference]] — The general process of running models for predictions
 
 ## Sources
 

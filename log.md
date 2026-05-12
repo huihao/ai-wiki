@@ -5,6 +5,23 @@
 
 ---
 
+## [2026-05-12] lint | Concept deduplication + entity reclassification — 67 files deleted, 46 moved
+
+Full lint pass focused on concept clustering and entity reclassification.
+
+**Concept merges (35 deleted → 25 canonical):**
+- 18 simple merges (singular/plural, acronym/full-name, prefix variants)
+- 7 cluster merges (3-5 near-duplicate files → 1 canonical): causal-attention, multi-agent-orchestration, sandbox-execution, llm-inference, llm-benchmarks, knowledge-graph, context-engineering
+
+**Entity reclassification (46 moved concepts → entities):**
+- 4 people, 16 software/tools, 9 models/architectures, 6 datasets/benchmarks, 6 organizations, 5 products/files
+
+**Bug fixes:** rotary-position-embeddings self-referential alias, vllm concept/entity dedup, unit-economics merge, cs231n merge
+
+**Link rewrites:** 278 wiki links rewritten across 238 files, 0 broken links introduced
+
+**Ghost check:** 0 new ghost references (890 pre-existing)
+
 ## [2026-05-12] ingest | 6 clippings: Agent Skill spec, Kimi-K2, MMM on CPU, Harness Engineering, Learning Beyond Gradients, Transformers Primer
 
 Ingested all 6 files from `Clippings/`:

@@ -25,7 +25,7 @@ Trust boundaries are the security perimeters that define which components of a s
 ## Related Concepts
 
 - [[zero-trust]] -- Security approach verifying every request regardless of origin
-- [[sandboxing]] -- Isolating code execution environments
+- [[sandbox-execution]] -- Isolating code execution environments
 - [[secrets-management]] -- Secure credential handling and injection
 - [[prompt-injection]] -- Attack vector that motivates trust boundary design
 - [[agent-security]] -- Protecting AI agents from attacks and misuse

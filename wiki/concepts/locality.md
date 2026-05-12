@@ -25,7 +25,7 @@ Locality in deep learning refers to the spatial coherence prior exploited by con
 
 - [[locality-of-reference]]
 - [[matrix-calculus]]
-- [[masked-self-attention]]
+- [[causal-attention]]
 
 ## Sources
 

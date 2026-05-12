@@ -27,7 +27,7 @@ AI agents are autonomous software systems powered by large language models that 
 
 ## Related Concepts
 
-- [[multi-agent-systems]] -- systems where multiple agents collaborate with specialized roles
+- [[multi-agent-orchestration]] -- systems where multiple agents collaborate with specialized roles
 - [[function-calling]] -- the mechanism by which agents invoke external tools
 - [[agent-frameworks]] -- frameworks and runtimes for building agent applications
 - [[agent-engineering]] -- engineering practices for building reliable agents

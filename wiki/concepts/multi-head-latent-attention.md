@@ -21,7 +21,7 @@ An attention mechanism pioneered by DeepSeek that compresses the KV cache by sto
 
 - [[multi-head-attention-from-scratch|Multi-head attention]] — the full-attention baseline
 - [[grouped-query-attention]] — simpler KV-cache reduction alternative
-- [[kv-caching|KV cache]] — the memory bottleneck MLA targets
+- [[kv-cache|KV cache]] — the memory bottleneck MLA targets
 - [[deepseek-sparse-attention]] — another DeepSeek attention innovation
 - [[inference-optimization]] — broader class of techniques
 

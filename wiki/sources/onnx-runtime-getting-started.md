@@ -39,7 +39,7 @@ Official getting started guide for ONNX Runtime, a cross-platform inference engi
 ## Concepts Mentioned
 
 - [[onnx]] — Open Neural Network Exchange format.
-- [[model-inference]] — Running trained models.
+- [[llm-inference]] — Running trained models.
 - [[hardware-acceleration]] — GPU/TPU/specialized hardware support.
 - [[cross-platform-deployment]] — Running models across different OS/architectures.
 

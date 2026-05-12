@@ -25,7 +25,7 @@ A logits processor is a component in language model inference that modifies the 
 
 - [[llm]]
 - [[llm-sdk]]
-- [[masked-self-attention]]
+- [[causal-attention]]
 
 ## Sources
 

@@ -50,9 +50,9 @@ A curated folder of 30 foundational papers in deep learning and machine learning
 - [[agent-tools-guide-rejecting-complexity-fragmentation-black-box|Kolmogorov complexity]] — theoretical foundations
 - [[retrieval-augmented-generation]] — Lewis et al. RAG paper
 - [[retrieval-augmented-generation|Dense passage retrieval]] — Karpukhin et al.
-- [[feed-forward-network|Pointer network]] — Vinyals et al.
+- [[feed-forward-networks|Pointer network]] — Vinyals et al.
 - [[machine-learning|Neural Turing machine]] — Graves et al.
-- [[feed-forward-network|Relation network]] — Santoro et al.
+- [[feed-forward-networks|Relation network]] — Santoro et al.
 
 ## Raw Notes
 

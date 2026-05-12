@@ -45,7 +45,7 @@ Armin Ronacher explains why Pi — a minimal coding agent by Mario Zechner — i
 - [[model-context-protocol|MCP]] — intentionally not supported in Pi
 - [[chrome-devtools-mcp-debug-browser-session|Session trees]] — branching and rewinding conversations
 - Hot reloading — agent code can reload itself
-- [[agent-skills|Skills]] — agent-created capabilities
+- [[agent-skill|Skills]] — agent-created capabilities
 - TUI extensions — custom terminal UI components
 
 ## Questions / Follow-ups

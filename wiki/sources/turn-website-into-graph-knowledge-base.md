@@ -38,7 +38,7 @@ A comprehensive tutorial demonstrating how to transform any website into a graph
 
 ## Concepts Mentioned
 
-- [[graph-knowledge-base|Graph Knowledge Base]] — Knowledge representation using entities and relationships
+- [[knowledge-graph|Graph Knowledge Base]] — Knowledge representation using entities and relationships
 - [[web-crawling|Web Crawling]] — Automated extraction of website content
 - [[graphrag|GraphRAG]] — RAG with graph-based knowledge representation
 - [[llm-extraction|LLM-based Extraction]] — Using LLMs to structure unstructured data

@@ -47,7 +47,7 @@ Interactive visualization tool explaining transformer architecture using GPT-2 (
 - [[embeddings]] - numerical vector representation
 - [[positional-encoding]] - position information injection
 - [[multi-head-attention]] - capturing different relationships from multiple perspectives
-- [[masked-attention]] - preventing future token access during generation
+- [[causal-attention]] - preventing future token access during generation
 - [[mlp-multilayer-perceptron]] - feed-forward network refining token representations
 - [[gelu]] - activation function in MLP
 - [[softmax]] - converting logits to probabilities

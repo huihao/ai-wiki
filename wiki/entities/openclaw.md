@@ -31,7 +31,7 @@ OpenClaw is an agent platform built on top of Pi (Mario Zechner's minimal coding
 ## Related Concepts
 
 - [[8-factor-agent-breakdown|Agent workspace]] — configuration files defining agent identity
-- [[agent-skills|Skills]] — progressively disclosed capabilities
+- [[agent-skill|Skills]] — progressively disclosed capabilities
 - [[agent-builder-memory-system|Multi-agent system]] — sessions_send and sessions_spawn
 - [[chrome-devtools-mcp-debug-browser-session|Session compaction]] — summarizing old messages
 

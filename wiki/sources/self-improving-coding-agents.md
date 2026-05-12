@@ -45,7 +45,7 @@ A comprehensive guide to setting up autonomous coding agent loops that continuou
 - [[stop-using-init-for-agents-md|AGENTS.md]] — persistent agent memory
 - [[understanding-spec-driven-development-kiro-spec-kit-tessl|Test-driven development]] — validation in loops
 - [[8-factor-agent-breakdown|Multi-agent systems]] — planner-worker scaling
-- [[sandboxing]] — security for generated code
+- [[sandbox-execution]] — security for generated code
 
 ## Questions / Follow-ups
 

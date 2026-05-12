@@ -18,13 +18,13 @@ Prompt injection is an attack vector in which a malicious input is crafted to ma
 
 ## Related Concepts
 
-- [[prompting]] — the prompt interface that prompt injection exploits
+- [[prompt-engineering]] — the prompt interface that prompt injection exploits
 - [[ai-safety]] — prompt injection is a top-priority safety concern for deployed LLMs
 - [[ai-agent-security]] — agents with tool access are especially vulnerable to prompt injection
 - [[context-engineering]] — designing context to resist injection is a key engineering concern
 - [[guardrails]] — output validation and input filtering used to defend against prompt injection
 - [[tool-use]] — tool-using agents are higher-risk targets since injection can trigger real-world actions
-- [[sandboxing]] — isolating tool execution to limit the blast radius of successful injection attacks
+- [[sandbox-execution]] — isolating tool execution to limit the blast radius of successful injection attacks
 
 ## Related Entities
 

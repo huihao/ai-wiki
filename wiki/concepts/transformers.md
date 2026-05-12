@@ -37,7 +37,7 @@ Modern LLMs are almost exclusively decoder-only.
 - [[self-attention]] -- the fundamental attention mechanism within transformers
 - [[multi-head-attention]] -- parallel attention heads for diverse relationship learning
 - [[positional-encoding]] -- injecting sequence order into the parallel architecture
-- [[feed-forward-network]] -- position-wise nonlinear transformation layers
+- [[feed-forward-networks]] -- position-wise nonlinear transformation layers
 - [[residual-connections]] -- skip connections enabling deep stack training
 - [[layer-normalization]] -- training stabilization technique
 - [[encoder-decoder-architecture]] -- sequence-to-sequence transformer structure

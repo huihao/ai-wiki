@@ -23,7 +23,7 @@ Agent evaluation is the systematic assessment of AI agent performance, measuring
 ## Related Concepts
 
 - [[agent-evaluation]]
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 - [[arena-evaluation-methodology]]
 
 ## Sources

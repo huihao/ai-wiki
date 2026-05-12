@@ -81,7 +81,7 @@
 - [[spec-driven-development|Spec-Driven Development]] — Writing specifications before code, evolving through spec-first, spec-anchored, spec-as-source levels.
 - [[slowing-down|Slowing Down]] — Deliberate pace in AI-assisted development to maintain quality and understanding.
 - [[speculative-execution|Speculative Execution]] — Predictive work on overlay filesystem while user types.
-- [[trust-boundary|Trust Boundary]] — Security concept separating trusted server sources from untrusted client inputs.
+- [[trust-boundaries|Trust Boundary]] — Security concept separating trusted server sources from untrusted client inputs.
 - [[vibe-coding|Vibe Coding]] — AI-assisted intuitive coding approach coined by Karpathy.
 - [[zero-trust|Zero Trust]] — Security approach verifying every agent tool call through delegation chains.
 
@@ -96,13 +96,13 @@
 - [[function-calling|Function Calling]] — LLM capability to select and execute external tools/functions based on context, enabling agents to perform real-world actions beyond text generation through parameter extraction and execution.
 - [[knowledge-agents|Knowledge Agents]] — AI agents designed to work with knowledge bases and data sources, focusing on information retrieval, synthesis, and knowledge work automation through data ingestion, indexing, and retrieval.
 - [[linear-classification|Linear Classification]] — Simplest parametric classification mapping input features to class scores via linear transformation, interpretable as template matching or geometric decision boundaries.
-- [[loss-functions|Loss Functions]] — Mathematical functions quantifying prediction quality to guide optimization, including SVM hinge loss, Softmax cross-entropy, and regularization penalties for training signal.
+- [[loss-function|Loss Functions]] — Mathematical functions quantifying prediction quality to guide optimization, including SVM hinge loss, Softmax cross-entropy, and regularization penalties for training signal.
 - [[mcp-marketplace|MCP Marketplace]] — Centralized collection of MCP servers providing specialized capabilities, enabling easy discovery, one-click installation, and configuration of tools across database, cloud, development, and other categories.
 - [[model-context-protocol|Model Context Protocol]] — Open protocol standardizing context provision to LLMs through MCP servers, acting like USB-C for AI with standardized connections to data sources and tools via local STDIN/STDOUT execution.
-- [[multi-agent-systems|Multi-Agent Systems]] — Architecture where multiple AI agents work together with specialized roles, goals, and capabilities through coordination patterns like hierarchical, peer-to-peer, sequential, or parallel execution.
+- [[multi-agent-orchestration|Multi-Agent Systems]] — Architecture where multiple AI agents work together with specialized roles, goals, and capabilities through coordination patterns like hierarchical, peer-to-peer, sequential, or parallel execution.
 - [[regularization|Regularization]] — Technique preventing overfitting and improving generalization by adding penalty terms (L1/L2) to loss functions that discourage complex or extreme parameter values.
 - [[relative-position-attention|Relative Position Attention]] — Ability of transformer models to attend based on relative positions between tokens, enabled by sinusoidal positional encoding where PE(pos+k) can be represented as a linear function of PE(pos) for any fixed offset k.
-- [[sandboxed-execution|Sandboxed Execution]] — Safe isolated environment for LLM-generated code execution, providing reliability for calculations, prototyping, and verification without affecting host systems.
+- [[sandbox-execution|Sandboxed Execution]] — Safe isolated environment for LLM-generated code execution, providing reliability for calculations, prototyping, and verification without affecting host systems.
 - [[scaled-dot-product-attention|Scaled Dot-Product Attention]] — Attention computation method used in transformers where attention scores are calculated as dot product of Query and Key, scaled by sqrt(d_k), then softmax applied. Faster and more space-efficient than additive attention due to optimized matrix multiplication.
 - [[softmax-classifier|Softmax Classifier]] — Multiclass classifier interpreting scores as probabilities using cross-entropy loss, generalizing logistic regression with probabilistic outputs and maximum likelihood estimation.
 - [[svm-loss|SVM Loss]] — Multiclass Support Vector Machine loss function (hinge loss) encouraging correct class scores to exceed incorrect class scores by a fixed margin Delta for margin-based classification.
@@ -121,7 +121,7 @@
 - [[diataxis-framework|Diátaxis Framework]] — Documentation framework dividing technical writing into four modes: tutorials (learning-oriented), how-to guides (problem-oriented), reference (information-oriented), and explanation (understanding-oriented).
 - [[gh-cli|GitHub CLI]] — Official command-line tool for GitHub enabling PR, issue, release, and repo management from terminal, used in Matteo Collina's octocat skill.
 - [[layout-spread-reward|Layout Spread Reward]] — Reward function encouraging 2D space utilization in ASCII diagrams, penalizing vertical stacking (reward hacking) and promoting proper diagram aesthetics.
-- [[model-inference|Model Inference]] — Process of running trained ML models for predictions on new data, involving latency, throughput, hardware, platform, and API considerations for production deployment.
+- [[llm-inference|Model Inference]] — Process of running trained ML models for predictions on new data, involving latency, throughput, hardware, platform, and API considerations for production deployment.
 - [[neostandard|Neostandard]] — Modern ESLint configuration standard for JavaScript/TypeScript linting using ESLint v9 flat config system, providing clean defaults and minimal overhead.
 - [[node-test-runner|Node.js Test Runner]] — Built-in testing framework in Node.js core providing native test execution without external dependencies like Jest or Mocha.
 - [[onnx|ONNX]] — Open Neural Network Exchange format for ML model interoperability across frameworks, enabling models trained in one framework to run in another with standardized operators.
@@ -185,7 +185,7 @@
 
 - [[semantic-memory|Semantic Memory]] — COALA framework memory type: facts about the world, implemented as agent skills and knowledge files.
 
-- [[deep-agents|Deep Agents]] — LangChain's agent harness abstracting context engineering (summarization, tool offloading, planning), supporting virtual filesystem with pluggable storage.
+- [[deepagents|Deep Agents]] — LangChain's agent harness abstracting context engineering (summarization, tool offloading, planning), supporting virtual filesystem with pluggable storage.
 
 - [[ai-workflow-platform|AI Workflow Platform]] — Integrated platforms for end-to-end AI/ML development: notebooks, datasets, compute, research, SOTA tracking, accelerating development from idea to launch.
 
@@ -333,7 +333,7 @@
 - [[operator-dispatch|Operator Dispatch]] — PyTorch's mechanism for routing tensor operations to correct kernel implementations based on device type, layout, and dtype.
 - [[rectified-flow|Rectified Flow]] — Simplified flow matching variant with linear transport path between noise and data, eliminating time-dependent dynamics while preserving generative capability.
 - [[struct-recovery|Struct Recovery]] — Reconstructing data structure definitions from compiled binary code by analyzing field access patterns, type casts, and sizes.
-- [[tensor-storage-architecture|Tensor-Storage Architecture]] — PyTorch's decoupled representation where Tensor (logical view) is separated from Storage (physical data), enabling zero-copy operations.
+- [[tensor-storage|Tensor-Storage Architecture]] — PyTorch's decoupled representation where Tensor (logical view) is separated from Storage (physical data), enabling zero-copy operations.
 - [[vector-chain-rule|Chain Rule (Vector Form)]] — General rule for differentiating composed functions using Jacobian multiplication, foundation of neural network backpropagation.
 - [[ml-learning-roadmap|ML Learning Roadmap]] — Structured progression from foundational mathematics through classical ML to deep learning and cutting-edge research.
 - [[cognitive-biases|Cognitive Biases]] — Systematic patterns of deviation from rationality in judgment, including confirmation bias, plunging-in bias, and automation bias.
@@ -363,7 +363,7 @@
 - [[cbow|CBOW]] — Continuous Bag of Words: Word2Vec architecture predicting target words from surrounding context by averaging context embeddings.
 - [[bag-of-words|Bag of Words]] — Text representation as vectors of word counts ignoring grammar and order.
 - [[categorical-crossentropy|Categorical Cross-Entropy]] — Loss function for multi-class classification measuring dissimilarity between predicted probability distribution and true labels.
-- [[next-word-prediction|Next Word Prediction]] — Core task of predicting the most probable next token given a sequence of preceding tokens.
+- [[next-token-prediction|Next Word Prediction]] — Core task of predicting the most probable next token given a sequence of preceding tokens.
 - [[exposure-bias|Exposure Bias]] — Discrepancy between training (teacher forcing) and inference (autoregressive) modes in sequence models.
 - [[positional-bias|Positional Bias]] — Tendency of attention mechanisms to disproportionately weight tokens based on their position rather than semantic relevance.
 - [[natural-language-processing|Natural Language Processing]] — Field of AI focused on enabling computers to understand, interpret, and generate human language.
@@ -384,7 +384,7 @@
 - [[matrix-operations|Matrix Operations]] — Fundamental operations on matrices including multiplication, transpose, inverse, and trace.
 - [[matrix-multiplication|Matrix Multiplication]] — Operation composing linear transformations; O(n^3) for naive algorithm.
 - [[interactive-linear-algebra|Interactive Linear Algebra]] — Online textbook combining algebraic computation with geometric visualization, created by Margalit and Rabinoff at Georgia Tech.
-- [[jacobian-matrix|Jacobian Matrix]] — m×n matrix of all partial derivatives of m functions with respect to n parameters, foundation of backpropagation.
+- [[jacobian|Jacobian Matrix]] — m×n matrix of all partial derivatives of m functions with respect to n parameters, foundation of backpropagation.
 
 - [[scaling-laws|Scaling Laws]] — Universal relationships between compute, dataset size, model parameters, and performance, enabling prediction at larger scales.
 - [[critical-batch-size|Critical Batch Size]] — Batch size where linear learning rate scaling breaks down, marking compute-optimal to data-parallel transition.
@@ -400,7 +400,7 @@
 - [[sde-ode|SDE/ODE Formulation]] — Unified mathematical framework for diffusion models where forward noising is an SDE and reverse denoising is an SDE or ODE.
 - [[noise-schedule|Noise Schedule]] — Controls signal-to-noise ratio changes during forward diffusion, impacting generation quality and training stability.
 - [[v-prediction|V-Prediction]] — Reparameterization where network predicts velocity v = αε - σx₀ instead of noise or clean data directly.
-- [[rlhf|RLHF]] — Reinforcement Learning from Human Feedback: training pipeline aligning LLMs to human preferences via SFT, reward modeling, and PPO.
+- [[reinforcement-learning-from-human-feedback|RLHF]] — Reinforcement Learning from Human Feedback: training pipeline aligning LLMs to human preferences via SFT, reward modeling, and PPO.
 
 - [[shellcode|Shellcode]] — Small piece of position-independent machine code used as payload in software exploits.
 - [[malware-development|Malware Development]] — Process of creating software for unauthorized access, disruption, or data exfiltration.
@@ -442,7 +442,7 @@
 - [[chrome-extension|Chrome Extension]] — Browser extension modifying Chrome's functionality, built with HTML/CSS/JS and Chrome APIs.
 - [[vim-keybindings|Vim Keybindings]] — Modal editing keybindings from Vim editor, efficient for keyboard-driven workflows.
 - [[bookmark-management|Bookmark Management]] — Organizing, syncing, and managing web page bookmarks across devices.
-- [[prompting|Prompting]] — Crafting effective inputs to guide LLM outputs toward desired responses.
+- [[prompt-engineering|Prompting]] — Crafting effective inputs to guide LLM outputs toward desired responses.
 - [[double-buffering|Double Buffering]] — Hardware optimization using two buffers for simultaneous read/write, improving throughput.
 - [[pipelining|Pipelining]] — Breaking operations into stages processed in parallel, like an assembly line for hardware.
 - [[abc-parameterization|ABC Parameterization]] — Unified framework analyzing neural network parameterizations by initialization scale (a), forward multiplier (b), and learning rate multiplier (c).

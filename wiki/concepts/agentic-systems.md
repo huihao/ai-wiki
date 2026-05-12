@@ -25,6 +25,6 @@ Agentic systems are AI architectures in which language models operate as autonom
 - [[agent-loop]]
 
 ## Sources
-- [[agentic-orchestration]]
+- [[multi-agent-orchestration]]
 - [[alice-moore]]
 - [[specialist-agents]]

@@ -25,7 +25,7 @@ Interactive articles are a format of technical communication that combines writt
 ## Related Concepts
 
 - [[interactive-tutorials]]
-- [[llm-embeddings]]
+- [[embeddings]]
 
 ## Sources
 

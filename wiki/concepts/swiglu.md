@@ -21,7 +21,7 @@ Swish-Gated Linear Unit. An activation function used in modern transformer archi
 - GLU — Gated Linear Unit family of activation functions
 - Swish — self-gated activation function
 - [[comprehensive-rag-ollama-langchain|Llama]] — model using SwiGLU
-- [[feed-forward-network]] — transformer sub-layer where SwiGLU is applied
+- [[feed-forward-networks]] — transformer sub-layer where SwiGLU is applied
 
 ## Sources
 

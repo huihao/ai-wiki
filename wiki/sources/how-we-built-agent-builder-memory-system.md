@@ -26,12 +26,12 @@ The COALA paper defines three memory categories:
 Memory is represented as files, leveraging LLMs' filesystem proficiency:
 
 - **[[agents-md|AGENTS.md]]**: Core instruction set (procedural memory)
-- **[[agent-skills|Skills]]**: Specialized instructions for specific tasks (semantic memory)
+- **[[agent-skill|Skills]]**: Specialized instructions for specific tasks (semantic memory)
 - **Subagents**: Similar format to Claude Code subagents
 - **tools.json**: MCP tool subset access
 - **Knowledge files**: Arbitrary semantic memory
 
-Files stored in Postgres (virtual filesystem), exposed as filesystem to agents via [[deep-agents|Deep Agents]] harness.
+Files stored in Postgres (virtual filesystem), exposed as filesystem to agents via [[deepagents|Deep Agents]] harness.
 
 ## Concrete Example Evolution
 
@@ -73,8 +73,8 @@ Memory built through corrections, not upfront documentation.
 - [[semantic-memory]]
 - [[episodic-memory]]
 - [[agents-md]]
-- [[agent-skills]]
-- [[deep-agents]]
+- [[agent-skill]]
+- [[deepagents]]
 - [[langsmith-agent-builder]]
 - [[langchain-team]]
 - [[model-context-protocol|Model Context Protocol]]

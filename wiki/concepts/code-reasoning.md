@@ -26,7 +26,7 @@ Code reasoning is the multi-step analytical process by which CLI coding agents d
 - [[cli-coding-agents]]
 - [[code-editing]]
 - [[code-execution]]
-- [[context-engineering-for-coding-agents]]
+- [[context-engineering]]
 
 ## Sources
 

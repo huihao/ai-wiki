@@ -22,12 +22,12 @@ Context length is the primary VRAM bottleneck for consumer GPUs running large la
 ## Related Concepts
 
 - [[context-window]]
-- [[kv-caching]]
+- [[kv-cache]]
 - [[grouped-query-attention]]
 - [[gpu-throughput]]
 
 ## Sources
 
 - [[grouped-query-attention]]
-- [[kv-caching]]
+- [[kv-cache]]
 - [[ollama]]

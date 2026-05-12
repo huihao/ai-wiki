@@ -23,8 +23,8 @@ CrewAI is an open-source framework for orchestrating multi-agent AI systems, ena
 
 ## Related Concepts
 - [[agent-frameworks]] — CrewAI is one of several agent orchestration frameworks
-- [[agentic-orchestration]] — multi-agent collaboration patterns
-- [[agent-collaboration]] — agents working together with defined roles
+- [[multi-agent-orchestration]] — multi-agent collaboration patterns
+- [[multi-agent-orchestration]] — agents working together with defined roles
 - [[agentic-engineering]] — building production-grade multi-agent systems
 - [[agent-tools]] — agents in CrewAI can be equipped with external tools
 

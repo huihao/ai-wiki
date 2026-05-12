@@ -26,7 +26,7 @@ Skills.sh is a community platform and distribution hub for AI agent skills -- st
 ## Related Concepts
 
 - [[skill-md]] -- The file format that defines each skill
-- [[agent-skills]] -- The standardized capability system
+- [[agent-skill]] -- The standardized capability system
 - [[claude-code]] -- Primary agent platform supporting skills
 - [[anthropic]] -- Initiator of the Agent Skills standard
 

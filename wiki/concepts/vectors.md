@@ -21,7 +21,7 @@ A vector is a fundamental mathematical object in linear algebra representing an 
 
 ## Related Concepts
 
-- [[linear-algebra-fundamentals]] -- the broader mathematical framework for vectors and matrices
+- [[linear-algebra]] -- the broader mathematical framework for vectors and matrices
 - [[vector-embeddings]] -- dense vector representations of text, images, and other data
 - [[embedding-layers]] -- neural network layer that maps discrete tokens to vector representations
 - [[matrix]] -- two-dimensional generalization of vectors
@@ -31,5 +31,5 @@ A vector is a fundamental mathematical object in linear algebra representing an 
 
 - [[introduction-to-applied-linear-algebra]] -- Boyd and Vandenberghe's textbook covering vectors, matrices, and least squares
 - [[lieven-vandenberghe]] -- co-author of the applied linear algebra textbook
-- [[linear-algebra-fundamentals]] -- linear algebra foundations for ML and data science
+- [[linear-algebra]] -- linear algebra foundations for ML and data science
 - [[stephen-boyd]] -- Stanford professor and author of the applied linear algebra textbook

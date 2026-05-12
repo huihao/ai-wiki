@@ -43,7 +43,7 @@ A comprehensive workflow for staying current with AI research using RSS aggregat
 - [[keyword-alerts|Keyword Alerts]] — Automated filtering using predefined keywords
 - [[boolean-queries|Boolean Queries]] — Structured search queries with logical operators
 - [[literature-graph|Literature Graph]] — Network visualization of paper relationships
-- [[research-reproducibility|Research Reproducibility]] — Ensuring experiments can be replicated
+- [[reproducibility|Research Reproducibility]] — Ensuring experiments can be replicated
 - [[metric-alignment|Metric Alignment]] — Consistent evaluation across different approaches
 - [[research-workflow|Research Workflow]] — Systematic process for managing academic literature
 

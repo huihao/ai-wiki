@@ -34,7 +34,7 @@ A toy-example walkthrough of Google's TurboQuant KV-cache compression algorithm.
 ## Concepts Mentioned
 
 - [[quantization]] — Lossy compression of activations/weights to lower precision.
-- [[kv-caching|KV cache]] — The target of TurboQuant compression.
+- [[kv-cache|KV cache]] — The target of TurboQuant compression.
 - Orthogonal matrix — Used in PolarQuant to spread outlier values evenly.
 - [[max-mynter-career-blog|Lloyd-Max algorithm]] — Non-uniform quantization optimizing MSE.
 - Hadamard matrix — Binary orthogonal matrix for efficient hardware implementation.

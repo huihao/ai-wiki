@@ -25,7 +25,7 @@ The open weights vs. proprietary distinction describes the spectrum of model acc
 - [[open-source-llm]] -- Open source models as a subset of open weights offerings
 - [[llm-evaluation]] -- Benchmarking methodologies comparing open and proprietary models
 - [[llm-pricing]] -- Cost structures that differ significantly between open and proprietary
-- [[neural-scaling-laws]] -- Scaling dynamics that affect both open and proprietary model development
+- [[scaling-laws]] -- Scaling dynamics that affect both open and proprietary model development
 
 ## Sources
 

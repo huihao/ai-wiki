@@ -27,7 +27,7 @@ Deep networks are neural networks with many layers (typically dozens to thousand
 - [[self-supervised-reinforcement-learning]]
 - [[reinforcement-learning]]
 - [[representation-learning]]
-- [[neural-scaling-laws]]
+- [[scaling-laws]]
 
 ## Sources
 

@@ -21,7 +21,7 @@ Guardrails are safety, quality control, and validation mechanisms that constrain
 - [[ai-safety]] — Guardrails are a core component of AI safety engineering
 - [[ai-agent-security]] — Guardrails specifically constrain agent behavior to prevent harmful actions
 - [[agent-permissions]] — Guardrails implement permission boundaries for what agents can access and do
-- [[sandboxed-execution]] — A guardrail pattern that isolates agent code execution
+- [[sandbox-execution]] — A guardrail pattern that isolates agent code execution
 - [[prompt-injection]] — Guardrails often aim to defend against prompt injection attacks
 - [[output-validation]] — Guardrails on outputs ensure responses meet quality criteria
 - [[trust-boundaries]] — Guardrails enforce boundaries between trusted and untrusted operations

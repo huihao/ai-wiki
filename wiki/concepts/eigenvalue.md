@@ -71,7 +71,7 @@ where:
 
 ## Related Concepts
 
-- [[eigenvector|Eigenvector]]: Non-zero vector corresponding to eigenvalue
+- [[eigenvectors|Eigenvector]]: Non-zero vector corresponding to eigenvalue
 - [[pca|PCA]]: Uses eigenvalues for variance analysis
 - [[linear-algebra|Linear Algebra]]: Mathematical foundation
 - [[dimensionality-reduction|Dimensionality Reduction]]: Application domain

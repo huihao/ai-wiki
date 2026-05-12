@@ -35,7 +35,7 @@ An activation function introduces non-linearity into neural networks, enabling t
 - [[relu]] — most common modern activation
 - [[gelu]] — activation in transformers/BERT
 - [[softmax]] — output layer for classification
-- [[feed-forward-network]] — each layer has activation
+- [[feed-forward-networks]] — each layer has activation
 
 ## Sources
 

@@ -28,7 +28,7 @@ Malte Ubl is the CTO of Vercel and author of key security frameworks for AI agen
 ## Related Concepts
 
 - [[agent-security]] - Protecting AI agents
-- [[sandboxing]] - Code execution isolation
+- [[sandbox-execution]] - Code execution isolation
 - [[secrets-management]] - Credential handling
 
 ## External Links

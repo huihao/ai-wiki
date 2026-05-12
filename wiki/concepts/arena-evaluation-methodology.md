@@ -25,7 +25,7 @@ The Arena evaluation methodology is a crowdsourced approach to AI model benchmar
 ## Related Concepts
 
 - [[ai-model-comparison]]
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 - [[ai-research-data-sharing]]
 
 ## Sources

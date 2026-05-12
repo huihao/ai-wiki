@@ -37,7 +37,7 @@ Hugging Face Skills are standardized AI/ML task definitions (dataset creation, m
 
 ## Concepts Mentioned
 
-- [[agent-skills]] — Standardized capability packages for AI coding agents.
+- [[agent-skill]] — Standardized capability packages for AI coding agents.
 - SKILL.md — Metadata + instructions format.
 - [[model-context-protocol|MCP]] — Referenced via `.mcp.json` in Cursor plugin manifest.
 

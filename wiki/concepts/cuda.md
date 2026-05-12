@@ -21,7 +21,7 @@ CUDA (Compute Unified Device Architecture) is NVIDIA's parallel computing platfo
 - [[pico-gpu|GPU Kernel]] — function running on GPU
 - [[agent-builder-memory-system|Unified Memory]] — shared CPU-GPU memory space
 - [[the-ai-coding-loop-how-to-guide-ai-with-rules-and-tests|Grid-Stride Loop]] — idiomatic CUDA array processing
-- [[feed-forward-network|Thread Block]] — group of threads running on one SM
+- [[feed-forward-networks|Thread Block]] — group of threads running on one SM
 - [[Streaming Multiprocessor]] — GPU compute unit
 - [[agent-builder-memory-system|Memory Prefetching]] — proactive page migration
 - [[designing-agentic-ai-systems-web-dev|Nsight Systems]] — NVIDIA profiling tool

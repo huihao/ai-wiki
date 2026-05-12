@@ -22,7 +22,7 @@ An attention mask is a mechanism in transformer architectures that controls whic
 - [[self-attention-masks]] — detailed exploration of masking patterns in self-attention
 - [[transformers]] — the architecture in which attention masks are a core component
 - [[causal-attention]] — attention with a causal mask that prevents looking at future tokens
-- [[masked-self-attention]] — another term for causal/autoregressive attention masking
+- [[causal-attention]] — another term for causal/autoregressive attention masking
 - [[attention-mechanisms]] — the broader attention framework that masking operates within
 - [[padding-masks]] — masks that prevent attending to padded positions in batched inputs
 - [[look-ahead-masks]] — another term for causal masks in decoder-style transformers

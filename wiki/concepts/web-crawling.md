@@ -28,7 +28,7 @@ Web Crawling is the automated process of systematically browsing and extracting 
 ## Related Concepts
 
 - [[llm-extraction|LLM-based Extraction]] — Advanced content structuring
-- [[graph-knowledge-base|Graph Knowledge Base]] — Output for crawled content
+- [[knowledge-graph|Graph Knowledge Base]] — Output for crawled content
 - [[bfs-crawling|BFS Crawling]] — Breadth-first strategy for systematic traversal
 
 ## Related Entities

@@ -23,7 +23,7 @@ Optimal mistake bounds are tight theoretical limits on the number of errors a le
 
 - [[online-learning]] -- The learning paradigm where mistake bounds are defined
 - [[transductive-learning]] -- The variant where advance access to instances creates the quadratic gap
-- [[neural-scaling-laws]] -- Empirical scaling laws from the same NeurIPS 2025 awards
+- [[scaling-laws]] -- Empirical scaling laws from the same NeurIPS 2025 awards
 - [[optimization-methods]] -- Broader field of finding optimal solutions under constraints
 
 ## Sources

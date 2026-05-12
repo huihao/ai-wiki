@@ -24,7 +24,7 @@ Neural network training is the iterative process of adjusting a model's paramete
 
 - [[overfitting]] -- Failure mode where training loss decreases but generalization degrades
 - [[regularization]] -- Techniques that constrain model complexity during training
-- [[neural-scaling-laws]] -- Empirical relationships between model size, data, and compute
+- [[scaling-laws]] -- Empirical relationships between model size, data, and compute
 - [[neural-architecture-search]] -- Automating the design of architectures to be trained
 
 ## Sources

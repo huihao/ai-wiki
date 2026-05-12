@@ -24,7 +24,7 @@ Adversarial training is a defense technique where neural networks are explicitly
 
 - [[adversarial-attacks]]
 - [[alexnet]]
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 
 ## Sources
 

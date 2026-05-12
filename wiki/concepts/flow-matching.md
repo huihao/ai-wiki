@@ -52,7 +52,7 @@ z_s = z_t + û · (s - t)
 
 - [[diffusion-models]]
 - [[generative-modeling]]
-- [[ddim-sampler]]
+- [[ddim]]
 - [[sampling-strategies]]
 
 ## Key Sources

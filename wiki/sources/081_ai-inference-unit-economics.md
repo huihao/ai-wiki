@@ -57,6 +57,6 @@ Guest post analyzing the emerging unit economics crisis in AI: products scale li
 - [[quantization]] — reducing numerical precision (FP16→INT8/INT4) to shrink models and speed inference
 - [[speculative-decoding]] — small draft model proposes tokens, large model verifies in batches
 - [[kv-cache]] — key-value cache storing attention state across layers
-- [[unit-economics]] — per-unit revenue vs. cost analysis for business viability
+- [[inference-cost]] — per-unit revenue vs. cost analysis for business viability
 - [[vllm]] — high-throughput LLM serving engine with PagedAttention
 - [[sglang]] — LLM serving framework with RadixAttention

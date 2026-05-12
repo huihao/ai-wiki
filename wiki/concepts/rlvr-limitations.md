@@ -27,7 +27,7 @@ RLVR (Reinforcement Learning with Verifiable Rewards) limitations refer to the f
 - [[reinforcement-learning-from-human-feedback]] -- Reinforcement Learning from Human Feedback, the broader training paradigm
 - [[reward-model]] -- The learned proxy for human judgment used in RLHF
 - [[reasoning-capacity]] -- The genuine ability to solve novel problems
-- [[neural-scaling-laws]] -- Related question of how model capabilities grow with scale
+- [[scaling-laws]] -- Related question of how model capabilities grow with scale
 
 ## Sources
 

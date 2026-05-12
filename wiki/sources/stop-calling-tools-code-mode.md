@@ -106,7 +106,7 @@ CodeMode is a transform that:
 - [[sequential-calling|Sequential Calling]] — Traditional one-at-a-time tool invocation
 - [[discovery-tools|Discovery Tools]] — Mechanisms to find relevant tools
 - [[detail-levels|Detail Levels]] — Tunable information granularity
-- [[sandboxed-execution|Sandboxed Execution]] — Isolated Python runtime
+- [[sandbox-execution|Sandboxed Execution]] — Isolated Python runtime
 - [[progressive-disclosure|Progressive Disclosure]] — Loading information as needed
 - [[transforms|Transforms]] — Pipeline modifications in FastMCP
 

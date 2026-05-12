@@ -39,7 +39,7 @@ Practical guide to implementing Harness Engineering using a minimal Go project (
 - [[agent-skill]] — Skills as SOPs for AI agents
 - [[agent-rules]] — Rules as soft constraints/policies
 - [[subagents]] — role division for complex systems
-- [[agent-coordination]] — multi-agent orchestration patterns
+- [[multi-agent-orchestration]] — multi-agent orchestration patterns
 
 ## Questions / Follow-ups
 

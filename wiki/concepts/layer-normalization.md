@@ -22,7 +22,7 @@ A normalization technique that normalizes across the embedding dimensions of a s
 
 - [[layer-normalization|Batch normalization]] — normalizes across the batch; less suitable for transformers
 - [[rmsnorm]] — simplified variant without mean-centering
-- [[feed-forward-network]] — the other major transformer sub-layer
+- [[feed-forward-networks]] — the other major transformer sub-layer
 - [[transformers]] — how attention, normalization, and FFN compose
 - [[residual-connections]] — paired with LayerNorm for gradient flow
 

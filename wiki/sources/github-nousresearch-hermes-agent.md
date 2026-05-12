@@ -43,7 +43,7 @@ Hermes Agent is a self-improving AI agent from Nous Research with a built-in lea
 ## Concepts Mentioned
 
 - [[github-nousresearch-hermes-agent|Hermes Agent]] — self-improving AI agent with learning loop
-- [[agent-skills|Skills]] — auto-created and self-improving capabilities
+- [[agent-skill|Skills]] — auto-created and self-improving capabilities
 - [[model-context-protocol|MCP]] — tool integration standard
 - [[goedel-code-prover-hierarchical-proof-search|Session search]] — FTS5-based cross-session recall
 - [[openclaw|OpenClaw migration]] — importing settings, memories, skills

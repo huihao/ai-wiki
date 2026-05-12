@@ -19,7 +19,7 @@ A skill marketplace is a platform for discovering, publishing, and installing ag
 
 ## Related Concepts
 
-- [[agent-skills|Agent Skills]] — Packages distributed through marketplace
+- [[agent-skill|Agent Skills]] — Packages distributed through marketplace
 - [[agent-extensibility|Agent Extensibility]] — Problem solved by marketplace
 
 ## Sources

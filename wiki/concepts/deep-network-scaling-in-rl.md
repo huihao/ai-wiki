@@ -24,7 +24,7 @@ Deep network scaling in reinforcement learning refers to the discovery that very
 ## Related Concepts
 
 - [[self-supervised-reinforcement-learning]]
-- [[neural-scaling-laws]]
+- [[scaling-laws]]
 - [[deep-networks]]
 - [[reinforcement-learning]]
 - [[representation-learning]]

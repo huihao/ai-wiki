@@ -78,7 +78,7 @@ Part of [[procedural-memory]] (COALA framework).
 
 - [[agent-memory]] — Memory systems for AI agents
 - [[procedural-memory]] — COALA framework memory type
-- [[agent-skills]] — Semantic memory counterpart
+- [[agent-skill]] — Semantic memory counterpart
 - [[context-engineering|Coding agents]] — primary users of AGENTS.md
 - [[context-engineering|Agentic context engineering]] — dynamic alternatives
 - [[prompt-engineering]] — system prompt design

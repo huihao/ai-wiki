@@ -149,7 +149,7 @@ Separate cognitive responsibilities:
 - [[sdd-riper-team-guide]] — team adoption framework
 - [[hermes-self-improving]] — learning agent implementation
 - [[creao-ai-first-team]] — startup transformation
-- [[auto-memory-tool]] — memory/recall component
+- [[auto-memory]] — memory/recall component
 - [[bitter-lesson-ai-native]] — philosophical implications
 - [[full-ai-automation-workflow]] — end-to-end automation
 

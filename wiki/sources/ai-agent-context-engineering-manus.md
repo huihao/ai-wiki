@@ -44,7 +44,7 @@ Manus's co-founder shares hard-won lessons from rebuilding their agent framework
 ## Concepts Mentioned
 
 - [[context-engineering]] — shaping agent behavior through context design
-- [[kv-caching|KV Cache]] — prefix caching for cost/latency reduction
+- [[kv-cache|KV Cache]] — prefix caching for cost/latency reduction
 - [[latent-space|Action Space Masking]] — constraining tool choice without removing definitions
 - [[context-engineering|Filesystem as Context]] — using files as external memory
 - [[self-attention|Attention Manipulation]] — reiterating goals to keep them in focus

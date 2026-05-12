@@ -66,7 +66,7 @@ Announcement of NeurIPS 2025 Best Paper Awards recognizing seven groundbreaking 
 - [[transductive-online-learning|Transductive Online Learning]] — Online learning with advance access to unlabeled instance sequence
 - [[optimal-mistake-bounds|Optimal Mistake Bounds]] — Tight theoretical bounds on learning mistakes (Ω(√d) for transductive case)
 - [[representation-superposition|Representation Superposition]] — LLMs representing more features than they have dimensions
-- [[neural-scaling-laws|Neural Scaling Laws]] — Empirical patterns where loss decreases as power law with model/dataset/compute size
+- [[scaling-laws|Neural Scaling Laws]] — Empirical patterns where loss decreases as power law with model/dataset/compute size
 - [[llm-diversity-evaluation|LLM Diversity Evaluation]] — Benchmarking language model output variety and heterogeneity
 - [[mode-collapse-in-llms|Mode Collapse in LLMs]] — Tendency of LLMs to generate similar outputs repeatedly
 

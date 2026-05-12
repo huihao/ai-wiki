@@ -25,7 +25,7 @@ Widely adopted in modern models like LLaMA-2/3, Mistral, and Qwen, GQA is a key 
 
 - [[multi-head-attention-from-scratch|Multi-head attention]] — the full-attention baseline
 - [[multi-head-latent-attention]] — alternative compression approach using latent representations
-- [[kv-caching|KV cache]] — the memory bottleneck GQA targets
+- [[kv-cache|KV cache]] — the memory bottleneck GQA targets
 - [[sliding-window-attention]] — often used together with GQA
 - [[inference-optimization]] — broader class of techniques
 

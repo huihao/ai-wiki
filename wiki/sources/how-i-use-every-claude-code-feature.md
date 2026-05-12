@@ -40,7 +40,7 @@ A comprehensive brain dump of advanced Claude Code usage patterns from a develop
 
 - [[claude-code-source-leak-harness|Claude Code]] — terminal-based AI coding agent
 - CLAUDE.md — project context file / agent constitution
-- [[agent-skills]] — SKILL.md formalization of scripting-based agents
+- [[agent-skill]] — SKILL.md formalization of scripting-based agents
 - [[model-context-protocol]] — protocol for LLM tool integration
 - [[subagents]] — delegated agent tasks
 - [[hooks]] — deterministic rules for agent behavior

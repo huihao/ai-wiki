@@ -22,7 +22,7 @@ GPU memory bandwidth is the rate at which data can be read from or written to th
 ## Related Concepts
 - [[gpu]]
 - [[grid-stride-loops]]
-- [[gpu-inference]]
+- [[llm-inference]]
 
 ## Sources
 - [[an-even-easier-introduction-to-cuda]]

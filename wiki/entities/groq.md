@@ -25,7 +25,7 @@ Groq is an AI hardware and infrastructure company known for its Language Process
 
 ## Related Concepts
 - [[llm-inference]] — Groq specializes in inference optimization
-- [[llm-inference-optimization]] — LPU is a hardware-level approach to inference acceleration
+- [[llm-inference]] — LPU is a hardware-level approach to inference acceleration
 - [[ai-chips]] — Groq is a key player in the custom AI accelerator space
 
 ## Sources

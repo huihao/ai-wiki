@@ -37,7 +37,7 @@ A detailed matrix-level explanation of how padding masks and look-ahead (causal)
 - Padding mask — handling variable-length sequences in batches
 - [[self-attention|Causal mask]] — look-ahead mask for autoregressive generation
 - [[softmax|Softmax masking]] — using -∞ to zero out attention weights
-- [[feed-forward-network|Transformer layers]] — why masks persist across layers
+- [[feed-forward-networks|Transformer layers]] — why masks persist across layers
 
 ## Raw Notes
 

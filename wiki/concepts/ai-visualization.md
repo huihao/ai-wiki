@@ -23,7 +23,7 @@ AI visualization is the practice of creating visual representations of AI model 
 
 ## Related Concepts
 
-- [[ai-benchmarks]]
+- [[llm-benchmarks]]
 - [[ai-model-comparison]]
 - [[ai-knowledge-base]]
 

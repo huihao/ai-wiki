@@ -38,7 +38,7 @@ A comprehensive tutorial explaining transformer architecture from first principl
 - [[positional-encoding]] -- adding position information to permutation-invariant attention
 - [[queries-keys-values]] -- three roles each input vector plays in self-attention
 - [[layer-normalization]] -- normalization applied over embedding dimensions
-- [[feed-forward-network]] -- position-wise fully connected network applied after attention
+- [[feed-forward-networks]] -- position-wise fully connected network applied after attention
 
 ## Raw Notes
 

@@ -37,7 +37,7 @@ The Agent Skills Directory is a platform for discovering and installing skills f
 
 ## Concepts Mentioned
 
-- [[agent-skills|Agent Skills]] — Installable capability extensions for AI agents
+- [[agent-skill|Agent Skills]] — Installable capability extensions for AI agents
 - [[skill-marketplace|Skill Marketplace]] — Platform for discovering and installing agent skills
 - [[agent-extensibility|Agent Extensibility]] — Mechanism for adding capabilities to AI agents
 

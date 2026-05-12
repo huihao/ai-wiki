@@ -20,9 +20,9 @@ The Epoch Capability Index is a composite benchmark metric maintained by Epoch A
 - [[epoch-ai]] — organization that maintains the index
 
 ## Related Concepts
-- [[ai-benchmarks]] — the individual benchmarks that compose the index
+- [[llm-benchmarks]] — the individual benchmarks that compose the index
 - [[benchmarking]] — methodology behind composite scoring
-- [[ai-model-benchmarking]] — comparison of models using the index
+- [[llm-benchmarks]] — comparison of models using the index
 - [[crowdsourced-benchmarking]] — alternative benchmarking approaches
 
 ## Sources

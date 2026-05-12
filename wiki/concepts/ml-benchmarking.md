@@ -25,7 +25,7 @@ ML benchmarking is the practice of evaluating and comparing machine learning mod
 
 - [[machine-learning-datasets]] -- Curated data collections for ML tasks
 - [[uc-irvine-machine-learning-repository]] -- Foundational dataset archive since 1987
-- [[research-reproducibility]] -- Ensuring experiments can be replicated
+- [[reproducibility]] -- Ensuring experiments can be replicated
 
 ## Sources
 

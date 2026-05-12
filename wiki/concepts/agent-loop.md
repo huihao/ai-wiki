@@ -60,7 +60,7 @@ Concurrent agent execution with planner-worker hierarchy, coordination via locks
 
 ## Related Concepts
 - [[coding-agent]]
-- [[agentsmd]]
+- [[agents-md]]
 - [[auto-memory]]
 - [[context-bloat]]
 

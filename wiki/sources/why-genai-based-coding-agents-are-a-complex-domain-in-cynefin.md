@@ -36,7 +36,7 @@ Chris Richardson applies the Cynefin framework to argue that using GenAI coding 
 
 ## Concepts Mentioned
 
-- [[cynefin-framework]] — model for understanding problem domains
+- [[cynefin]] — model for understanding problem domains
 - [[why-genai-based-coding-agents-are-a-complex-domain-in-cynefin|Complex domain]] — cause and effect only understood in retrospect
 - [[context-engineering]] — crafting prompts, skills, guardrails
 - [[how-to-scale-your-model|Fast-flow development model]] — designed for experimentation

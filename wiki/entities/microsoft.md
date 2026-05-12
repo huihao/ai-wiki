@@ -27,7 +27,7 @@ Microsoft is a technology corporation with significant investments in AI through
 
 - [[small-language-models]] — Phi family
 - [[answer-ai-source|AI productivity]] — Copilot ecosystem
-- [[agent-skills|Agent Skills]] — Major provider with millions of skill installations
+- [[agent-skill|Agent Skills]] — Major provider with millions of skill installations
 - [[skill-marketplace|Skill Marketplace]] — Active contributor to skills.sh directory
 
 ## Sources

@@ -23,4 +23,4 @@ Activation quantization is a model compression technique that reduces the numeri
 
 ## Sources
 - [[ai-insights-blog-avichala]]
-- [[llm-inference-optimization]]
+- [[llm-inference]]

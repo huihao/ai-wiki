@@ -26,7 +26,7 @@ Self-supervised learning is a machine learning paradigm where models learn usefu
 - [[deep-learning]] — self-supervised learning is a subfield of deep learning
 - [[llm-training]] — large language model training begins with self-supervised pretraining
 - [[language-modeling]] — language modeling is the self-supervised pretext task for text
-- [[masked-self-attention]] — BERT-style masked token prediction as a self-supervised objective
+- [[causal-attention]] — BERT-style masked token prediction as a self-supervised objective
 - [[embeddings]] — self-supervised learning learns useful token and sentence embeddings
 
 ## Related Entities

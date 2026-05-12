@@ -21,7 +21,7 @@ PyTorch's mechanism for routing tensor operation calls to the correct kernel imp
 
 ## Related Concepts
 
-- [[tensor-storage-architecture]] — Underlying data model for dispatched operations
+- [[tensor-storage]] — Underlying data model for dispatched operations
 - [[automatic-differentiation]] — Variable dispatch records backward pass info
 
 ## Sources

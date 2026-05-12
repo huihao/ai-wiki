@@ -41,7 +41,7 @@ Detailed exploration of the attention mechanism that powers transformer architec
 - [[scaled-dot-product-attention]] - faster and more space-efficient than additive attention
 - [[positional-encoding]] - sinusoidal functions to inject position information
 - [[encoder-decoder-architecture]] - transformer's sequence-to-sequence structure
-- [[masked-attention]] - preventing access to future tokens during decoding
+- [[causal-attention]] - preventing access to future tokens during decoding
 - [[residual-connections]] - shortcuts that help gradient flow and preserve positional info
 - [[co-reference-resolution]] - example use case for understanding context
 

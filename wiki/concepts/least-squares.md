@@ -22,7 +22,7 @@ The least squares method is a mathematical optimization technique that finds the
 
 ## Related Concepts
 
-- [[linear-algebra-fundamentals]] -- the mathematical foundation for least squares
+- [[linear-algebra]] -- the mathematical foundation for least squares
 - [[interactive-linear-algebra]] -- visual and interactive approach to understanding least squares
 - [[introduction-to-applied-linear-algebra]] -- textbook centered on vectors, matrices, and least squares
 
@@ -31,5 +31,5 @@ The least squares method is a mathematical optimization technique that finds the
 - [[interactive-linear-algebra]]
 - [[introduction-to-applied-linear-algebra]]
 - [[lieven-vandenberghe]]
-- [[linear-algebra-fundamentals]]
+- [[linear-algebra]]
 - [[stephen-boyd]]

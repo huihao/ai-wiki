@@ -23,11 +23,11 @@ Code execution in AI coding agents refers to running LLM-generated code within i
 
 ## Related Concepts
 
-- [[sandboxed-execution]]
+- [[sandbox-execution]]
 - [[code-editing]]
 - [[code-reasoning]]
 - [[ai-agent-security]]
 
 ## Sources
 
-- [[sandboxed-execution]]
+- [[sandbox-execution]]

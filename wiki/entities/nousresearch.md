@@ -28,7 +28,7 @@ Nous Research is an AI research organization known for open-source model trainin
 ## Related Concepts
 
 - [[self-improving-agent]] — Hermes's core innovation
-- [[agent-skills|Skills]] — auto-created and self-improving capabilities
+- [[agent-skill|Skills]] — auto-created and self-improving capabilities
 - [[goedel-code-prover-hierarchical-proof-search|Session search]] — FTS5-based cross-session recall
 
 ## Sources

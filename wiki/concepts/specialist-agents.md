@@ -44,7 +44,7 @@ Specialist agents don't replace general LLMs:
 ## Related Concepts
 
 - [[agentic-systems]]
-- [[agentic-orchestration]]
+- [[multi-agent-orchestration]]
 - [[agent-evaluation]]
 
 ## Key Sources

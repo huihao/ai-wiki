@@ -24,7 +24,7 @@ Prime is the author behind Agent Airforce, a publication documenting tools and p
 ## Related Concepts
 
 - [[subagents|Subagents]] — core expertise area
-- [[multi-agent-systems|Multi-agent systems]] — architectural patterns
+- [[multi-agent-orchestration|Multi-agent systems]] — architectural patterns
 - [[agents-md|AGENTS.md]] — context engineering
 - [[context-engineering-coding-agents|Context engineering]] — broader framework
 

@@ -41,7 +41,7 @@ A comprehensive Chinese guide to designing, governing, and deploying Agent Tools
 - [[agent-tools-guide-rejecting-complexity-fragmentation-black-box|Agent Tools]] — LLM-accessible capabilities
 - [[model-context-protocol|MCP]] — tool integration standard
 - AgentKit — enterprise agent tool platform
-- [[agent-skills|Skills]] — reusable, managed capability packages
+- [[agent-skill|Skills]] — reusable, managed capability packages
 - Zero Trust — security model for agent tool calls
 - [[chain-of-thought|Delegation Chain]] — verifiable identity linkage across calls
 - [[self-attention|Self-healing tools]] — structured error recovery

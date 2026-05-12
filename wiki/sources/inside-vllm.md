@@ -87,7 +87,7 @@ A comprehensive technical deep-dive into vLLM's architecture, from basic engine 
 - [[disaggregated-prefill-decode]] — architecture separation
 - [[tensor-parallelism]] — model sharding across GPUs
 - [[pipeline-parallelism]] — multi-node distribution
-- [[kv-caching]] — memory optimization
+- [[kv-cache]] — memory optimization
 - [[cuda-unified-memory]] — similar paging principles
 - [[flash-attention]] — kernel optimization
 - [[roofline-model]] — performance analysis framework

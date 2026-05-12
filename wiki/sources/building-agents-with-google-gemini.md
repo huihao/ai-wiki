@@ -56,7 +56,7 @@ Choice depends on specific requirements:
 ## Related Concepts
 
 - [[ai-agents]]
-- [[multi-agent-systems]]
+- [[multi-agent-orchestration]]
 - [[function-calling]]
 - [[retrieval-augmented-generation]]
 - [[knowledge-agents]]

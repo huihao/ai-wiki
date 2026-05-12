@@ -21,7 +21,7 @@ Hallucination (also called confabulation) in AI refers to when a language model 
 ## Related Concepts
 
 - [[large-language-models]] — the model class in which hallucination is most commonly observed
-- [[next-word-prediction]] — the generative mechanism whose statistical nature causes hallucination
+- [[next-token-prediction]] — the generative mechanism whose statistical nature causes hallucination
 - [[context-window]] — methods using retrieval within the context window can reduce hallucination
 - [[retrieval-augmented-generation|retrieval-augmented generation (RAG)]] — grounding model output in retrieved documents to reduce hallucination
 - [[hallucination-translation-arxiv]] — research on hallucination in machine translation

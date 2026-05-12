@@ -24,7 +24,7 @@ Model versioning is the practice of tracking, managing, and comparing different 
 
 ## Related Concepts
 
-- [[model-benchmarks]]
+- [[llm-benchmarks]]
 - [[model-evaluation]]
 - [[crowdsourced-benchmarking]]
 - [[reasoning-llms]]

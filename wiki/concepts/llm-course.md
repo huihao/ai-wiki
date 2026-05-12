@@ -24,7 +24,7 @@ An LLM Course is a structured educational resource for learning about large lang
 ## Related Concepts
 
 - [[llm]]
-- [[masked-self-attention]]
+- [[causal-attention]]
 - [[matrix-calculus]]
 
 ## Sources

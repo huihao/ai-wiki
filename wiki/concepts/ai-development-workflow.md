@@ -20,7 +20,7 @@ AI development workflow refers to the set of practices, anti-patterns, and team-
 
 ## Related Concepts
 - [[coding-agent]]
-- [[agentsmd]]
+- [[agents-md]]
 - [[ai-in-education]]
 
 ## Sources

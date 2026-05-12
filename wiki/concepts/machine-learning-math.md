@@ -31,4 +31,4 @@ Machine learning math is the collection of mathematical foundations required to 
 ## Sources
 
 - [[introduction-to-applied-linear-algebra]]
-- [[linear-algebra-fundamentals]]
+- [[linear-algebra]]

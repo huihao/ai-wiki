@@ -56,7 +56,7 @@ A comprehensive visual survey of attention mechanisms used in modern open-weight
 - [[deepseek-sparse-attention]] — Learned sparse attention pattern using an indexer and token selector.
 - [[self-attention|Gated attention]] — Modified full-attention block with output gates and zero-centered QK-Norm for stability in hybrid stacks.
 - [[hybrid-attention]] — Replacing most attention layers with cheaper linear or state-space modules.
-- [[kv-caching|KV cache]] — Stored key and value tensors during autoregressive inference; a major memory bottleneck.
+- [[kv-cache|KV cache]] — Stored key and value tensors during autoregressive inference; a major memory bottleneck.
 - [[positional-encoding|Linear attention]] — Attention variants with linear-time complexity, e.g., Lightning Attention, DeltaNet.
 - [[pytorch|State-space models]] — Mamba-2 and related sequence models used as alternatives to attention.
 

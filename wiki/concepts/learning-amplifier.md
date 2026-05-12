@@ -22,7 +22,7 @@ A learning amplifier is a platform or system that accelerates an organization's 
 
 ## Related Concepts
 
-- [[cynefin-framework]]
+- [[cynefin]]
 - [[safe-to-fail-experiments]]
 - [[complex-domain]]
 

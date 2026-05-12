@@ -21,7 +21,7 @@ A research workflow is a systematic process for discovering, filtering, reading,
 - [[rss-aggregation|RSS Aggregation]] — Discovery mechanism
 - [[boolean-queries|Boolean Queries]] — Filtering technique
 - [[literature-graph|Literature Graph]] — Topic exploration
-- [[research-reproducibility|Research Reproducibility]] — Knowledge capture
+- [[reproducibility|Research Reproducibility]] — Knowledge capture
 - [[metric-alignment|Metric Alignment]] — Comparison framework
 
 ## Sources

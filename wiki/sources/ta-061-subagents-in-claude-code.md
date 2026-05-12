@@ -57,7 +57,7 @@ Prime from Agent Airforce explains Claude Code's subagents feature - specialized
 - [[subagents|Subagents]] — core subject
 - [[context-engineering-coding-agents|Context engineering]] — solves pollution problem
 - [[agents-md|AGENTS.md]] — where subagent configurations live
-- [[multi-agent-systems|Multi-agent systems]] — architectural pattern
+- [[multi-agent-orchestration|Multi-agent systems]] — architectural pattern
 - [[context-window|Context window]] — management challenge
 
 ## Practical Tips

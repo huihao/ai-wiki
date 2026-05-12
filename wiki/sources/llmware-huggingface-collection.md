@@ -48,7 +48,7 @@ GitHub: [llmware-ai/llmware](https://github.com/llmware-ai/llmware)
 - [[enterprise-rag|Enterprise RAG]]
 - [[inference-optimization|Inference Optimization]]
 - [[quantization|Quantization]] (OpenVINO, ONNX, GGUF)
-- [[multi-agent-systems|Multi-agent Systems]]
+- [[multi-agent-orchestration|Multi-agent Systems]]
 - [[distillation|Distillation]] (SLIM models)
 - [[rag-optimization|RAG Optimization]]
 - [[model-deployment|Model Deployment]]

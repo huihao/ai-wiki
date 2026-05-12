@@ -46,7 +46,7 @@ A comprehensive architectural breakdown of Transformers paired with a step-by-st
 - [[self-attention]] — Query-Key-Value mechanism and attention scores.
 - [[multi-head-attention-from-scratch|Multi-head attention]] — Parallel attention heads in different subspaces.
 - [[layer-normalization]] — Stabilizes deep networks.
-- [[feed-forward-network]] — Per-token transformation after attention.
+- [[feed-forward-networks]] — Per-token transformation after attention.
 - [[softmax]] — Normalization for attention weights.
 - [[self-attention|Causal attention]] — Masking future positions in decoder-only models.
 - [[model-scaling|Scaling laws]] — Predictable relationship between model size and performance.

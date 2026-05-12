@@ -24,11 +24,11 @@ Shared context in agentic orchestration refers to the common state, information,
 
 ## Related Concepts
 
-- [[agentic-orchestration]] -- The coordination framework that manages shared context
-- [[multi-agent-systems]] -- Systems requiring shared context for coordination
+- [[multi-agent-orchestration]] -- The coordination framework that manages shared context
+- [[multi-agent-orchestration]] -- Systems requiring shared context for coordination
 - [[agent-memory]] -- Persistent memory that contributes to shared context
 - [[backlinks]] -- Connections between related knowledge items in wikis
 
 ## Sources
 
-- [[agentic-orchestration]]
+- [[multi-agent-orchestration]]

@@ -52,7 +52,7 @@ A technical yet accessible explanation of backpropagation, the cornerstone algor
 - [[dropout]] — regularization for overfitting
 - [[activation-function|Activation Function]] — sigmoid, ReLU derivatives
 - [[chain-rule|Chain Rule]] — mathematical foundation
-- [[feed-forward-network|Feed-Forward Network]] — network type
+- [[feed-forward-networks|Feed-Forward Network]] — network type
 - [[xor-problem|XOR Problem]] — classic example implementation
 
 ## Questions / Follow-ups

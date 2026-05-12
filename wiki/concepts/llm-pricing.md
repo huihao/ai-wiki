@@ -32,5 +32,5 @@ LLM pricing refers to the cost structures charged by AI providers for accessing 
 ## Sources
 
 - [[ai-leaderboard-2026]]
-- [[ai-model-benchmarking]]
+- [[llm-benchmarks]]
 - [[llm-leaderboard-comparison-100-models]] — detailed pricing comparison across 100+ models

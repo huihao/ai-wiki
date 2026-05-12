@@ -23,8 +23,8 @@ GPT-Neo is an open-source large language model series developed by EleutherAI as
 ## Related Concepts
 
 - [[gpt-2]]
-- [[llm-embeddings]]
-- [[masked-attention]]
+- [[embeddings]]
+- [[causal-attention]]
 
 ## Sources
 

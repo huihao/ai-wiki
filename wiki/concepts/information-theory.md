@@ -28,7 +28,7 @@ Information theory is the mathematical study of the quantification, storage, and
 - [[byte-pair-encoding|BPE]] — tokenization algorithm that uses information-theoretic compression principles
 - [[conditional-probability]] — a core concept in information theory underlying prediction and language modeling
 - [[probability]] — the mathematical foundation upon which information theory is built
-- [[next-word-prediction]] — language model training objective closely related to minimizing cross-entropy
+- [[next-token-prediction]] — language model training objective closely related to minimizing cross-entropy
 
 ## Related Entities
 

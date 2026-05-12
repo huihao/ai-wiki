@@ -37,7 +37,7 @@ A Chinese-language analysis arguing that Skills are underwhelming in single-purp
 
 ## Concepts Mentioned
 
-- [[agent-skills]] — Reusable capability packages.
+- [[agent-skill]] — Reusable capability packages.
 - [[context-engineering]] — Designing how information flows into agent context windows.
 - [[progressive-disclosure]] — Loading skill details only when needed.
 - [[8-factor-agent-breakdown|Enterprise agent platforms]] — Multi-domain, multi-user agent systems.

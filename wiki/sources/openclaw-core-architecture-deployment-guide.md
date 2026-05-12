@@ -45,7 +45,7 @@ A detailed Chinese guide to OpenClaw's core architecture, communication mechanis
 - [[8-factor-agent-breakdown|Agent workspace]] — configuration files defining agent identity
 - sessions_send — agent-to-agent messaging via existing sessions
 - sessions_spawn — subagent delegation
-- [[agent-skills|Skills]] — progressively disclosed capabilities
+- [[agent-skill|Skills]] — progressively disclosed capabilities
 - [[chrome-devtools-mcp-debug-browser-session|Session compaction]] — summarizing old messages
 - [[chrome-devtools-mcp-debug-browser-session|Session pruning]] — temporary removal of old tool results
 

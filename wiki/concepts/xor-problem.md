@@ -24,7 +24,7 @@ The XOR problem is a classic example demonstrating the limitations of single-lay
 
 - [[backpropagation]] -- the algorithm used to train networks that solve XOR
 - [[activation-function|Activation Functions]] -- sigmoid/ReLU non-linearity required for the solution
-- [[feed-forward-network|Feed-Forward Network]] -- the architecture used to solve XOR
+- [[feed-forward-networks|Feed-Forward Network]] -- the architecture used to solve XOR
 - [[vanishing-gradients|Vanishing Gradients]] -- a challenge when training on deeper variants
 
 ## Sources

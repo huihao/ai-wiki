@@ -44,7 +44,7 @@ A deep technical investigation into why LLM inference is nondeterministic even a
 - [[defeating-nondeterminism-llm-inference|LLM Inference]] — core topic
 - Batch Invariance — property that kernel output should not depend on batch size
 - Floating-Point Non-Associativity — root cause of numerical differences
-- [[kv-caching|KV Cache]] — attention cache management
+- [[kv-cache|KV Cache]] — attention cache management
 - Split-K Matmul — parallelism strategy that breaks batch invariance
 - FlashDecode — fast decoding attention kernel
 - [[triton-inference-server|Deterministic Inference]] — reproducible LLM outputs

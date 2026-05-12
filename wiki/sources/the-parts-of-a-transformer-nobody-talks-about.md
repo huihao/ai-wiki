@@ -37,7 +37,7 @@ An accessible explanation of two under-appreciated Transformer components: Layer
 
 - [[layer-normalization]] — Normalizes per-token embedding vector to mean=0, std=1.
 - [[layer-normalization|Batch normalization]] — Normalizes across the batch; less suitable for Transformers.
-- [[feed-forward-network]] — Two-layer MLP with activation that transforms each token independently.
+- [[feed-forward-networks]] — Two-layer MLP with activation that transforms each token independently.
 - [[residual-connections]] — Adds the input to the sub-layer output.
 - [[relu]] — Original Transformer activation; hard zero cutoff.
 - [[gelu]] — Smoother modern activation.

@@ -18,7 +18,7 @@ A memory management technique for LLM inference that divides the KV cache into f
 
 ## Related Concepts
 
-- [[kv-caching|KV cache]] — the cached key and value tensors that paged attention manages
+- [[kv-cache|KV cache]] — the cached key and value tensors that paged attention manages
 - [[continuous-batching]] — often used alongside paged attention for throughput gains
 - [[improving-gpu-memory-oversubscription-performance|GPU memory]] — the resource paged attention optimizes
 - [[transformers|Transformer]] — the architecture whose inference benefits from paged attention

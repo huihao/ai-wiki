@@ -61,7 +61,7 @@ Distill was a machine learning publication focused on clear, interactive explana
 - [[graph-neural-networks]] — building blocks and design choices
 - [[temporal-difference-learning]] — reinforcement learning concept
 - [[connectionist-temporal-classification]] — sequence learning algorithm
-- [[momentum-in-optimization]] — understanding gradient descent variants
+- [[momentum]] — understanding gradient descent variants
 - [[interactive-articles]] — article format combining code, math, and visualizations
 
 ## Notable Articles

@@ -25,7 +25,7 @@ Avi Chawla is the author of "Anatomy of the .claude/ Folder," a comprehensive gu
 ## Related Concepts
 
 - [[claude-md]]
-- [[agent-skills]]
+- [[agent-skill]]
 
 ## Sources
 

@@ -37,7 +37,7 @@ Crawl4AI is an open-source web crawling and scraping framework built specificall
 
 - [[web-crawling|Web Crawling]] — Core functionality
 - [[llm-extraction|LLM-based Extraction]] — Key extraction strategy
-- [[graph-knowledge-base|Graph Knowledge Base]] — Output use case
+- [[knowledge-graph|Graph Knowledge Base]] — Output use case
 - [[retrieval-augmented-generation|Retrieval Augmented Generation]] — Application for extracted data
 
 ## Sources

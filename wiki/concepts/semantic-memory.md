@@ -19,7 +19,7 @@ Stores domain-specific knowledge, terminology, entities, and factual information
 
 In [[langsmith-agent-builder|LangSmith Agent Builder]]:
 
-- [[agent-skills|Skills]] files: Specialized instructions for specific tasks
+- [[agent-skill|Skills]] files: Specialized instructions for specific tasks
 - Knowledge files: Arbitrary factual information
 - Domain-specific terminology files
 
@@ -45,7 +45,7 @@ Agent can read and edit semantic memory during work ("in the hot path"):
 - [[agent-memory]]
 - [[procedural-memory]]
 - [[episodic-memory]]
-- [[agent-skills]]
+- [[agent-skill]]
 - [[langsmith-agent-builder]]
 
 ## Sources

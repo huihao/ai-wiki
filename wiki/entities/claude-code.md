@@ -46,7 +46,7 @@ In March 2026, portions of its source code leaked, shifting community focus from
 - [[8-factor-agent-breakdown|Agent teams]] — parallel multi-session coordination
 - [[genai-output-control-design-patterns|Deterministic Control]] — system-layer enforcement in Claude Code's architecture
 - [[the-real-ai-coding-skill-isnt-prompting-its-architecture|Permission Architecture]] — tiered permission model for agent autonomy
-- [[agent-skills]] — lazy-loaded context modules
+- [[agent-skill]] — lazy-loaded context modules
 
 ## Sources
 

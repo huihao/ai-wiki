@@ -31,5 +31,5 @@ An interactive online textbook for Georgia Tech's Math 1553 course, covering lin
 - [[linear-algebra]] — core mathematical subject
 - [[eigenvalue]] — eigenvalue problems and their geometric interpretation
 - [[least-squares]] — best-fit solutions for overdetermined systems
-- [[linear-algebra-fundamentals|Systems of linear equations]] — foundational topic
+- [[linear-algebra|Systems of linear equations]] — foundational topic
 - [[machine-learning]] — implicit connection through applied examples

@@ -116,7 +116,7 @@ Combines separate compute with secret injection proxy.
 
 - [[agent-security]] - Protecting AI agents from attacks
 - [[prompt-injection]] - Manipulating agent behavior through inputs
-- [[sandboxing]] - Isolating code execution environments
+- [[sandbox-execution]] - Isolating code execution environments
 - [[secrets-management]] - Secure credential handling
 - [[agent-architecture]] - Designing agent systems
 - [[trust-boundaries]] - Security context separation

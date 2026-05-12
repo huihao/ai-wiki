@@ -22,7 +22,7 @@ A matrix is a rectangular array of numbers arranged in rows and columns, serving
 
 ## Related Concepts
 
-- [[linear-algebra-fundamentals]]
+- [[linear-algebra]]
 - [[vectors]]
 - [[least-squares]]
 - [[attention-mechanisms]]
@@ -32,5 +32,5 @@ A matrix is a rectangular array of numbers arranged in rows and columns, serving
 
 - [[introduction-to-applied-linear-algebra]]
 - [[lieven-vandenberghe]]
-- [[linear-algebra-fundamentals]]
+- [[linear-algebra]]
 - [[stephen-boyd]]

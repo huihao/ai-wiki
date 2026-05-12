@@ -2,7 +2,7 @@
 
 **Source:** [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) by [[sebastian-raschka]] (February 9, 2023)
 
-**Related:** [[self-attention]], [[multi-head-attention]], [[cross-attention]], [[scaled-dot-product-attention]], [[attention-mechanisms]], [[transformer-architecture]], [[pytorch]], [[kv-caching]]
+**Related:** [[self-attention]], [[multi-head-attention]], [[cross-attention]], [[scaled-dot-product-attention]], [[attention-mechanisms]], [[transformer-architecture]], [[pytorch]], [[kv-cache]]
 
 ---
 

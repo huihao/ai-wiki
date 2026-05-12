@@ -21,7 +21,7 @@ Avichala is an organization or author providing deep educational AI content thro
 
 ## Related Concepts
 
-- [[llm-inference-optimization|LLM Inference Optimization]] — Frequently covered topic
+- [[llm-inference|LLM Inference Optimization]] — Frequently covered topic
 - [[attention-mechanisms|Attention Mechanisms]] — Technical focus area
 - [[rag-architecture|RAG Architecture]] — Application-focused coverage
 

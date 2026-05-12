@@ -29,7 +29,7 @@ Team behind [[langsmith-agent-builder|LangSmith Agent Builder]] memory system im
 ## Related Concepts
 
 - [[langsmith-agent-builder]]
-- [[deep-agents]]
+- [[deepagents]]
 - [[langchain]]
 
 ## Sources

@@ -24,7 +24,7 @@ Diffusion model memorization is the phenomenon where diffusion models transition
 ## Related Concepts
 
 - [[diffusion-models]]
-- [[ddim-sampler]]
+- [[ddim]]
 - [[generalization]]
 - [[implicit-regularization]]
 - [[ai-safety]]

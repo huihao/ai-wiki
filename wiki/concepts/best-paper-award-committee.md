@@ -21,7 +21,7 @@ The Best Paper Award Committee is the panel of expert reviewers responsible for 
 ## Related Concepts
 - [[neurips-2025]] -- the conference where these awards were given
 - [[gated-attention]] -- one of the best paper topics (sigmoid gating after attention)
-- [[neural-scaling-laws]] -- superposition as the mechanism governing neural scaling
+- [[scaling-laws]] -- superposition as the mechanism governing neural scaling
 
 ## Sources
 - [[announcing-neurips-2025-best-paper-awards]]

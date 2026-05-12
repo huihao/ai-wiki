@@ -39,7 +39,7 @@ Trace is a standard for writing declarative, structured specifications that LLMs
 - [[trace-declarative-modeling-for-the-ai-age|Declarative modeling]] — spec-first approach
 - [[genai-output-control-design-patterns|Domain-driven design]] — influenced by DDD concepts
 - [[flask-vs-fastapi|Normalize vs denormalize]] — UX flow strategies
-- [[agent-skills|Agent skill]] — Trace includes skill for Author and Implement modes
+- [[agent-skill|Agent skill]] — Trace includes skill for Author and Implement modes
 - [[the-real-ai-coding-skill-isnt-prompting-its-architecture|Event-driven architecture]] — domains communicate via events
 
 ## Questions / Follow-ups

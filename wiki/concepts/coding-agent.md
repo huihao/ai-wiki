@@ -20,7 +20,7 @@ A coding agent is an autonomous software system built on a language model that u
 
 ## Related Concepts
 - [[agent-loop]]
-- [[agentsmd]]
+- [[agents-md]]
 - [[auto-memory]]
 - [[agentic-systems]]
 

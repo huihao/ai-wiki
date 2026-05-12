@@ -22,7 +22,7 @@ Jeff Gore is a researcher known for contributions to understanding neural networ
 
 ## Related Concepts
 - [[representation-superposition|Representation Superposition]]
-- [[neural-scaling-laws|Neural Scaling Laws]]
+- [[scaling-laws|Neural Scaling Laws]]
 
 ## Sources
 - [[announcing-neurips-2025-best-paper-awards]]

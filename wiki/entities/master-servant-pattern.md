@@ -17,7 +17,7 @@ The Master-Servant pattern (also known as Master-Worker or Orchestrator-Worker) 
 
 ## Related Concepts
 - [[agent-architecture]] — structural design of autonomous AI agents
-- [[agent-coordination]] — mechanisms for managing interactions between agents
+- [[multi-agent-orchestration]] — mechanisms for managing interactions between agents
 - [[agent-orchestration]] — high-level coordination of agent workflows
 - [[agentic-systems]] — multi-agent systems employing delegation patterns
 

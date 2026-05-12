@@ -25,7 +25,7 @@ Tool discovery is the process by which AI agents identify, select, and understan
 ## Related Concepts
 
 - [[tool-invocation]]
-- [[agent-skills]]
+- [[agent-skill]]
 - [[mcp-protocol]]
 
 ## Sources

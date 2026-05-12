@@ -119,4 +119,4 @@ Python implementations:
 ## Related Entities
 
 - [[stanford-university]]
-- [[cs231n-course]]
+- [[stanford-cs231n]]

@@ -26,7 +26,7 @@ A SKILL.md file is the metadata and instruction document that defines an AI agen
 ## Related Concepts
 
 - [[skills]] -- The broader agent capability system that SKILL.md files implement
-- [[agent-skills]] -- Standardized capability packages for AI agents
+- [[agent-skill]] -- Standardized capability packages for AI agents
 - [[diataxis-framework]] -- Documentation framework for structuring skill content
 - [[path-scoped-rules]] -- Similar concept for context-dependent instruction activation
 

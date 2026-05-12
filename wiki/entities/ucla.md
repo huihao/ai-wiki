@@ -23,7 +23,7 @@ The University of California, Los Angeles (UCLA) is a public research university
 
 ## Related Concepts
 - [[linear-algebra]] — core subject of UCLA's applied linear algebra course
-- [[linear-algebra-fundamentals]] — foundational concepts taught in the course
+- [[linear-algebra]] — foundational concepts taught in the course
 
 ## Sources
 - [[introduction-to-applied-linear-algebra]] — UCLA's applied linear algebra course covering matrix computations

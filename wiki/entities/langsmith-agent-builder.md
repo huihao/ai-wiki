@@ -6,7 +6,7 @@ organization: LangChain
 
 # LangSmith Agent Builder
 
-No-code agent builder platform targeted at "technically lite" citizen developers. Built on top of [[deep-agents|Deep Agents]] harness.
+No-code agent builder platform targeted at "technically lite" citizen developers. Built on top of [[deepagents|Deep Agents]] harness.
 
 ## Purpose
 
@@ -17,7 +17,7 @@ Create specialized agents for specific workflows (e.g., email assistant, documen
 Prioritizes memory as core platform feature:
 
 - [[agents-md|AGENTS.md]]: Core instruction set (procedural memory)
-- [[agent-skills|Skills]]: Specialized task instructions (semantic memory)
+- [[agent-skill|Skills]]: Specialized task instructions (semantic memory)
 - Subagents: Hierarchical agent architecture
 - tools.json: MCP tool subset configuration
 - Knowledge files: Arbitrary semantic memory
@@ -49,6 +49,6 @@ Memory file builds itself iteratively without manual AGENTS.md editing.
 ## Related Concepts
 
 - [[agent-memory]]
-- [[deep-agents]]
+- [[deepagents]]
 - [[langchain-team]]
 - [[langchain]]

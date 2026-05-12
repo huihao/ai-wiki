@@ -51,7 +51,7 @@ Like practicing a language by always hearing perfect pronunciation (training), t
 ## Related Concepts
 
 - [[teacher-forcing|Teacher Forcing]] — training technique that causes exposure bias
-- [[next-word-prediction|Next-Word Prediction]] — training objective
+- [[next-token-prediction|Next-Word Prediction]] — training objective
 - [[hallucination|Hallucination]] — a consequence of exposure bias
 
 ## Sources

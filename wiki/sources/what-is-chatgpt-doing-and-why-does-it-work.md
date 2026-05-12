@@ -44,7 +44,7 @@ Stephen Wolfram's comprehensive exploration of ChatGPT's inner workings, explain
 
 ## Concepts Mentioned
 
-- [[next-word-prediction|Next-Word Prediction]] — Fundamental mechanism of language model text generation
+- [[next-token-prediction|Next-Word Prediction]] — Fundamental mechanism of language model text generation
 - [[temperature-parameter|Temperature Sampling]] — Randomness parameter controlling word selection creativity
 - [[n-gram-models|N-Gram Models]] — Statistical language models using sequences of n words
 - [[neural-networks|Neural Networks]] — Computational models with layered neurons processing inputs

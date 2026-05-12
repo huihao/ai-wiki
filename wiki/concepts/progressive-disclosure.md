@@ -22,7 +22,7 @@ A context management pattern where agents receive only lightweight metadata or i
 - [[agentic-search]] — lightweight index + dynamic retrieval
 - [[context-engineering]] — managing what the agent sees
 - [[context-rot]] — degradation from overloaded context
-- [[agent-skills|Skills]] — progressively disclosed capabilities
+- [[agent-skill|Skills]] — progressively disclosed capabilities
 
 ## Sources
 

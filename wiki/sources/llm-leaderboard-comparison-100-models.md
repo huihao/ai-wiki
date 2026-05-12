@@ -174,7 +174,7 @@ The leaderboard provides:
 ## Related Concepts
 
 - [[llm-evaluation]] - How models are benchmarked
-- [[model-benchmarks]] - Intelligence and performance testing
+- [[llm-benchmarks]] - Intelligence and performance testing
 - [[reasoning-models]] - Extended thinking capabilities
 - [[open-weights-vs-proprietary]] - Model accessibility
 - [[context-windows]] - Token limits in models

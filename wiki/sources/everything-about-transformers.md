@@ -42,7 +42,7 @@ A comprehensive visual and intuitive guide to transformer architecture, tracing 
 - [[attention-mechanisms|Attention Mechanism]] — Core innovation enabling direct token relationships
 - [[self-attention|Self-Attention]] — Tokens attending to each other within same sequence
 - [[multi-head-attention|Multi-Head Attention]] — Parallel attention learning different patterns
-- [[masked-self-attention|Masked Self-Attention]] — Decoder mechanism preventing future token visibility
+- [[causal-attention|Masked Self-Attention]] — Decoder mechanism preventing future token visibility
 - [[cross-attention|Cross-Attention]] — Decoder attending to encoder outputs
 - [[feed-forward-networks|Feed-Forward Networks]] — Position-wise nonlinear transformations
 - [[layer-normalization|Layer Normalization]] — Stabilizing training across features

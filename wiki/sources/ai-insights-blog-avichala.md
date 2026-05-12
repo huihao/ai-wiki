@@ -34,7 +34,7 @@ A comprehensive blog featuring deep educational explorations of AI topics, combi
 
 ## Concepts Mentioned
 
-- [[llm-inference-optimization|LLM Inference Optimization]] — Techniques for optimizing LLM inference including 4-bit quantization
+- [[llm-inference|LLM Inference Optimization]] — Techniques for optimizing LLM inference including 4-bit quantization
 - [[activation-quantization|Activation Quantization]] — Challenges and methods for quantizing neural network activations
 - [[attention-mechanisms|Attention Mechanisms]] — Including attention collapse, head specialization, and positional bias (ALiBi)
 - [[embedding-optimization|Embedding Optimization]] — Anchor-based training and adaptive refresh cycles

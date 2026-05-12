@@ -32,7 +32,7 @@ Ollama is an open-source tool for running large language models locally on macOS
 
 - [[llms-practical-guide|Local LLMs]] — on-device inference
 - [[quantization|Model quantization]] — running models on consumer hardware
-- [[kv-caching]] — memory management for context length
+- [[kv-cache]] — memory management for context length
 - [[vram-management]] — GPU memory optimization
 
 ## Sources

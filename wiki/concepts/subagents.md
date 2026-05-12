@@ -19,13 +19,13 @@ The subagent pattern is an architectural approach in AI agent systems where a pa
 
 - [[agent-orchestration]] — the broader pattern of coordinating multiple agents, of which subagents are a key building block
 - [[hierarchical-agents]] — agent systems organized in parent-child hierarchies using subagents
-- [[multi-agent-systems]] — systems where multiple agents collaborate, often using subagent patterns
+- [[multi-agent-orchestration]] — systems where multiple agents collaborate, often using subagent patterns
 - [[agent-loop]] — the parent agent's execution loop that manages subagent spawning and result collection
 - [[agent-tools]] — subagents often have access to different tool sets than the parent
 - [[task-decomposition]] — the process of breaking complex tasks into subtasks assigned to subagents
 - [[delegation-chain]] — the chain of authority from parent to subagent in hierarchical systems
 - [[agent-memory]] — subagents may share or isolate memory from the parent agent
-- [[agent-collaboration]] — how multiple agents including subagents work together on a task
+- [[multi-agent-orchestration]] — how multiple agents including subagents work together on a task
 
 ## Related Entities
 

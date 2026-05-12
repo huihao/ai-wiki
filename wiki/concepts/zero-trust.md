@@ -25,7 +25,7 @@ Zero trust is a security philosophy and architecture that eliminates implicit tr
 ## Related Concepts
 
 - [[trust-boundaries]] -- Security perimeters separating components with different trust levels
-- [[sandboxing]] -- Isolating untrusted code execution in ephemeral environments
+- [[sandbox-execution]] -- Isolating untrusted code execution in ephemeral environments
 - [[secrets-management]] -- Secure credential handling without direct agent access
 - [[agent-security]] -- Protecting AI agents from prompt injection and misuse
 - [[human-in-the-loop]] -- Requiring human confirmation for critical security-sensitive actions

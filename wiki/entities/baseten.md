@@ -39,7 +39,7 @@ Baseten is an inference platform for deploying AI models. It provides infrastruc
 
 - [[model-deployment]] — Baseten's core service
 - [[inference-optimization]] — platform specialization
-- [[gpu-inference]] — infrastructure focus
+- [[llm-inference]] — infrastructure focus
 
 ## Sources
 

@@ -38,7 +38,7 @@ Dr. Alan D. Thompson's LifeArchitect.ai is a comprehensive resource for understa
 ## Concepts Mentioned
 
 - [[llm-capabilities|LLM capability tracking]] — systematic documentation of model evolution
-- [[ai-benchmarks|AI benchmarks]] — performance measurement across models
+- [[llm-benchmarks|AI benchmarks]] — performance measurement across models
 - [[superintelligence]] — forward-looking analysis of advanced AI
 - [[ai-timeline|AI timeline]] — historical and projected development milestones
 - [[model-visualization|AI visualization]] — making model capabilities concrete

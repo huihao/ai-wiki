@@ -1,16 +1,87 @@
-# Wiki Lint Report — 2026-05-12 (concept deduplication pass)
+# Wiki Lint Report — 2026-05-12 (concept deduplication + entity reclassification pass)
 
 ## Summary
 
-| Category | Before (2026-04-29) | After (2026-05-08) | After (2026-05-09) | After (2026-05-11) | After (2026-05-11 clippings) | After (2026-05-12) |
+| Category | Before (2026-04-29) | After (2026-05-08) | After (2026-05-09) | After (2026-05-11) | After ingest (2026-05-12) | After lint (2026-05-12) |
 |---|---|---|---|---|---|---|
-| Ghost references (new) | 71 | **0** | 0 (new), ~373 pre-existing | 0 (new), ~373 pre-existing | **0** (all resolved) | **0** (new), ~403 pre-existing |
-| Total wiki pages | 2,568 | 2,605 | **2,582** | **2,536** | **2,602** | **2,602** |
+| Ghost references (new) | 71 | **0** | 0 (new), ~373 pre-existing | 0 (new), ~373 pre-existing | **0** (all resolved) | **0** (new), ~890 pre-existing |
+| Total wiki pages | 2,568 | 2,605 | **2,582** | **2,536** | **2,602** | **2,600** |
 | Stub pages (≤2 body lines) | 44 | 35 | **0** | **0** | **0** | **0** |
 | Orphan pages (no inbound links) | 199 | ~138 | **~132** | ~132 | ~132 | ~132 |
-| Concepts (wiki/concepts/) | — | — | 1,457 | **1,411** | **1,441** | **1,434** |
-| Entities (wiki/entities/) | — | — | — | — | **670** | **676** |
-| Sources (wiki/sources/) | — | — | — | — | **662** | **492** |
+| Concepts (wiki/concepts/) | — | — | 1,457 | **1,411** | **1,441** | **1,374** |
+| Entities (wiki/entities/) | — | — | — | — | **676** | **728** |
+| Sources (wiki/sources/) | — | — | — | — | **492** | **498** |
+
+## Changes Made on 2026-05-12: Concept Deduplication + Entity Reclassification (67 files deleted, 46 moved)
+
+### Simple Concept Merges (18 files deleted)
+
+| Deleted | Canonical | Reason |
+|---|---|---|
+| `deep-agents.md` | `deepagents.md` | Same product, inconsistent naming |
+| `agentsmd.md` | `agents-md.md` | Same topic, inconsistent naming |
+| `agent-skills.md` | `agent-skill.md` | Singular/plural |
+| `eigenvector.md` | `eigenvectors.md` | Singular/plural |
+| `feed-forward-network.md` | `feed-forward-networks.md` | Singular/plural |
+| `next-word-prediction.md` | `next-token-prediction.md` | Token vs word, same concept |
+| `cynefin-framework.md` | `cynefin.md` | With/without suffix |
+| `ddim-sampler.md` | `ddim.md` | Same concept |
+| `kv-caching.md` | `kv-cache.md` | Near-identical definitions |
+| `tensor-storage-architecture.md` | `tensor-storage.md` | Near-identical definitions |
+| `momentum-in-optimization.md` | `momentum.md` | Same concept |
+| `linear-algebra-fundamentals.md` | `linear-algebra.md` | Same foundational material |
+| `neural-scaling-laws.md` | `scaling-laws.md` | Same concept |
+| `gqa-grouped-query-attention.md` | `grouped-query-attention.md` | Acronym/full name |
+| `prompting.md` | `prompt-engineering.md` | Same concept |
+| `research-reproducibility.md` | `reproducibility.md` | Same concept |
+| `llm-embeddings.md` | `embeddings.md` | Near-identical definitions |
+| `auto-memory-tool.md` | `auto-memory.md` | Practice vs tool, same scope |
+
+### Cluster Concept Merges (17 files deleted → 7 canonical)
+
+| Deleted | Canonical | Merged Content |
+|---|---|---|
+| `masked-attention.md`, `masked-self-attention.md`, `masked-causal-attention.md` | `causal-attention.md` | Masking mechanics, encoder vs decoder, gated attention |
+| `multi-agent-systems.md`, `agent-collaboration.md`, `agent-coordination.md`, `agentic-orchestration.md` | `multi-agent-orchestration.md` | Coordination patterns, frameworks, challenges |
+| `sandboxed-execution.md`, `sandboxing.md` | `sandbox-execution.md` | Implementation approaches, workflow, evolution |
+| `llm-inference-optimization.md`, `model-inference.md`, `gpu-inference.md` | `llm-inference.md` | Optimization techniques, engines, deployment |
+| `model-benchmarks.md`, `ai-benchmarks.md`, `ai-model-benchmarking.md` | `llm-benchmarks.md` | Evaluation dimensions, platforms |
+| `graph-knowledge-base.md` | `knowledge-graph.md` | GraphRAG, hybrid search |
+| `context-engineering-for-coding-agents.md` | `context-engineering.md` | CLAUDE.md, rules folder, dynamic assembly |
+
+### Entity Reclassification (46 concept pages → entities/)
+
+Moved concept pages describing specific named things to entities/, updating tags `[concept]` → `[entity]` and `## Definition` → `## Summary`:
+
+**People (4):** martin-fowler, martin-wattenberg, mikolov, john-carlos-baez
+
+**Named software/tools/products (16):** amazon-sqs, apache-spark, cilium, leetcode, jupyter-notebooks, sqlalchemy-source, py4j, nasm-assembler, x64dbg-debugging, onnx, xla-compiler, nsight-systems-profiler, dspy, fastmcp, sglang, deepagents
+
+**Named models/architectures (9):** bert, gpt, alexnet, resnet, lstm, flan-t5, colpali, mmdit, deepseek-sparse-attention
+
+**Named datasets/benchmarks (6):** mmlu, mnist, fisher, infinity-chat, the-pile, arc-agi
+
+**Named organizations/platforms (6):** mathologer, get-convex, hyperai-source, jetbolt-games, watabou, hermes-self-improving
+
+**Named products/files (5):** codex-cloud, claude-code-leak-analysis, claude-md, openai-harness-engineering-article, stable-diffusion
+
+### Bug Fixes and Merges
+
+- `rotary-position-embeddings.md` — fixed self-referential alias, now redirects to `[[rotary-positional-embedding]]`
+- `vllm.md` (concept) — deleted (entity page already existed at `entities/vllm.md`)
+- `unit-economics.md` — merged into `inference-cost.md`
+- `cs231n-course.md` + `stanford-cs231n.md` — merged into single entity `entities/stanford-cs231n.md`
+
+### Link Rewrites
+
+- 278 total `[[old-name]]` wiki links rewritten to `[[canonical-name]]` across 238 files
+- 0 broken links introduced by lint operations
+
+---
+
+## Previous Passes
+
+---
 
 ## Changes Made on 2026-05-12: Concept Deduplication (25 files deleted)
 

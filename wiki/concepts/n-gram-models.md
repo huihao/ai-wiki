@@ -24,7 +24,7 @@ N-gram models are statistical language models that predict the next word in a se
 
 ## Related Concepts
 
-- [[next-word-prediction]]
+- [[next-token-prediction]]
 - [[language-models]]
 - [[markov-chain]]
 - [[transformers]]

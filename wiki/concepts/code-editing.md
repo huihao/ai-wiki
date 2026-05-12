@@ -27,7 +27,7 @@ Code editing in the context of AI coding agents refers to the ability of autonom
 - [[desktop-commander]]
 - [[code-execution]]
 - [[code-reasoning]]
-- [[context-engineering-for-coding-agents]]
+- [[context-engineering]]
 
 ## Sources
 

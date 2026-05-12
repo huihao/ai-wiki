@@ -35,7 +35,7 @@ Thoughtworks is a global technology consultancy known for championing agile deve
 
 ## Sources
 
-- [[context-engineering-for-coding-agents]] — Thoughtworks content on context configuration for AI agents
+- [[context-engineering]] — Thoughtworks content on context configuration for AI agents
 
 ## Contradictions / Open Questions
 

@@ -19,7 +19,7 @@ Inference optimization is the engineering discipline of maximizing the throughpu
 
 ## Related Concepts
 
-- [[kv-caching]] — eliminates redundant attention computation
+- [[kv-cache]] — eliminates redundant attention computation
 - [[paged-attention]] — vLLM's memory management innovation
 - [[continuous-batching]] — maximizes GPU utilization during inference
 - [[quantization]] — reduces memory bandwidth and enables faster inference

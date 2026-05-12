@@ -18,7 +18,7 @@ Metric alignment is the practice of ensuring consistent evaluation metrics, prot
 
 ## Related Concepts
 
-- [[research-reproducibility|Research Reproducibility]] — Foundation for comparison
+- [[reproducibility|Research Reproducibility]] — Foundation for comparison
 - [[research-workflow|Research Workflow]] — Evaluation component
 
 ## Sources

@@ -26,7 +26,7 @@ An LLM Knowledge Base, as conceptualized by Andrej Karpathy, is an AI-maintained
 ## Related Concepts
 
 - [[hallucination]]
-- [[llm-embeddings]]
+- [[embeddings]]
 - [[kl-divergence]]
 
 ## Sources

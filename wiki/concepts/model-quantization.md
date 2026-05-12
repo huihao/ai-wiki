@@ -25,7 +25,7 @@ Model quantization is an inference optimization technique that reduces the numer
 
 - [[inference-optimization]]
 - [[model-serving]]
-- [[kv-caching]]
+- [[kv-cache]]
 - [[defeating-nondeterminism-llm-inference]]
 
 ## Sources

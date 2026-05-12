@@ -23,7 +23,7 @@ Chris Richardson is a software architect and founder of microservices.io. He app
 
 ## Related Concepts
 
-- [[cynefin-framework]] — applied to GenAI coding agents
+- [[cynefin]] — applied to GenAI coding agents
 - [[why-genai-based-coding-agents-are-a-complex-domain-in-cynefin|Complex domain]] — coding agents belong here
 - [[generative-ai-platform|Platform strategy]] — platform as learning amplifier
 

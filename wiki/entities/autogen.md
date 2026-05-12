@@ -27,8 +27,8 @@ AutoGen is an open-source framework by Microsoft for building multi-agent AI app
 
 ## Related Concepts
 
-- [[multi-agent-systems|Multi-Agent Systems]] — AutoGen's core paradigm
-- [[agent-coordination|Agent Coordination]] — multi-agent conversation patterns
+- [[multi-agent-orchestration|Multi-Agent Systems]] — AutoGen's core paradigm
+- [[multi-agent-orchestration|Agent Coordination]] — multi-agent conversation patterns
 
 ## Sources
 

@@ -20,7 +20,7 @@ A Graphics Processing Unit (GPU) is a specialized processor designed for massive
 - **GPU Tiers**: Consumer GPUs (RTX 3060/4090) for local inference; data center GPUs (A100, H100) for training and large-scale inference; specialized ML accelerators (TPUs) as alternatives
 
 ## Related Concepts
-- [[gpu-inference]]
+- [[llm-inference]]
 - [[gpu-memory-bandwidth]]
 - [[grid-stride-loops]]
 

@@ -25,7 +25,7 @@ LLM evaluation encompasses the methods, benchmarks, metrics, and methodologies u
 ## Related Concepts
 
 - [[llm-benchmarks]] -- specific benchmark suites for language model evaluation
-- [[ai-benchmarks]] -- broader AI evaluation frameworks
+- [[llm-benchmarks]] -- broader AI evaluation frameworks
 - [[model-evaluation]] -- general model assessment methodologies
 - [[eval-driven-development]] -- systematic eval-first development practices
 - [[personal-benchmark]] -- custom evaluation suites for individual workflows

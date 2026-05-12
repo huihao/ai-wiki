@@ -23,7 +23,7 @@ Continuous batching (also known as in-flight batching or iteration-level schedul
 - [[paged-attention]] — memory management technique that enables efficient continuous batching
 - [[inside-vllm|vLLM]] — leading open-source implementation of continuous batching
 - [[inference-optimization]] — continuous batching is a core inference optimization
-- [[kv-caching]] — continuous batching must manage per-request KV caches dynamically
+- [[kv-cache]] — continuous batching must manage per-request KV caches dynamically
 
 ## Sources
 

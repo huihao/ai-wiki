@@ -24,7 +24,7 @@ Crowdsourced benchmarking is a method of evaluating AI model performance by coll
 
 - [[frontier-ai-models]]
 - [[llm-leaderboards]]
-- [[model-benchmarks]]
+- [[llm-benchmarks]]
 
 ## Sources
 

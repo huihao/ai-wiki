@@ -22,7 +22,7 @@ The practice of reducing the numerical precision of a model's weights (and optio
 ## Related Concepts
 
 - [[awesome-llm-post-training|Post-training quantization]] — the most common quantization workflow
-- [[kv-caching|KV cache]] — can also be quantized for further memory savings
+- [[kv-cache|KV cache]] — can also be quantized for further memory savings
 - [[inference-optimization]] — broader class of deployment techniques
 - Mixed precision — using multiple precisions within a model
 - [[breaking-down-turboquant|TurboQuant]] — specific quantization technique for KV caches

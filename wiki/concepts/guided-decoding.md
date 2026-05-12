@@ -26,7 +26,7 @@ Guided decoding is a technique for constraining LLM text generation to conform t
 - [[temperature-parameter]] — interacts with guided decoding since the mask is applied before sampling
 - [[json-generation]] — a primary use case for guided decoding
 - [[function-calling]] — structured function call outputs often rely on guided decoding or constrained generation
-- [[prompting]] — guided decoding extends prompting by adding structural constraints on output
+- [[prompt-engineering]] — guided decoding extends prompting by adding structural constraints on output
 
 ## Related Entities
 

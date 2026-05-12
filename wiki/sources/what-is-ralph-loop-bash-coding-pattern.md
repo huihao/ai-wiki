@@ -48,5 +48,5 @@ A comprehensive explanation of the Ralph loop pattern — a deliberately simple 
 - [[stop-hook]] — mechanism for intercepting agent exit in Claude Code
 - [[prd]] — Product Requirements Document as task specification
 - [[backpressure]] — tests/lints/builds acting as gates rejecting invalid output
-- [[sandboxing]] — Docker/worktree isolation for agent execution
+- [[sandbox-execution]] — Docker/worktree isolation for agent execution
 - [[git-worktrees]] — parallel Ralph loops on different features

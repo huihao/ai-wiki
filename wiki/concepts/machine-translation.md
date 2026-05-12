@@ -25,8 +25,8 @@ Machine translation is the task of automatically translating text from one langu
 ## Related Concepts
 
 - [[gpt-2]]
-- [[llm-embeddings]]
-- [[masked-attention]]
+- [[embeddings]]
+- [[causal-attention]]
 
 ## Sources
 

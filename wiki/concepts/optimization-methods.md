@@ -24,7 +24,7 @@ Optimization methods are mathematical algorithms for finding the best solution t
 
 - [[neural-network-training]] -- The primary application of optimization methods in deep learning
 - [[numerical-algorithms]] -- The computational primitives that optimization methods rely on
-- [[neural-scaling-laws]] -- Empirical observations about optimization outcomes at scale
+- [[scaling-laws]] -- Empirical observations about optimization outcomes at scale
 - [[regularization]] -- Techniques that shape the optimization landscape to improve generalization
 
 ## Sources

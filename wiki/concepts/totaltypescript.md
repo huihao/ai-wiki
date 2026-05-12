@@ -24,7 +24,7 @@ TotalTypeScript is Matt Pocock's advanced TypeScript educational resource and sk
 
 - [[type-hints]] -- type annotations in Python serving a parallel role to TypeScript's type system
 - [[type-safe-models]] -- applying type safety to ML model definitions and interfaces
-- [[agent-skills]] -- the standardized format through which TotalTypeScript expertise is delivered to AI assistants
+- [[agent-skill]] -- the standardized format through which TotalTypeScript expertise is delivered to AI assistants
 
 ## Sources
 

@@ -34,7 +34,7 @@ A comprehensive technical and practical guide to the feed-forward network (FFN) 
 
 ## Concepts Mentioned
 
-- [[feed-forward-network]] — position-wise MLP in Transformer blocks
+- [[feed-forward-networks]] — position-wise MLP in Transformer blocks
 - [[transformer-architecture]] — attention + FFN composition
 - [[gelu]] — common activation function in FFNs
 - [[layer-normalization]] — Pre-LN vs Post-LN placement

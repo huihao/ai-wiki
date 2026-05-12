@@ -56,7 +56,7 @@ Code Mode is a pattern for MCP server scaling that replaces sequential tool call
 - [[context-bloat|Context Bloat]] — Excessive schemas issue
 - [[sequential-calling|Sequential Calling]] — Traditional approach
 - [[discovery-tools|Discovery Tools]] — Finding relevant tools
-- [[sandboxed-execution|Sandboxed Execution]] — Isolated runtime
+- [[sandbox-execution|Sandboxed Execution]] — Isolated runtime
 - [[progressive-disclosure|Progressive Disclosure]] — Loading as needed
 - [[detail-levels|Detail Levels]] — Tunable information (brief/detailed/full)
 

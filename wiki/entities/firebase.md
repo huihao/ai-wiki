@@ -27,7 +27,7 @@ Firebase is a Google-backed platform providing backend services for application 
 
 - [[ai-frameworks|AI Frameworks]] — Through Genkit integration
 - [[full-stack-ai|Full-Stack AI]] — Deployment platform for AI apps
-- [[agent-skills|Agent Skills]] — Provider of agent skills packages
+- [[agent-skill|Agent Skills]] — Provider of agent skills packages
 
 ## Sources
 

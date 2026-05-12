@@ -45,7 +45,7 @@ A comprehensive tutorial implementing self-attention mechanisms from scratch in 
 - [[transformer-architecture|Transformer Architecture]] — Foundation architecture for modern LLMs
 - [[transformers|Attention Is All You Need]] — Original transformer paper (2017)
 - [[scaled-dot-product-attention|Scaled Dot-Product Attention]] — Standard attention computation method
-- [[llm-embeddings|LLM Embeddings]] — Vector representations of tokens in language models
+- [[embeddings|LLM Embeddings]] — Vector representations of tokens in language models
 
 ## Raw Notes
 

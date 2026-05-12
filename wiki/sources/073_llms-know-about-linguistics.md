@@ -36,4 +36,4 @@ Research exploring whether LLMs have learned linguistic structure through pretra
 - [[gpt-neo]]
 - [[bert]]
 - [[structured-prompting]]
-- [[prompting]]
+- [[prompt-engineering]]

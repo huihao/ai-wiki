@@ -28,7 +28,7 @@ GitHub Copilot is an AI-powered code completion and pair programming tool develo
 - [[coding-agent]] — Copilot is evolving toward autonomous agent capabilities
 - [[ai-coding-agent]] — Copilot represents the mainstream AI coding agent category
 - [[cli-coding-agents]] — GitHub also offers Copilot in the CLI
-- [[context-engineering-for-coding-agents]] — Copilot's effectiveness depends on codebase context
+- [[context-engineering]] — Copilot's effectiveness depends on codebase context
 - [[code-generation-with-llms]] — core capability powering Copilot
 
 ## Sources

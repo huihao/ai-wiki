@@ -22,7 +22,7 @@ Agent orchestration refers to the coordination and management of multiple AI age
 - [[crewai]] — multi-agent orchestration framework
 
 ## Related Concepts
-- [[agentic-orchestration]] — broader concept of orchestrating agentic systems
+- [[multi-agent-orchestration]] — broader concept of orchestrating agentic systems
 - [[multi-agent-orchestration]] — multi-agent variant of orchestration patterns
 - [[orchestration]] — general orchestration concept applicable to agent systems
 - [[hierarchical-agents]] — hierarchical approach to agent organization and coordination

@@ -110,7 +110,7 @@ A comprehensive collection of software applications, tools, and platforms that i
 - [[llm-integration|LLM Integration]] — General integration approaches
 - [[agent-frameworks|Agent Frameworks]] — Platforms for building agents
 - [[retrieval-augmented-generation|Retrieval Augmented Generation]] — Knowledge-enhanced LLM systems
-- [[multi-agent-systems|Multi-Agent Systems]] — Agent collaboration patterns
+- [[multi-agent-orchestration|Multi-Agent Systems]] — Agent collaboration patterns
 
 ## Sources
 

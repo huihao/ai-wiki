@@ -28,7 +28,7 @@ ONNX Runtime is a high-performance inference engine for machine learning models 
 ## Related Concepts
 
 - [[onnx]]
-- [[model-inference]]
+- [[llm-inference]]
 - [[hardware-acceleration]]
 - [[cross-platform-deployment]]
 

@@ -92,9 +92,9 @@ This enables:
 - [[react-agent|ReAct Agent]] — Base pattern optimized for self-programming
 - [[chain-of-thought|Chain-of-Thought (CoT)]] — Reasoning structure via segments
 - [[agent-frameworks|Agent Frameworks]] — General agent architecture patterns
-- [[multi-agent-systems|Multi-Agent Systems]] — A2A protocol for coordination
+- [[multi-agent-orchestration|Multi-Agent Systems]] — A2A protocol for coordination
 - [[function-calling|Function Calling]] — Traditional tool invocation method
-- [[sandboxed-execution|Sandboxed Execution]] — Python executor isolation
+- [[sandbox-execution|Sandboxed Execution]] — Python executor isolation
 
 ## Related Entities
 

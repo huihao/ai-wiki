@@ -22,12 +22,12 @@ Hybrid search is a retrieval strategy that combines multiple search methods -- t
 
 ## Related Concepts
 
-- [[graph-knowledge-base]] -- Knowledge representation using entities and relationships
+- [[knowledge-graph]] -- Knowledge representation using entities and relationships
 - [[agentic-rag]] -- RAG systems with autonomous reasoning capabilities
 - [[multi-hop-reasoning]] -- Queries requiring synthesis across multiple retrieval steps
 
 ## Sources
 
-- [[graph-knowledge-base]]
+- [[knowledge-graph]]
 - [[r2r]]
 - [[turn-website-into-graph-knowledge-base]]

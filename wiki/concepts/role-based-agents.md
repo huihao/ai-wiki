@@ -24,11 +24,11 @@ Role-based agents are AI agents in multi-agent systems that are assigned specifi
 
 ## Related Concepts
 
-- [[multi-agent-systems]] -- Broader field of coordinating multiple AI agents
+- [[multi-agent-orchestration]] -- Broader field of coordinating multiple AI agents
 - [[agents-config]] -- Configuration files defining agent roles and permissions
 - [[separation-of-concerns]] -- Design principle applied to agent role design
 - [[human-in-the-loop]] -- Safety mechanism for role-based agent oversight
 
 ## Sources
 
-- [[multi-agent-systems]]
+- [[multi-agent-orchestration]]

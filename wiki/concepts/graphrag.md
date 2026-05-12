@@ -19,7 +19,7 @@ GraphRAG (Graph-based Retrieval-Augmented Generation) is an enhanced RAG archite
 - [[retrieval-augmented-generation]] — GraphRAG extends standard RAG with graph-based retrieval
 - [[rag-architecture]] — GraphRAG is a specific architectural pattern within the RAG paradigm
 - [[knowledge-graph]] — GraphRAG constructs and queries knowledge graphs for retrieval
-- [[graph-knowledge-base]] — the graph structure that GraphRAG builds from source documents
+- [[knowledge-graph]] — the graph structure that GraphRAG builds from source documents
 - [[entity-extraction]] — a key step in building the knowledge graph for GraphRAG
 - [[relationship-extraction]] — extracting edges/relationships between entities in the graph
 - [[multi-hop-reasoning]] — GraphRAG enables answering questions that require following multiple relationship hops

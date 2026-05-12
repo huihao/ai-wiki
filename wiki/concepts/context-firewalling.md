@@ -24,7 +24,7 @@ Context firewalling is the architectural pattern of isolating subagent context w
 ## Related Concepts
 
 - [[subagents]]
-- [[context-engineering-for-coding-agents]]
+- [[context-engineering]]
 - [[constraints-layer]]
 
 ## Sources

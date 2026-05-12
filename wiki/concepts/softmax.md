@@ -9,7 +9,7 @@ sources: 3
 
 ## Definition
 
-Softmax is a mathematical function that converts a vector of raw scores (logits) into a probability distribution where each output is in the range (0, 1) and all outputs sum to 1. It is defined as softmax(z_i) = exp(z_i) / sum(exp(z_j)) for all j. Softmax amplifies differences between logits, making the largest value dominate the output distribution. It is used as the final activation function in classification networks, in the output layer of language models for [[next-word-prediction|token prediction]], and within the [[attention-mechanisms]] to convert attention scores into weights.
+Softmax is a mathematical function that converts a vector of raw scores (logits) into a probability distribution where each output is in the range (0, 1) and all outputs sum to 1. It is defined as softmax(z_i) = exp(z_i) / sum(exp(z_j)) for all j. Softmax amplifies differences between logits, making the largest value dominate the output distribution. It is used as the final activation function in classification networks, in the output layer of language models for [[next-token-prediction|token prediction]], and within the [[attention-mechanisms]] to convert attention scores into weights.
 
 ## Key Proponents / Critics
 

@@ -23,7 +23,7 @@ AI-friendly codebase design refers to the practice of structuring and organizing
 
 ## Related Concepts
 - [[context-engineering]] — broader practice of designing context for AI systems
-- [[context-engineering-for-coding-agents]] — specific context engineering for coding agents
+- [[context-engineering]] — specific context engineering for coding agents
 - [[ai-coding-agent]] — AI agents that benefit from well-designed codebases
 - [[ai-coding-tools]] — tools that operate more effectively on AI-friendly codebases
 

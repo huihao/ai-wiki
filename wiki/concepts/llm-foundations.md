@@ -25,7 +25,7 @@ LLM foundations encompass the core building blocks of large language models: tok
 ## Related Concepts
 
 - [[gpt-2]]
-- [[llm-embeddings]]
+- [[embeddings]]
 - [[loss-function]]
 
 ## Sources

@@ -25,7 +25,7 @@ Overfitting occurs when a machine learning model learns the training data too we
 - [[regularization]] -- The techniques specifically designed to prevent overfitting
 - [[generalization]] -- The ability to perform well on unseen data, directly opposed to overfitting
 - [[neural-network-training]] -- The process during which overfitting can occur
-- [[neural-scaling-laws]] -- Scaling dynamics that affect the overfitting-underfitting balance
+- [[scaling-laws]] -- Scaling dynamics that affect the overfitting-underfitting balance
 
 ## Sources
 

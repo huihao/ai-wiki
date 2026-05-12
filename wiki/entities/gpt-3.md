@@ -23,7 +23,7 @@ GPT-3 (Generative Pre-trained Transformer 3) is a 175-billion-parameter autoregr
 
 - [[context-windows]]
 - [[frontier-ai-models]]
-- [[next-word-prediction]]
+- [[next-token-prediction]]
 
 ## Sources
 

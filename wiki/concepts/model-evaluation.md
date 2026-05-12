@@ -25,7 +25,7 @@ Model evaluation is the systematic process of assessing machine learning model p
 ## Related Concepts
 
 - [[llm-evaluation]]
-- [[model-benchmarks]]
+- [[llm-benchmarks]]
 - [[personal-benchmark]]
 - [[eval-driven-development]]
 

@@ -23,7 +23,7 @@ Rules applied to working memory to determine agent behavior.
 
 Facts about the world.
 
-- Implementation: [[agent-skills|Skills]] files, knowledge files
+- Implementation: [[agent-skill|Skills]] files, knowledge files
 - Purpose: Domain-specific knowledge, terminology, entities
 - Example: Meeting participant names/roles, domain terminology, vendor patterns
 
@@ -77,6 +77,6 @@ Agents build memory iteratively:
 ## Related Concepts
 
 - [[agents-md]]
-- [[agent-skills]]
+- [[agent-skill]]
 - [[deepagents]]
 - [[langsmith-agent-builder]]

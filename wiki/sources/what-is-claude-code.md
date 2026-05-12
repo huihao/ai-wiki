@@ -47,7 +47,7 @@ A comprehensive overview of Claude Code as of early 2026, covering installation,
 - [[model-context-protocol|MCP]] — external tool integration
 - [[subagents|Subagent]] — specialized helpers within sessions
 - [[8-factor-agent-breakdown|Agent teams]] — parallel multi-session coordination
-- [[agent-skills|Skills]] — reusable workflows via SKILL.md
+- [[agent-skill|Skills]] — reusable workflows via SKILL.md
 - [[hooks]] — event-driven automation
 - [[genai-output-control-design-patterns|Remote Control]] — manage sessions from phone/browser
 

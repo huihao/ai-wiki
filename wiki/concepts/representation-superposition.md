@@ -23,7 +23,7 @@ Representation superposition is a phenomenon where neural networks, particularly
 
 ## Related Concepts
 
-- [[neural-scaling-laws]] -- Empirical patterns where loss decreases as power law with model size
+- [[scaling-laws]] -- Empirical patterns where loss decreases as power law with model size
 - [[mechanistic-interpretability]] -- Field studying internal representations of neural networks
 - [[sparse-autoencoders]] -- Technique for probing superposed features
 - [[feature-disentanglement]] -- Goal of separating superposed representations

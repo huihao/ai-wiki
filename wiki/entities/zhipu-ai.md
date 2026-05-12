@@ -28,7 +28,7 @@ Zhipu AI is a Chinese AI company providing competitive large language models. Th
 
 ## Related Concepts
 
-- [[ai-model-benchmarking|AI Model Benchmarking]] — Strong performance at lower cost
+- [[llm-benchmarks|AI Model Benchmarking]] — Strong performance at lower cost
 - [[open-source-llm|Open Source LLM]] — Differentiating factor
 
 ## Sources

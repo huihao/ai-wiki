@@ -9,7 +9,7 @@ sources: 3
 
 ## Definition
 
-Cross-entropy loss is a loss function widely used in classification tasks and language modeling that measures the dissimilarity between a predicted probability distribution and the true distribution of labels. When the model predicts a probability for each class, cross-entropy loss penalizes confident incorrect predictions exponentially more than uncertain ones. In [[next-word-prediction|language modeling]], cross-entropy loss measures how well the model's predicted token distribution matches the actual next token. It is derived from [[information-theory]] and is mathematically equivalent to maximizing the log-likelihood of the correct class under the predicted distribution.
+Cross-entropy loss is a loss function widely used in classification tasks and language modeling that measures the dissimilarity between a predicted probability distribution and the true distribution of labels. When the model predicts a probability for each class, cross-entropy loss penalizes confident incorrect predictions exponentially more than uncertain ones. In [[next-token-prediction|language modeling]], cross-entropy loss measures how well the model's predicted token distribution matches the actual next token. It is derived from [[information-theory]] and is mathematically equivalent to maximizing the log-likelihood of the correct class under the predicted distribution.
 
 ## Key Proponents / Critics
 
@@ -26,7 +26,7 @@ Cross-entropy loss is a loss function widely used in classification tasks and la
 - [[information-theory]] — cross-entropy is a core concept in information theory measuring surprise
 - [[entropy]] — cross-entropy is the expected value of the negative log-probability under the true distribution
 - [[kl-divergence]] — cross-entropy equals the entropy of the true distribution plus the KL divergence from true to predicted
-- [[next-word-prediction]] — the training objective for autoregressive LLMs uses cross-entropy loss
+- [[next-token-prediction]] — the training objective for autoregressive LLMs uses cross-entropy loss
 - categorical-crossentropy — the specific form of cross-entropy used for multi-class classification
 - [[generalization]] -- cross-entropy relates to generalization through its connection to maximum likelihood
 
