@@ -1,6 +1,28 @@
 
 ---
 
+## [2026-05-12] ingest | 3 Clippings articles
+
+Processed 3 files from `Clippings/` directory.
+
+**Files processed (3):**
+
+1. **An overview of gradient descent optimization algorithms** — Sebastian Ruder's 2016 comprehensive survey of gradient descent variants (batch, stochastic, mini-batch) and optimization algorithms (Momentum, NAG, Adagrad, Adadelta, RMSprop, Adam, AdaMax, Nadam, AMSGrad) with parallel SGD methods.
+2. **Best practices for Claude Code** — Anthropic's official guide covering verification, plan mode, CLAUDE.md, permissions, skills, subagents, sessions, parallel mode, auto mode, and common failure patterns.
+3. **Why Momentum Really Works** — Gabriel Goh's Distill.pub article analyzing momentum as quadratic speedup via eigenvalue decomposition, covering stochastic gradients and Nesterov's formula.
+
+**Created:**
+- Sources: `overview-gradient-descent-optimization`, `best-practices-claude-code`, `why-momentum-really-works`
+- Entities: `sebastian-ruder`
+- Concepts: `sgd`, `adadelta`, `rmsprop`, `nadam`, `adamax`, `amsgrad`, `nesterov-accelerated-gradient`, `early-stopping`, `hogwild`, `auto-mode`, `non-interactive-mode`, `session-management`, `checkpointing`, `auto-compaction`, `claude-md`, `learning-rate-schedule`
+
+**Updated:**
+- Concepts: `momentum` (expanded with eigenvalue analysis, stochastic gradient behavior, Nesterov formula from why-momentum-really-works)
+
+**Deleted:** 3 Clippings files after processing
+
+---
+
 ## [2026-05-09] lint | Entity/concept reclassification + stub content fill
 
 Ran lint pass across `wiki/concepts/` to (a) reclassify entity stubs wrongly placed in concepts, and (b) fill stub pages with content derived from their source files.

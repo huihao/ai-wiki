@@ -2,15 +2,15 @@
 
 ## Summary
 
-| Category | Before (2026-04-29) | After (2026-05-08) | After (2026-05-09) | After (2026-05-11) | After ingest (2026-05-12) | After lint (2026-05-12) |
+| Category | Before (2026-04-29) | After (2026-05-08) | After (2026-05-09) | After (2026-05-11) | After lint (2026-05-12) | After ingest 2 (2026-05-12) |
 |---|---|---|---|---|---|---|
-| Ghost references (new) | 71 | **0** | 0 (new), ~373 pre-existing | 0 (new), ~373 pre-existing | **0** (all resolved) | **0** (new), ~890 pre-existing |
-| Total wiki pages | 2,568 | 2,605 | **2,582** | **2,536** | **2,602** | **2,600** |
+| Ghost references (new) | 71 | **0** | 0 (new), ~373 pre-existing | 0 (new), ~373 pre-existing | **0** (new), ~890 pre-existing | **0** (new) |
+| Total wiki pages | 2,568 | 2,605 | **2,582** | **2,536** | **2,600** | **2,622** |
 | Stub pages (≤2 body lines) | 44 | 35 | **0** | **0** | **0** | **0** |
 | Orphan pages (no inbound links) | 199 | ~138 | **~132** | ~132 | ~132 | ~132 |
-| Concepts (wiki/concepts/) | — | — | 1,457 | **1,411** | **1,441** | **1,374** |
-| Entities (wiki/entities/) | — | — | — | — | **676** | **728** |
-| Sources (wiki/sources/) | — | — | — | — | **492** | **498** |
+| Concepts (wiki/concepts/) | — | — | 1,457 | **1,411** | **1,374** | **1,390** |
+| Entities (wiki/entities/) | — | — | — | — | **728** | **728** |
+| Sources (wiki/sources/) | — | — | — | — | **498** | **501** |
 
 ## Changes Made on 2026-05-12: Concept Deduplication + Entity Reclassification (67 files deleted, 46 moved)
 

@@ -468,3 +468,32 @@
 - [[knowledge-layered-architecture]] — 5 storage layers × 5 knowledge types × 3 maturity levels with auto-decay.
 - [[spec-coding]] — Spec Coding: strictly following written specifications for AI code generation, distinct from Vibe Coding.
 - [[agent-capability-interface]] — ACI: design philosophy for accurate tool descriptions so models correctly select and invoke tools.
+
+## Sources (2026-05-12 ingest)
+
+- [[overview-gradient-descent-optimization]] — Sebastian Ruder's 2016 survey of gradient descent optimization algorithms (arXiv:1609.04747).
+- [[best-practices-claude-code]] — Anthropic's official guide to Claude Code best practices: verification, plan mode, CLAUDE.md, sessions, subagents.
+- [[why-momentum-really-works]] — Gabriel Goh's Distill.pub article analyzing momentum as quadratic speedup via eigenvalue analysis.
+
+## Entities (2026-05-12 ingest)
+
+- [[sebastian-ruder]] — NLP researcher, author of gradient descent optimization survey, known for work on transfer learning.
+
+## Concepts (2026-05-12 ingest)
+
+- [[sgd]] — Stochastic Gradient Descent: mini-batch updates trading convergence stability for speed.
+- [[adadelta]] — Adaptive learning rate method by Zeiler extending Adagrad with decaying average, no fixed learning rate.
+- [[rmsprop]] — Adaptive learning rate method by Hinton dividing lr by exponentially decaying average of squared gradients.
+- [[nadam]] — Adam variant incorporating Nesterov accelerated gradient for faster convergence.
+- [[adamax]] — Adam variant using infinity norm instead of 2-norm, more stable for large gradients.
+- [[amsgrad]] — Fix for Adam's convergence issues using maximum of past squared gradients.
+- [[nesterov-accelerated-gradient]] — Momentum variant computing gradient at look-ahead position for faster convergence.
+- [[early-stopping]] — Regularization technique halting training when validation performance stops improving.
+- [[hogwild]] — Lock-free parallel SGD algorithm allowing concurrent parameter updates without synchronization.
+- [[auto-mode]] — Claude Code classifier-mediated permission mode enabling autonomous execution.
+- [[non-interactive-mode]] — Claude Code headless mode (-p flag) for CI pipelines and automated workflows.
+- [[session-management]] — Named, persistent Claude Code session workflows for resumable work.
+- [[checkpointing]] — Automatic save/rewind of code and conversation state in Claude Code.
+- [[auto-compaction]] — Context window management via summarization when approaching token limits.
+- [[claude-md]] — CLAUDE.md: persistent project-level instruction file for Claude Code.
+- [[learning-rate-schedule]] — Strategy for adjusting learning rate during training: step decay, cosine annealing, warm-up.
