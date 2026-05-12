@@ -20,7 +20,7 @@ Progress tracking in autonomous AI coding workflows is the practice of maintaini
 - Allows human-in-the-loop oversight: supervisors can review progress, intervene, or redirect the agent
 
 ## Related Concepts
-- [[ralph-loop]]
+- [[ralph]]
 - [[prd]]
 - [[ai-coding-loop]]
 

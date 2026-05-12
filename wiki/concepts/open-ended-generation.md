@@ -23,7 +23,7 @@ Open-ended generation refers to LLM responses to queries that have multiple plau
 
 ## Related Concepts
 
-- [[mode-collapse]]
+- [[mode-collapse-in-llms]]
 - [[model-diversity]]
 
 ## Sources

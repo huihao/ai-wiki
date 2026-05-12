@@ -26,7 +26,7 @@ Diversity metrics are quantitative measures used to evaluate how varied, heterog
 - [[llm-evaluation]]
 - [[recommendation-systems]]
 - [[artificial-hivemind]]
-- [[mode-collapse]]
+- [[mode-collapse-in-llms]]
 - [[fairness-metrics]]
 
 ## Sources

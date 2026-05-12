@@ -27,7 +27,7 @@ Gradient accumulation is a training technique that simulates larger batch sizes 
 
 ## Related Concepts
 
-- [[gradient-checkpointing|Gradient Checkpointing]] — another memory optimization
+- [[activation-checkpointing|Gradient Checkpointing]] — another memory optimization
 - [[gradient-descent|Gradient Descent]] — base optimization algorithm
 - [[fine-tuning|Fine-tuning]] — often uses gradient accumulation for large models
 - [[training-techniques]] — part of training optimization toolkit

@@ -22,7 +22,7 @@ Prompting is the technique of providing instructions and/or examples to an LLM i
 - [[in-context-learning]] — the mechanism by which LLMs learn from examples provided in the prompt
 - [[prompt-injection]] — a security attack that exploits the prompt interface to hijack model behavior
 - [[prompt-engineering]] — the systematic practice of designing effective prompts for LLMs
-- [[temperature-sampling]] — interacts with prompting since temperature controls output diversity given a prompt
+- [[temperature-parameter]] — interacts with prompting since temperature controls output diversity given a prompt
 - [[llm]] — large language models are the systems that prompting targets
 - [[few-shot-learning]] — prompting with a small number of examples as demonstrations
 - [[prompt-caching]] — optimization technique for reducing the cost of repeated prompts

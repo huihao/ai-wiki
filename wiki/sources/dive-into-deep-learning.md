@@ -89,7 +89,7 @@ Dive into Deep Learning (D2L) is an interactive deep learning book combining cod
 - [[gaussian-processes]] — probabilistic modeling
 - [[hyperparameter-optimization]] — tuning ML models
 - [[generative-adversarial-networks]] — generative modeling
-- [[recommender-systems]] — personalized recommendation
+- [[recommendation-systems]] — personalized recommendation
 
 ## Raw Notes
 

@@ -41,7 +41,7 @@ A comprehensive architectural breakdown of Transformers paired with a step-by-st
 
 - [[transformer-architecture]] — Encoder-decoder and decoder-only variants.
 - [[positional-encoding|Byte pair encoding]] — Iterative merge algorithm for subword tokenization.
-- [[word-embedding]] — Dense vector representations of tokens.
+- [[word-embeddings]] — Dense vector representations of tokens.
 - [[projective-ray-positional-encoding|Positional encoding]] — Sinusoidal, integer, and binary approaches.
 - [[self-attention]] — Query-Key-Value mechanism and attention scores.
 - [[multi-head-attention-from-scratch|Multi-head attention]] — Parallel attention heads in different subspaces.

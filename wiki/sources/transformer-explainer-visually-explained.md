@@ -44,14 +44,14 @@ Interactive visualization tool explaining transformer architecture using GPT-2 (
 ## Concepts Mentioned
 
 - [[tokenization]] - breaking text into tokens
-- [[embedding]] - numerical vector representation
+- [[embeddings]] - numerical vector representation
 - [[positional-encoding]] - position information injection
 - [[multi-head-attention]] - capturing different relationships from multiple perspectives
 - [[masked-attention]] - preventing future token access during generation
 - [[mlp-multilayer-perceptron]] - feed-forward network refining token representations
 - [[gelu]] - activation function in MLP
 - [[softmax]] - converting logits to probabilities
-- [[temperature-sampling]] - controlling randomness in generation
+- [[temperature-parameter]] - controlling randomness in generation
 - [[top-k-sampling]] - limiting to top k tokens
 - [[top-p-sampling]] - cumulative probability threshold
 - [[layer-normalization]] - stabilizing training

@@ -16,7 +16,7 @@ Tom Yeh is a professor known for the "AI by Hand" series, which teaches machine 
 - **Focus areas**: Self-attention, Query-Key-Value mechanism, Transformer architecture fundamentals
 
 ## Related Concepts
-- [[attention-mechanism]] — core topic covered in Tom Yeh's self-attention series
+- [[attention-mechanisms]] — core topic covered in Tom Yeh's self-attention series
 - [[self-attention]] — the specific mechanism he explains through hand calculations
 - [[neural-networks]] — the broader field of ML he teaches
 

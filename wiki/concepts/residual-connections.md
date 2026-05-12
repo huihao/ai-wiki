@@ -30,7 +30,6 @@ Residual connections (also called skip connections) are architectural shortcuts 
 - [[residual-streams]] -- the concept of information flowing through residual pathways
 - [[resnet]] -- the architecture that introduced residual connections
 - [[transformers]] -- the architecture where residual connections are critical
-- [[residual-connection]] -- singular concept page
 
 ## Sources
 
@@ -40,3 +39,4 @@ Residual connections (also called skip connections) are architectural shortcuts 
 - [[transformer-architecture-attention-is-all-you-need]] -- residual connections crucial for retaining positional information
 - [[transformer-architecture-the-positional-encoding]] -- residual connections helping propagate positional information through layers
 - [[transformer-explainer-visually-explained]] -- residual connections as auxiliary feature for gradient flow improvement
+- [[how-to-think-about-gpus]] -- practical perspective on residual connections in GPU training

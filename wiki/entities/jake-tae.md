@@ -26,7 +26,7 @@ Jake Tae is a machine learning educator and writer who creates detailed from-scr
 ## Related Concepts
 
 - [[word2vec]] — implementation tutorial
-- [[word-embedding]] — core concept explained
+- [[word-embeddings]] — core concept explained
 - [[from-scratch-implementation]] — teaching approach
 
 ## Sources

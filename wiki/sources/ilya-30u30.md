@@ -38,7 +38,7 @@ A curated folder of 30 foundational papers in deep learning and machine learning
 - [[convolutional-neural-network]] — AlexNet, ResNet, dilated convolutions
 - [[convolutional-neural-network|Recurrent neural network]] — LSTM, RNN regularization
 - [[transformer-architecture|Transformer]] — "Attention Is All You Need"
-- [[word-embedding]] — Word2Vec lineage implied
+- [[word-embeddings]] — Word2Vec lineage implied
 - [[model-scaling|Scaling laws]] — "Scaling Laws for Neural LMs"
 - [[agent-tools-guide-rejecting-complexity-fragmentation-black-box|Kolmogorov complexity]] — referenced in later sections
 - [[machine-learning|Neural Turing machine]] — external memory for neural networks

@@ -21,6 +21,8 @@ LLM pricing refers to the cost structures charged by AI providers for accessing 
 - **Proprietary vs. Open Source**: Open-source models (LLaMA, Mistral, Qwen) can be self-hosted, eliminating per-token costs but requiring infrastructure investment
 - **Enterprise Negotiation**: Large-volume users negotiate custom pricing; providers offer committed-use discounts
 - **Reasoning Model Premium**: Reasoning models (o1, o3, DeepSeek-R1) cost significantly more due to higher token consumption during chain-of-thought generation
+- **Blended Pricing Convention**: Industry standard uses 3:1 input-to-output token ratio for blended cost calculation
+- **Speed as Hidden Cost**: Faster models (Mercury 2 at 677.5 t/s) reduce per-request latency, impacting real-time application costs
 
 ## Related Concepts
 
@@ -31,3 +33,4 @@ LLM pricing refers to the cost structures charged by AI providers for accessing 
 
 - [[ai-leaderboard-2026]]
 - [[ai-model-benchmarking]]
+- [[llm-leaderboard-comparison-100-models]] — detailed pricing comparison across 100+ models

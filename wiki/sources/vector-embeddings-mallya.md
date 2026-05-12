@@ -41,7 +41,7 @@ An intuitive walkthrough of how NLP represents words as vectors, from simple one
 - [[tf-idf]] — term frequency-inverse document frequency weighting
 - [[the-evolution-of-modern-rag-architectures|CBOW]] — predicts target word from context
 - [[skip-gram]] — predicts context from target word
-- [[word-embedding]] — dense vector representation capturing semantics
+- [[word-embeddings]] — dense vector representation capturing semantics
 - [[transformer-architecture|transformer]] — architecture using multi-head attention
 - [[multi-head-attention-from-scratch|multi-head attention]] — parallel attention over different aspects of input
 - polysemy — words with multiple meanings in different contexts

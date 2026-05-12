@@ -29,5 +29,5 @@ A detailed walkthrough of the self-attention mechanism using Prof. Tom Yeh's "AI
 - [[scaled-dot-product-attention]]
 - [[multi-head-attention]]
 - [[self-attention]]
-- [[word-embedding]]
+- [[word-embeddings]]
 - [[tokenization]]

@@ -27,8 +27,8 @@ ChromaDB is an open-source vector database designed for AI applications, particu
 ## Related Concepts
 
 - [[vector-database]] — category of database for embeddings
-- [[rag]] — primary use case for ChromaDB
-- [[embedding]] — stored in ChromaDB
+- [[retrieval-augmented-generation]] — primary use case for ChromaDB
+- [[embeddings]] — stored in ChromaDB
 - [[semantic-search]] — retrieval mechanism
 - [[tuning-local-llms-with-rag]] — implementation example
 

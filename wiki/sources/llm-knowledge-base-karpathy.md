@@ -131,7 +131,7 @@ Stateless AI development: Hitting usage limit or ending session feels like lobot
 ## Concepts Mentioned
 
 - [[llm-knowledge-base|LLM Knowledge Base]] — Markdown-based AI-maintained wiki
-- [[rag|RAG]] — Retrieval-Augmented Generation
+- [[retrieval-augmented-generation|RAG]] — Retrieval-Augmented Generation
 - [[vector-database|Vector Database]] — Embedding storage for RAG
 - [[backlinks|Backlinks]] — Connections between related ideas
 - [[linting|Linting]] — Active maintenance of knowledge

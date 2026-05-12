@@ -43,7 +43,7 @@ A comprehensive evolution of vector embedding techniques in NLP, tracing the pro
 - [[skip-gram|Skip-Gram]] — Neural network method predicting context words from target
 - [[transformer|Transformer]] — Modern architecture using attention mechanisms for language understanding
 - [[neural-networks|Neural Networks]] — Computational models inspired by biological neural systems
-- [[nlp|Natural Language Processing]] — Field focused on computers understanding human language
+- [[natural-language-processing|Natural Language Processing]] — Field focused on computers understanding human language
 - [[curse-of-dimensionality|Curse of Dimensionality]] — Problem where high-dimensional data requires exponentially more resources
 
 ## Raw Notes

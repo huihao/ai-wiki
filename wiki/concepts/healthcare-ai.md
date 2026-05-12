@@ -25,7 +25,7 @@ Healthcare AI refers to the application of artificial intelligence technologiesâ
 - [[ai-medicine]]
 - [[clinical-decision-support]]
 - [[medical-imaging]]
-- [[nlp]]
+- [[natural-language-processing]]
 
 ## Sources
 

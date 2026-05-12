@@ -21,7 +21,7 @@ A mechanism in Claude Code that intercepts the agent's exit attempt and checks w
 
 ## Related Concepts
 
-- [[ralph-loop]] — Ralph implementations use Stop hooks for run-until-done behavior
+- [[ralph]] — Ralph implementations use Stop hooks for run-until-done behavior
 - [[hooks]] — event-driven automation in Claude Code
 
 ## Sources

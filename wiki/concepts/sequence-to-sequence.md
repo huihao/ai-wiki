@@ -27,7 +27,7 @@ Sequence-to-sequence (Seq2Seq) is an encoder-decoder neural network architecture
 
 - [[transformers]] -- Architecture that superseded Seq2Seq by replacing recurrence with attention
 - [[attention-mechanisms]] -- Innovation first added to Seq2Seq before becoming the core of transformers
-- [[rnns]] -- Recurrent networks that powered original Seq2Seq models
+- [[recurrent-neural-networks]] -- Recurrent networks that powered original Seq2Seq models
 - [[machine-translation]] -- Primary application that motivated Seq2Seq development
 
 ## Sources

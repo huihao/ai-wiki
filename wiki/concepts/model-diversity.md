@@ -23,7 +23,7 @@ Model diversity refers to the variety and heterogeneity of outputs produced by l
 
 ## Related Concepts
 
-- [[mode-collapse]]
+- [[mode-collapse-in-llms]]
 - [[open-ended-generation]]
 - [[model-comparison-platforms]]
 

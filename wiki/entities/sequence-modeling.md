@@ -22,7 +22,7 @@ Sequence modeling is a branch of machine learning concerned with predicting or g
 - [[sequence-to-sequence]] — encoder-decoder architecture for mapping input sequences to output sequences
 - [[sequential-prediction]] — prediction tasks on ordered data
 - [[tokenization]] — breaking text into discrete tokens for sequence processing
-- [[attention-mechanism]] — mechanism enabling transformers to model long-range dependencies
+- [[attention-mechanisms]] — mechanism enabling transformers to model long-range dependencies
 
 ## Related Entities
 - [[christopher-olah]] — author of influential LSTM explanation

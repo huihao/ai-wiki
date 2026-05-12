@@ -20,7 +20,7 @@ A PRD (Product Requirements Document) is a structured document that defines the 
 - PRDs serve as context that persists across agent sessions, preventing the "lobotomy" problem of stateless AI interactions
 
 ## Related Concepts
-- [[ralph-loop]]
+- [[ralph]]
 - [[prompt-template]]
 - [[ai-coding-loop]]
 

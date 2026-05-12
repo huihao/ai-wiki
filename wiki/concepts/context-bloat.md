@@ -22,7 +22,7 @@ Context bloat is the degradation of LLM performance caused by excessive, irrelev
 - [[agent-systems]]
 - [[coding-agent]]
 - [[auto-memory]]
-- [[attention-is-all-you-need]]
+- [[transformers]]
 
 ## Sources
 - [[code-mode]]

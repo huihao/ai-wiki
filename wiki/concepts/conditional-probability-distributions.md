@@ -21,7 +21,7 @@ A conditional probability distribution describes the probability of each possibl
 
 ## Related Concepts
 - [[compounding-errors-in-llms]]
-- [[cross-entropy]]
+- [[cross-entropy-loss]]
 
 ## Sources
 - [[an-intuitive-guide-to-how-llms-work]]

@@ -2,7 +2,7 @@
 
 **Source:** [Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/) by [[jakob-uszkoreit]] (August 31, 2017)
 
-**Related:** [[attention-is-all-you-need]], [[google]], [[vaswani-et-al]], [[self-attention]], [[encoder-decoder]], [[machine-translation]], [[tpu]], [[coreference-resolution]], [[tensor2tensor]]
+**Related:** [[transformers]], [[google]], [[vaswani-et-al]], [[self-attention]], [[encoder-decoder]], [[machine-translation]], [[tpu]], [[coreference-resolution]], [[tensor2tensor]]
 
 ---
 

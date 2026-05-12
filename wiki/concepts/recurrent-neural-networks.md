@@ -34,3 +34,4 @@ Recurrent Neural Networks (RNNs) are a class of neural networks designed to proc
 
 - [[dive-into-deep-learning]]
 - [[explained-ai]]
+- [[everything-about-transformers]]

@@ -32,7 +32,7 @@ Used to reveal pronounced Artificial Hivemind effect: state-of-the-art LMs, rewa
 
 ## Related Concepts
 
-- [[mode-collapse]] — Phenomenon studied using this benchmark
+- [[mode-collapse-in-llms]] — Phenomenon studied using this benchmark
 - [[artificial-hivemind]] — Effect measured with Infinity-Chat
 - [[model-diversity]] — Core evaluation dimension
 - [[open-ended-generation]] — Task category

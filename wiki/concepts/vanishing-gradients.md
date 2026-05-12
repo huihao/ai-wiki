@@ -33,7 +33,7 @@ Vanishing gradients is a training problem in deep neural networks where gradient
 - [[exploding-gradients]] — opposite problem (gradients too large)
 - [[relu]] — primary solution to vanishing gradients
 - [[gradient-clipping]] — for exploding gradients
-- [[residual-connection]] — skip connections preserve gradients
+- [[residual-connections]] — skip connections preserve gradients
 - [[deep-learning]] — vanishing gradients limit depth
 - [[lstm]] — RNN architecture avoiding vanishing gradients
 

@@ -42,7 +42,7 @@ An overview of five Python libraries designed to optimize RAG (Retrieval Augment
 
 ## Concepts Mentioned
 
-- [[rag|Retrieval Augmented Generation (RAG)]] — Technique allowing LLMs to integrate external data in real-time
+- [[retrieval-augmented-generation|Retrieval Augmented Generation (RAG)]] — Technique allowing LLMs to integrate external data in real-time
 - [[vector-databases|Vector Databases]] — Storage systems for embeddings used in semantic search
 - [[enterprise-rag|Enterprise RAG]] — RAG systems designed for secure, scalable business deployment
 - [[deep-document-understanding|Deep Document Understanding]] — AI techniques for parsing complex document formats

@@ -51,7 +51,7 @@ The canonical visual introduction to the Transformer architecture. Alammar break
 - [[multi-head-attention-from-scratch|Multi-Head Attention]] — parallel attention heads
 - [[projective-ray-positional-encoding|Positional Encoding]] — sine/cosine sequence ordering
 - [[the-real-ai-coding-skill-isnt-prompting-its-architecture|Encoder-Decoder Architecture]] — model structure
-- [[residual-connection|Residual Connections]] — training stability
+- [[residual-connections|Residual Connections]] — training stability
 - [[layer-normalization]] — training stability
 - [[goedel-code-prover-hierarchical-proof-search|Beam Search]] — decoding strategy
 - [[self-attention|Cross-Entropy Loss]] — training objective

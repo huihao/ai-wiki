@@ -37,7 +37,7 @@ A mathematical proof that the Transformer’s sinusoidal positional encoding sat
 - [[projective-ray-positional-encoding|Positional encoding]] — injects sequence position information into transformer inputs
 - [[positional-encoding|Sinusoidal encoding]] — fixed-frequency sine/cosine encoding used in the original Transformer
 - Rotation matrix — 2x2 matrix representing rotation by angle lambda_m * k
-- [[attention-mechanism]] — the broader mechanism positional encoding supports
+- [[attention-mechanisms]] — the broader mechanism positional encoding supports
 
 ## Questions / Follow-ups
 

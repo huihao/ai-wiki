@@ -39,7 +39,7 @@ A comprehensive visual and intuitive guide to transformer architecture, tracing 
 ## Concepts Mentioned
 
 - [[transformers|Transformers]] — Revolutionary architecture for sequence modeling
-- [[attention-mechanism|Attention Mechanism]] — Core innovation enabling direct token relationships
+- [[attention-mechanisms|Attention Mechanism]] — Core innovation enabling direct token relationships
 - [[self-attention|Self-Attention]] — Tokens attending to each other within same sequence
 - [[multi-head-attention|Multi-Head Attention]] — Parallel attention learning different patterns
 - [[masked-self-attention|Masked Self-Attention]] — Decoder mechanism preventing future token visibility
@@ -48,7 +48,7 @@ A comprehensive visual and intuitive guide to transformer architecture, tracing 
 - [[layer-normalization|Layer Normalization]] — Stabilizing training across features
 - [[positional-encoding|Positional Encoding]] — Injecting sequence order into parallel processing
 - [[residual-connections|Residual Connections]] — Skip connections preserving gradient flow
-- [[rnns|Recurrent Neural Networks]] — Previous generation with sequential processing limitations
+- [[recurrent-neural-networks|Recurrent Neural Networks]] — Previous generation with sequential processing limitations
 - [[neural-networks|Neural Networks]] — Foundation for all modern deep learning
 
 ## Raw Notes

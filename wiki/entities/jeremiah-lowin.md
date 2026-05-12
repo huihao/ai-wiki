@@ -26,7 +26,7 @@ Jeremiah Lowin is a practitioner and educator known for his accessible explanati
 
 - [[how-llms-generate-text-conditional-probability|Probability Distribution]] — foundation of LLM behavior
 - [[how-llms-generate-text-conditional-probability|Conditional Probability]] — context-dependent token prediction
-- [[temperature-sampling|Sampling]] — converting distributions to outputs
+- [[temperature-parameter|Sampling]] — converting distributions to outputs
 
 ## Sources
 

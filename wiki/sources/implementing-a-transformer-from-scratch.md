@@ -41,8 +41,8 @@ A blog post highlighting seven surprising implementation details encountered whe
 - [[multi-head-attention-from-scratch|Multi-head attention]] — parallel attention heads with shared projections
 - Weight tying — sharing embedding weights across layers
 - [[teacher-forcing]] — feeding ground truth during training
-- [[residual-connection]] — adding sub-layer outputs to inputs
-- [[attention-mechanism]] — scaled dot-product attention
+- [[residual-connections]] — adding sub-layer outputs to inputs
+- [[attention-mechanisms]] — scaled dot-product attention
 
 ## Questions / Follow-ups
 

@@ -21,7 +21,7 @@ Peter Bloem is a machine learning researcher and educator, known for creating cl
 ## Related Concepts
 
 - [[transformer-architecture]] — main focus of educational content
-- [[attention-mechanism|Self-attention]] — detailed implementation explanations
+- [[attention-mechanisms|Self-attention]] — detailed implementation explanations
 - [[multi-head-attention-from-scratch|Multi-head attention]] — implemented in tutorials
 - [[transformers-from-scratch|Transformers from scratch]] — primary educational work
 

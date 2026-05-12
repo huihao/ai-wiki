@@ -35,6 +35,6 @@ An interactive visualization tool that explains how text-generative Transformer 
 - [[multi-head-attention]]
 - [[positional-encoding]]
 - [[tokenization]]
-- [[word-embedding]]
+- [[word-embeddings]]
 - [[softmax]]
-- [[temperature-sampling]]
+- [[temperature-parameter]]

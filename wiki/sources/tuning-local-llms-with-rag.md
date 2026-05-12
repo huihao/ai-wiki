@@ -39,10 +39,10 @@ A practical tutorial on implementing a local RAG (Retrieval-Augmented Generation
 
 ## Concepts Mentioned
 
-- [[rag|RAG (Retrieval-Augmented Generation)]] — main focus of tutorial
+- [[retrieval-augmented-generation|RAG (Retrieval-Augmented Generation)]] — main focus of tutorial
 - [[rag-optimization|RAG Optimization]] — chunking strategies, multi-query retrieval
 - [[vector-database|Vector Database]] — ChromaDB for storing embeddings
-- [[embedding]] — converting text to vector representations
+- [[embeddings]] — converting text to vector representations
 - [[semantic-search|Semantic Search]] — retrieving relevant chunks
 - [[chunking-strategy|Chunking Strategy]] — splitting documents for retrieval
 - [[multi-query-retrieval|Multi-Query Retrieval]] — generating query variants

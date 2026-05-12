@@ -970,3 +970,48 @@ _Pages with no inbound links, or work-in-progress pages._
 - [[yann-lecun|Yann LeCun]] — Updated with full biography, academic background, major contributions (LeNet-5, deep learning foundations), awards, key papers, career timeline, research philosophy, and cross-references.
 - [[alibaba|Alibaba]] — Updated with cross-reference to Taobao and observability projects (iLogtail, LoongCollector).
 
+
+## Ingested 2026-05-12 (6 articles)
+
+### Sources
+- [[agent-skill-spec-design-patterns|Agent Skill规范、构建与设计模式]] — Comprehensive deep-dive into Anthropic's Agent Skill specification, covering SKILL.md format, three-layer progressive loading, model-driven trigger logic, and the Skill-Creator meta-skill. Published via Alibaba's tech blog.
+- [[kimi-k2-deepseek-v3-training|Building and Training a Kimi-K2 Model Using DeepSeek-V3 Components]] — Technical deep-dive into Moonshot AI's Kimi-K2 (1.04T MoE, 32B active), MuonClip optimizer with QK-Clip, attention head optimization, and training data innovations.
+- [[fast-mmm-cpu-from-scratch|Fast Multidimensional Matrix Multiplication on CPU from Scratch]] — Step-by-step optimization of MMM from 4.4s to 16ms via loop reordering (16x), L1 tiling, multithreading, and SIMD FMA.
+- [[ryo-kusnadi-harness-engineering|How To Implement Harness Engineering]] — Practical guide introducing a 5-level maturity model (L0-L4) for harness engineering with Rules, Skills, Sub-Agents, and MCP components.
+- [[learning-beyond-gradients|Learning Beyond Gradients]] — Introduces Heuristic Learning (HL): coding agents iteratively building programmatic policies without neural-network training. Demonstrates competitive results on Atari, MuJoCo, and VizDoom.
+- [[transformers-a-primer|Transformers: a Primer]] — Math-guided walkthrough of the Transformer architecture with original derivations of Scaled Dot-Product Attention, Multi-Head Attention, and the softmax Jacobian.
+
+### Entities
+- [[jiayi-weng|Jiayi Weng]] — AI researcher and EnvPool maintainer who coined Heuristic Learning (HL).
+- [[justin-lee|Justin Seonyong Lee]] — Author of "Transformers: a Primer" math walkthrough, Columbia University.
+- [[kimi-k2|Kimi-K2]] — Moonshot AI's 1.04T parameter MoE language model, 32.6B active params, 384 experts, MuonClip optimizer. 5th on LMSYS Arena.
+- [[ryo-kusnadi|Ryo Kusnadi]] — Author of practical Harness Engineering implementation guide with 5-level maturity model.
+- [[columbia-university|Columbia University]] — Ivy League research university. Justin Lee published Transformers primer.
+
+### Concepts
+- [[agent-skill|Agent Skill]] — Structured behavioral specification for AI agents (SKILL.md format) with three-layer progressive loading.
+- [[heuristic-learning|Heuristic Learning]] — Coding agents building programmatic policies via code edits, not gradient updates.
+- [[heuristic-system|Heuristic System]] — The maintainable software system produced by Heuristic Learning.
+- [[muonclip-optimizer|MuonClip Optimizer]] — Muon + QK-Clip optimizer for Kimi-K2 training stability.
+- [[muon-optimizer|Muon Optimizer]] — Momentum-based optimizer with better token efficiency than AdamW.
+- [[adamw-optimizer|AdamW Optimizer]] — Adam with decoupled weight decay, standard for transformer training.
+- [[qk-clip|QK-Clip]] — Per-head weight clipping when max logits exceed threshold τ=100.
+- [[sparsity-scaling-law|Sparsity Scaling Law]] — In MoE, increasing experts (constant activated params) lowers loss.
+- [[harness-maturity-model|Harness Engineering Maturity Model]] — 5-level L0-L4: Rules → Skills → Sub-Agents → MCP.
+- [[agent-rules|Agent Rules]] — Soft constraints/policies for AI agents. L1 of harness maturity model.
+- [[three-layer-loading|Three-Layer Loading]] — Progressive L1/L2/L3 loading for Agent Skills.
+- [[skill-creator|Skill Creator]] — Anthropic's meta-skill for building Skills with ML-like iteration discipline.
+- [[loop-reordering|Loop Reordering]] — Changing loop nest order for cache locality. 16x speedup in MMM.
+- [[cache-blocking|Cache Blocking]] — Dividing computation to fit L1 cache. 21% improvement in MMM.
+- [[simd|SIMD]] — Single Instruction Multiple Data vectorization. 16 FLOPs per AVX2 FMA instruction.
+- [[knowledge-data-rephrasing|Knowledge Data Rephrasing]] — Synthetic style-diverse rephrasing of training data.
+- [[token-utility|Token Utility]] — Effective learning signal per training token, optimized via rephrasing.
+- [[continual-learning|Continual Learning]] — Learning from continuous task streams without catastrophic forgetting.
+- [[catastrophic-forgetting|Catastrophic Forgetting]] — Neural networks forgetting old knowledge when learning new info.
+- [[model-predictive-control|Model Predictive Control]] — Short-horizon planning as residual controller in HL policies.
+- [[central-pattern-generators|Central Pattern Generators]] — Rhythmic motor pattern generators, base reflexes in HL locomotion.
+- [[coupling-complexity|Coupling Complexity]] — Interdependent states/rules an agent must account for simultaneously.
+- [[data-augmentation|Data Augmentation]] — Expanding training datasets; knowledge rephrasing is LLM-era augmentation.
+- [[bidirectional-encoders|Bidirectional Encoders]] — Forward + reverse RNN for full contextual representation.
+- [[label-smoothing|Label Smoothing]] — Regularization via weighted average of true label and uniform distribution.
+- [[modularity|Modularity]] — Separable, recombable system components. Reduces coupling complexity.

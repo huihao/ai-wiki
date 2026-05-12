@@ -30,7 +30,7 @@ Genkit is an open-source framework built by Google for building AI-powered full-
 
 - [[ai-frameworks|AI Frameworks]] — Primary category
 - [[full-stack-ai|Full-Stack AI]] — Core use case
-- [[rag|RAG]] — Supported capability
+- [[retrieval-augmented-generation|RAG]] — Supported capability
 - [[agent-workflows|Agent Workflows]] — Built-in primitives
 
 ## Sources

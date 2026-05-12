@@ -27,7 +27,7 @@ OpenRouter is a unified API gateway that provides a single interface for accessi
 ## Related Concepts
 - [[llm-inference]] — OpenRouter simplifies access to LLM inference across providers
 - [[model-serving]] — OpenRouter acts as an intermediary layer for model serving
-- [[model-pricing]] — OpenRouter provides transparent pricing across providers
+- [[llm-pricing]] — OpenRouter provides transparent pricing across providers
 - [[model-comparison-platforms]] — OpenRouter facilitates model comparison through unified access
 
 ## Sources

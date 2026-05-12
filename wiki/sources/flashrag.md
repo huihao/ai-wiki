@@ -80,7 +80,7 @@ Reasoning methods achieve F1 scores close to 60 on multi-hop datasets (HotpotQA,
 
 ## Concepts Mentioned
 
-- [[rag]] — retrieval-augmented generation
+- [[retrieval-augmented-generation]] — retrieval-augmented generation
 - [[rag-optimization]] — optimizing retrieval and generation pipelines
 - [[rag-benchmarking]] — evaluating RAG systems
 - [[enterprise-rag]] — domain-specific RAG deployment

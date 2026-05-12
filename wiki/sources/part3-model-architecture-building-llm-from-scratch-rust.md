@@ -2,7 +2,7 @@
 
 **Source:** [Part 3: Model Architecture, Building an LLM from Scratch in Rust](https://www.tag1.com/how-to/part3-model-architecture-building-an-llm-from-scratch/) by [[jeremy-andrews]] (January 12, 2026)
 
-**Related:** [[feste]], [[tag1]], [[transformer-architecture]], [[embeddings]], [[attention-mechanism]], [[layer-normalization]], [[residual-connections]], [[gelu]], [[mlp-layer]], [[gpt-2]]
+**Related:** [[feste]], [[tag1]], [[transformer-architecture]], [[embeddings]], [[attention-mechanisms]], [[layer-normalization]], [[residual-connections]], [[gelu]], [[mlp-layer]], [[gpt-2]]
 
 ---
 
@@ -24,7 +24,7 @@ Transformer architecture replaced recurrent neural networks (RNNs) for language 
 
 **Transformer solution:**
 - All tokens process in parallel
-- [[attention-mechanism]] lets each token look at any other directly
+- [[attention-mechanisms]] lets each token look at any other directly
 - Position 7 references position 2 without intermediate steps
 - Orders of magnitude faster training
 - [[gpt-2]] handles 1,024 tokens; [[gpt-4]] handles 128,000+

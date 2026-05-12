@@ -23,7 +23,7 @@ Aditya Thiruvengadam is a writer who published a detailed Medium article explain
 
 ## Related Concepts
 
-- [[attention-mechanism]] — core topic explained
+- [[attention-mechanisms]] — core topic explained
 - [[multi-head-attention]] — detailed breakdown
 - [[encoder-decoder]] — architecture explanation
 - [[scaled-dot-product-attention]] — attention computation method

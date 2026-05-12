@@ -1,16 +1,68 @@
-# Wiki Lint Report — 2026-05-11 (updated, post-clippings + post-lint-fix)
+# Wiki Lint Report — 2026-05-12 (concept deduplication pass)
 
 ## Summary
 
-| Category | Before (2026-04-29) | After (2026-05-08) | After (2026-05-09) | After (2026-05-09 v2) | After (2026-05-11) | After (2026-05-11 clippings) |
+| Category | Before (2026-04-29) | After (2026-05-08) | After (2026-05-09) | After (2026-05-11) | After (2026-05-11 clippings) | After (2026-05-12) |
 |---|---|---|---|---|---|---|
-| Ghost references (new) | 71 | **0** | 0 (new) | 0 (new), ~373 pre-existing | 0 (new), ~373 pre-existing | **0** (all resolved) | **0** (all resolved) |
-| Total wiki pages | 2,568 | 2,605 | **2,585** | **2,582** | **2,536** | **2,578** | **2,602** |
-| Stub pages (≤2 body lines) | 44 | 35 | **0** | **0** | **0** | **0** | **0** |
-| Orphan pages (no inbound links) | 199 | ~138 | **~132** | **~132** | ~132 | ~132 | ~132 |
-| Concepts (wiki/concepts/) | — | — | — | 1,457 | **1,411** | **1,433** | **1,441** |
-| Entities (wiki/entities/) | — | — | — | — | — | **484** | **670** |
-| Sources (wiki/sources/) | — | — | — | — | — | **658** | **662** |
+| Ghost references (new) | 71 | **0** | 0 (new), ~373 pre-existing | 0 (new), ~373 pre-existing | **0** (all resolved) | **0** (new), ~403 pre-existing |
+| Total wiki pages | 2,568 | 2,605 | **2,582** | **2,536** | **2,602** | **2,602** |
+| Stub pages (≤2 body lines) | 44 | 35 | **0** | **0** | **0** | **0** |
+| Orphan pages (no inbound links) | 199 | ~138 | **~132** | ~132 | ~132 | ~132 |
+| Concepts (wiki/concepts/) | — | — | 1,457 | **1,411** | **1,441** | **1,434** |
+| Entities (wiki/entities/) | — | — | — | — | **670** | **676** |
+| Sources (wiki/sources/) | — | — | — | — | **662** | **492** |
+
+## Changes Made on 2026-05-12: Concept Deduplication (25 files deleted)
+
+### Alias Stubs Deleted (6)
+These were redirect pages with no unique content, deleted after rewriting all inbound links:
+
+| Deleted | Canonical |
+|---|---|
+| `rlhf.md` | `reinforcement-learning-from-human-feedback.md` |
+| `rag.md` | `retrieval-augmented-generation.md` |
+| `word-embedding.md` | `word-embeddings.md` |
+| `loss-functions.md` | `loss-function.md` |
+| `embedding.md` | `embeddings.md` |
+| `attention-mechanism.md` | `attention-mechanisms.md` |
+
+### Content Merges (19 files deleted)
+Unique content from each deleted file was absorbed into the canonical page before deletion. All `[[old-name]]` wiki links were rewritten to point to the canonical.
+
+| Deleted | Canonical | Unique Content Preserved |
+|---|---|---|
+| `nlp.md` | `natural-language-processing.md` | Embedding progression, curse of dimensionality, source `vector-embeddings-from-baby-nlp-to-mature-llms` |
+| `rnns.md` | `recurrent-neural-networks.md` | Biological analogy, source `everything-about-transformers` |
+| `recommender-systems.md` | `recommendation-systems.md` | Neural collaborative filtering, serendipity, source `dive-into-deep-learning` |
+| `probability-theory.md` | `probability.md` | Markov chains, entropy, mutual information, LLM connection, source `a-a-markov` |
+| `model-pricing.md` | `llm-pricing.md` | Blended 3:1 ratio, speed-as-cost, source `llm-leaderboard-comparison-100-models` |
+| `gelu-activation.md` | `gelu.md` | Mixed-precision training note, source `explain-feed-forward-network-transformer-block` |
+| `mode-collapse.md` | `mode-collapse-in-llms.md` | Infinity-Chat stats, sources `artificial-hivemind`, `infinity-chat`, link `model-diversity` |
+| `gradient-checkpointing.md` | `activation-checkpointing.md` | O(√n) complexity, ~30% overhead, step-by-step How It Works, use cases, source `transformers-from-scratch` |
+| `activation-recomputation.md` | `activation-checkpointing.md` | FLOPs equation (6ND→8ND), ~33% increase, elementwise ops insight, sources `flops-calculus`, `the-flops-calculus-of-language-model-training` |
+| `temperature-sampling.md` | `temperature-parameter.md` | Proponents (OpenAI, Anthropic), broader related concepts (softmax, top-k, top-p, beam-search), evolution timeline |
+| `attention-is-all-you-need.md` | `transformers.md` | sqrt(d_k) scaling rationale, block-diagonal rotation matrices, sources `linear-relationships-positional-encoding`, `transformer-novel-neural-network-architecture-language-understanding`, `understanding-and-coding-self-attention-mechanism` |
+| `foundation-model.md` | `foundation-models.md` | Stanford HAI term originators, transfer-learning, distillation, evolution timeline, sources `train-foundation-model-ruiz`, `what-is-chatgpt-doing-wolfram` |
+| `residual-connection.md` | `residual-connections.md` | Proponents (Kaiming He, Yann LeCun), Highway Networks history, source `how-to-think-about-gpus` |
+| `text-encoders.md` | `text-encoder.md` | T5Gemma, text conditioning mechanisms, text token caching, source `text-to-image-architectural-experiments` (rewritten as comprehensive page) |
+| `trust-boundary.md` | `trust-boundaries.md` | AI coding loop example, team-level trust boundary, source `ai-coding-loop` |
+| `cross-entropy.md` | `cross-entropy-loss.md` | Binary cross-entropy, KL divergence relationship, vanishing gradients with sigmoid |
+| `jacobian-matrix.md` | `jacobian.md` | Links to `gradient`, `chain-rule`, `partial-derivative`, `vector-chain-rule` |
+| `ralph-loop.md` | `ralph.md` | Attribution (Geoffrey Huntley), Anthropic/OpenAI adopters, script structure, sources `agentic-engineering-engineering-revolution`, `what-is-ralph-loop-bash-coding-pattern` |
+| `b-tree-index.md` | `b-tree.md` | Index Join transformation, clustered vs non-clustered, range queries, links `join-algorithms`, `buffer-pool`, `cost-based-optimization` |
+
+### Kept Separate (verified not duplicates)
+- `svd.md` ↔ `singular-value-decomposition.md` — complementary mathematical content (Eckart-Young-Mirsky vs Golub-Reinsch)
+- `categorical-crossentropy.md` ↔ `cross-entropy-loss.md` — hierarchical relationship (specific vs general)
+- `cuda-architecture.md` ↔ `cuda.md` — different scope (deep technical reference vs high-level overview)
+- `conditional-probability.md` ↔ `conditional-probability-distributions.md` — different scope (general math vs LLM-specific)
+- `compounding-errors.md` ↔ `compounding-errors-in-llms.md` — different phenomena (agent coding vs autoregressive generation)
+- `gpu-inference.md` ↔ `model-inference.md` — different scope (GPU-specific vs broad overview)
+- `model-deployment.md` ↔ `production-deployment.md` — different scope (LLM-focused vs broader ML)
+- `embedding-layers.md` ↔ `embedding-matrix.md` — different topics (weight tying vs matrix structure)
+- `self-attention.md` ↔ `self-attention-masks.md` — different topics (general mechanism vs masking sub-mechanism)
+
+---
 
 ## Changes Made on 2026-05-11: Lint Fix (25 ghost references resolved)
 
@@ -219,9 +271,9 @@ All entity stubs expanded with Summary, Key Attributes, Related Entities, Relate
 
 ## Remaining Issues
 
-### Pre-existing Ghost References (~373)
+### Pre-existing Ghost References (~403)
 
-These existed before the 2026-05-09 passes and were not introduced by this session:
+These existed before the 2026-05-12 pass and were not introduced by this session:
 - `[[index]]` (34x): References to `wiki/index.md` — false positive (file exists at root)
 - `[[log]]` (4x): References to `wiki/log.md` — false positive (file exists at root)
 - Person names without pages (e.g., `[[chris-olah]]`, `[[collaborative-filtering]]`)

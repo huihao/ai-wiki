@@ -35,7 +35,7 @@ Sara Zan is a software engineer, writer, and educator known for her comprehensiv
 
 ## Related Concepts
 
-- [[rag]] — Retrieval-Augmented Generation
+- [[retrieval-augmented-generation]] — Retrieval-Augmented Generation
 - [[haystack]] — NLP framework
 - [[retrievers]] — Document search mechanisms
 - [[prompt-builder]] — Template-based prompts

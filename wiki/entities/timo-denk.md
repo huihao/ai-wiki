@@ -25,7 +25,7 @@ Machine learning researcher and blogger. Known for mathematical analysis of tran
 
 - [[transformer-architecture|Transformer Architecture]] — subject of mathematical analysis
 - [[positional-encoding|Positional Encoding]] — proved linear relationship property
-- [[attention-mechanism|Attention Mechanism]] — relative position learning enabled by linear property
+- [[attention-mechanisms|Attention Mechanism]] — relative position learning enabled by linear property
 
 ## Sources
 

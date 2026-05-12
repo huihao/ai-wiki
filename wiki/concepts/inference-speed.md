@@ -23,7 +23,7 @@ Inference speed is the rate at which a language model generates output tokens, t
 ## Related Concepts
 
 - [[llm-leaderboard-comparison-100-models]]
-- [[model-pricing]]
+- [[llm-pricing]]
 - [[context-window]]
 
 ## Sources

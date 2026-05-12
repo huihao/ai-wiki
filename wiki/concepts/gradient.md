@@ -23,12 +23,12 @@ A gradient is a vector of partial derivatives of a scalar-valued function with r
 
 ## Related Concepts
 
-- [[jacobian-matrix]]
+- [[jacobian]]
 - [[matrix-calculus-deep-learning]]
 - [[backpropagation]]
 
 ## Sources
 
-- [[jacobian-matrix]]
+- [[jacobian]]
 - [[matrix-calculus-deep-learning]]
 - [[vector-chain-rule]]

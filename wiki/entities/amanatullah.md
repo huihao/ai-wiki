@@ -25,9 +25,9 @@ None specifically mentioned
 ## Related Concepts
 
 - [[tokenization]] — first step explained
-- [[embedding]] — numerical representation
+- [[embeddings]] — numerical representation
 - [[positional-encoding]] — position information
-- [[attention-mechanism]] — context addition
+- [[attention-mechanisms]] — context addition
 - [[softmax]] — probability conversion
 - [[post-training]] — task-specific fine-tuning
 

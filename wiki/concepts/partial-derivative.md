@@ -28,5 +28,5 @@ A partial derivative measures the rate of change of a multivariable function wit
 
 ## Sources
 
-- [[jacobian-matrix]]
+- [[jacobian]]
 - [[matrix-calculus-deep-learning]]

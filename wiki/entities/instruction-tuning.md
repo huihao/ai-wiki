@@ -22,7 +22,7 @@ Instruction tuning is a fine-tuning technique where a language model is trained 
 ## Related Concepts
 - [[supervised-fine-tuning]] -- instruction tuning is a specific form of supervised fine-tuning
 - [[fine-tuning]] -- the broader practice of adapting pre-trained models to specific tasks
-- [[rlhf]] -- reinforcement learning from human feedback, often applied after instruction tuning
+- [[reinforcement-learning-from-human-feedback]] -- reinforcement learning from human feedback, often applied after instruction tuning
 - [[alignment]] -- the process of making models follow human intent, of which instruction tuning is one stage
 - [[few-shot-learning]] -- instruction tuning improves a model's few-shot capabilities
 - [[in-context-learning]] -- instruction-tuned models are better at learning from in-context examples

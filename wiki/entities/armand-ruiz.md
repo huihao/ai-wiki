@@ -25,7 +25,7 @@ Armand Ruiz is an AI product leader and writer who focuses on practical machine 
 
 ## Related Concepts
 
-- [[foundation-model]] — main focus of his writing
+- [[foundation-models]] — main focus of his writing
 - [[llm-training]] — detailed cost analysis
 - [[fine-tuning]] — recommended alternative to scratch training
 

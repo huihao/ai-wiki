@@ -41,7 +41,7 @@ A comprehensive overview of RAG (Retrieval Augmented Generation) system evolutio
 
 ## Concepts Mentioned
 
-- [[rag|Retrieval Augmented Generation]] — Core technique integrating external data with LLMs
+- [[retrieval-augmented-generation|Retrieval Augmented Generation]] — Core technique integrating external data with LLMs
 - [[naive-rag|Naive RAG]] — Basic RAG implementation with chunking and vector search
 - [[contextual-retrieval|Contextual Retrieval]] — Embedding chunks with document context
 - [[cache-augmented-generation|Cache Augmented Generation]] — Pre-computing context in KV cache

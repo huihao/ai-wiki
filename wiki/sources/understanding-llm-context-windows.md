@@ -114,4 +114,4 @@ Exceeding the context window causes unreliable responses. Staying within enables
 ## References
 
 - Author: [[tahir|Tahir]]
-- Concepts: [[context-window|Context Window]], [[tokenization|Tokenization]], [[self-attention|Self-Attention]], [[long-context-llms|Long Context LLMs]], [[attention-mechanism|Attention Mechanism]]
+- Concepts: [[context-window|Context Window]], [[tokenization|Tokenization]], [[self-attention|Self-Attention]], [[long-context-llms|Long Context LLMs]], [[attention-mechanisms|Attention Mechanism]]

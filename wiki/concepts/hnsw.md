@@ -22,7 +22,7 @@ Hierarchical Navigable Small World (HNSW) is a graph-based approximate nearest n
 - [[nearest-neighbors]] — HNSW is an approximate solution to the exact nearest neighbor problem
 - [[graph-theory]] — HNSW is built on small-world graph theory
 - Hnswlib — the high-performance C++ library implementing HNSW
-- [[b-tree-index]] — the equivalent hierarchical index structure for traditional databases
+- [[b-tree]] — the equivalent hierarchical index structure for traditional databases
 
 ## Related Entities
 - [[faiss]] — Facebook's library includes HNSW as one of its index types

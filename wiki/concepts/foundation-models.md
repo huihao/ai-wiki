@@ -26,7 +26,19 @@ Foundation models are large-scale AI models trained on broad, unlabeled data (ty
 - [[fine-tuning]]
 - [[parameter-efficient-fine-tuning]]
 - [[llm-training]]
+- [[transfer-learning]] — applying learned representations to new tasks
+- [[distillation]] — creating smaller models from foundation models
+- [[the-bitter-lesson]] — debate about whether scale and compute matter more than architectural innovation
 
 ## Sources
 
 - [[what-it-takes-to-train-foundation-model]]
+- [[train-foundation-model-ruiz]]
+- [[what-is-chatgpt-doing-wolfram]]
+
+## Evolution
+
+- **2018**: BERT and GPT-1 established the pre-train-then-fine-tune paradigm
+- **2020**: GPT-3 showed prompting could replace fine-tuning for many tasks
+- **2022+**: Open-weight foundation models (Llama, Mistral) democratized access
+- **Current**: Most AI applications build on foundation models rather than training from scratch

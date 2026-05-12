@@ -43,7 +43,7 @@ A comprehensive tutorial implementing self-attention mechanisms from scratch in 
 - [[causal-attention|Causal Attention]] — Masked attention for autoregressive generation
 - [[cross-attention|Cross-Attention]] — Attention between two distinct sequences
 - [[transformer-architecture|Transformer Architecture]] — Foundation architecture for modern LLMs
-- [[attention-is-all-you-need|Attention Is All You Need]] — Original transformer paper (2017)
+- [[transformers|Attention Is All You Need]] — Original transformer paper (2017)
 - [[scaled-dot-product-attention|Scaled Dot-Product Attention]] — Standard attention computation method
 - [[llm-embeddings|LLM Embeddings]] — Vector representations of tokens in language models
 

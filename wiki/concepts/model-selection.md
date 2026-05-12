@@ -25,7 +25,7 @@ Model selection is the process of choosing the appropriate AI model variant for 
 ## Related Concepts
 
 - [[model-benchmarks]]
-- [[model-pricing]]
+- [[llm-pricing]]
 - [[prompt-engineering]]
 - [[api-integration]]
 

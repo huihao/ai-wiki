@@ -27,7 +27,7 @@ Model benchmarks are standardized evaluation frameworks that measure and compare
 - [[model-evaluation]]
 - [[llm-leaderboards]]
 - [[inference-speed]]
-- [[model-pricing]]
+- [[llm-pricing]]
 
 ## Sources
 

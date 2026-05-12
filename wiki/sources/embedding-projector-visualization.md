@@ -42,7 +42,7 @@ TensorFlow Embedding Projector is an interactive web tool for visualizing high-d
 
 ## Concepts Mentioned
 
-- [[embedding]] — high-dimensional representations to visualize
+- [[embeddings]] — high-dimensional representations to visualize
 - [[pca|PCA]] — linear dimensionality reduction technique
 - [[tsne|t-SNE]] — non-linear manifold learning technique
 - [[umap|UMAP]] — modern non-linear dimensionality reduction

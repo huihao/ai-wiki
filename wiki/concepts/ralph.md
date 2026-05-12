@@ -13,8 +13,11 @@ Ralph is a technique for running AI coding agents in autonomous loops. The agent
 
 ## Key Proponents / Critics
 
-- **Matt Pocock** — Creator and advocate of Ralph technique
+- **Matt Pocock** — Creator and advocate of Ralph technique (ralph.md credits Pocock; ralph-loop.md credits Geoffrey Huntley)
+- [[geoffrey-huntley]] — Ralph Wiggum Technique (attributed as creator in some sources)
 - [[ai-hero|AI Hero]] — Platform promoting Ralph
+- **Adopters**: [[anthropic]] — official Claude Code plugin
+- **Adopters**: [[openai|OpenAI Codex team]] — referenced in Harness Engineering article
 
 ## Core Mechanism
 
@@ -64,6 +67,8 @@ Looped execution for AFK operation:
 ## Sources
 
 - [[getting-started-with-ralph|Getting Started With Ralph]]
+- [[agentic-engineering-engineering-revolution]] — production usage with 10-step workflow
+- [[what-is-ralph-loop-bash-coding-pattern]] — comprehensive explanation of the pattern, components, and best practices
 
 ## Evolution
 

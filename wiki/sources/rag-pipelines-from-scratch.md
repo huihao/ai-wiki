@@ -79,7 +79,7 @@ Tutorial builds a world countries knowledge base answering obscure questions:
 
 ## Concepts Mentioned
 
-- [[rag]] — Retrieval-Augmented Generation
+- [[retrieval-augmented-generation]] — Retrieval-Augmented Generation
 - [[retrievers]] — Document retrieval mechanisms (BM25, embedding)
 - [[generators]] — LLM components in Haystack
 - [[prompt-builder]] — Template-based prompt construction

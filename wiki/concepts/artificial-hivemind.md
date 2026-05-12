@@ -34,7 +34,7 @@ Studied using [[infinity-chat]] benchmark revealing:
 
 ## Related Concepts
 
-- [[mode-collapse]] — Technical manifestation
+- [[mode-collapse-in-llms]] — Technical manifestation
 - [[model-diversity]] — Opposite goal
 - [[infinity-chat]] — Benchmark for measurement
 - [[ai-safety]] — Broader concern domain

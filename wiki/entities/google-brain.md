@@ -27,7 +27,7 @@ Google Brain is the research team responsible for introducing the Transformer ar
 ## Related Concepts
 
 - [[transformers|Transformers]] — Core architecture introduced
-- [[attention-mechanism|Attention Mechanism]] — Key innovation
+- [[attention-mechanisms|Attention Mechanism]] — Key innovation
 - [[self-attention|Self-Attention]] — Primary mechanism in architecture
 
 ## Sources

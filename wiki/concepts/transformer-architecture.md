@@ -13,7 +13,7 @@ A neural network architecture based entirely on self-attention mechanisms, intro
 
 ## Related Concepts
 
-- [[attention-mechanism]] — Core building block of the transformer: scaled dot-product attention
+- [[attention-mechanisms]] — Core building block of the transformer: scaled dot-product attention
 - [[scaled-dot-product-attention]] — The specific attention computation used in transformers
 - [[queries-keys-values]] — Three linearly projected representations in self-attention
 - [[encoder-decoder-architecture]] — Original transformer design with bidirectional encoder and autoregressive decoder

@@ -21,7 +21,7 @@ Budget forcing is an inference-time technique for controlling the length and dep
 
 ## Related Concepts
 - [[beam-search]]
-- [[activation-recomputation]]
+- [[activation-checkpointing]]
 
 ## Sources
 - [[inference-time-compute-scaling]]

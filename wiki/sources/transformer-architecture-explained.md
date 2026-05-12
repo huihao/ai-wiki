@@ -34,9 +34,9 @@ None specifically - general transformer model references only
 ## Concepts Mentioned
 
 - [[tokenization]] - converting text to tokens
-- [[embedding]] - turning tokens into numerical vectors
+- [[embeddings]] - turning tokens into numerical vectors
 - [[positional-encoding]] - adding position information to embeddings
-- [[attention-mechanism]] - adding context to words based on neighboring words
+- [[attention-mechanisms]] - adding context to words based on neighboring words
 - [[multi-head-attention]] - using multiple embeddings to add richer context
 - [[softmax]] - converting scores to probabilities for word selection
 - [[post-training]] - fine-tuning on task-specific datasets

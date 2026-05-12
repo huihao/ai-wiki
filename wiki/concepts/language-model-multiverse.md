@@ -41,7 +41,7 @@ Conceptual model viewing language model outputs as generating a "multiverse" of 
 
 ## Related Concepts
 
-- [[temperature-sampling]] — controls probability distribution shape
+- [[temperature-parameter]] — controls probability distribution shape
 - [[conditional-probability]] — foundation of chain rule
 - [[probability-mass-visualization]] — visual representation tool
 - [[autoregressive-generation]] — sequential token prediction

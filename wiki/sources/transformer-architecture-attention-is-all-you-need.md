@@ -35,7 +35,7 @@ Detailed exploration of the attention mechanism that powers transformer architec
 
 ## Concepts Mentioned
 
-- [[attention-mechanism]] - context vectors and relevance scoring
+- [[attention-mechanisms]] - context vectors and relevance scoring
 - [[self-attention]] - intra-input and intra-output dependencies
 - [[multi-head-attention]] - multiple parallel attention layers with different transformations
 - [[scaled-dot-product-attention]] - faster and more space-efficient than additive attention

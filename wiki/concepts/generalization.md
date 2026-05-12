@@ -22,7 +22,7 @@ Generalization is the ability of a machine learning model to perform well on uns
 
 ## Related Concepts
 - [[dropout]]
-- [[cross-entropy]]
+- [[cross-entropy-loss]]
 
 ## Sources
 - [[diffusion-model-theory]]

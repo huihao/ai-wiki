@@ -29,7 +29,7 @@ LLMWare is an open-source framework designed for building enterprise-ready RAG (
 
 ## Related Concepts
 
-- [[rag|Retrieval Augmented Generation (RAG)]] — Core technique LLMWare implements
+- [[retrieval-augmented-generation|Retrieval Augmented Generation (RAG)]] — Core technique LLMWare implements
 - [[enterprise-rag|Enterprise RAG]] — Primary deployment target
 - [[rag-optimization|RAG Optimization]] — Key benefit of using LLMWare
 

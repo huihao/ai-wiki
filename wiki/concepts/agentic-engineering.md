@@ -25,7 +25,7 @@ Agentic Engineering is not Vibe Coding's opposite but its工程化演进 — pre
 - [[vibe-coding-is-dead-heres-what-replaced-it|Vibe coding]] — the undisciplined precursor
 - [[harness-engineering-overview|Harness Engineering]] — infrastructure for reliable agents
 - [[context-engineering]] — managing what the agent sees
-- [[ralph-loop]] — foundational autonomous execution pattern
+- [[ralph]] — foundational autonomous execution pattern
 - [[understanding-spec-driven-development-kiro-spec-kit-tessl|Spec-driven development]] — documentation-first approach
 - [[progressive-disclosure]] — pull-based context loading
 

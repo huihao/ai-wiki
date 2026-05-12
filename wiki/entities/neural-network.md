@@ -23,7 +23,7 @@ A neural network is a computational model inspired by the structure and function
 - [[neural-networks]] — general concept page for neural network architectures
 - [[neural-network-training]] — the process of optimizing neural network parameters
 - [[neural-scaling-laws]] — empirical relationships between model size and performance
-- [[attention-mechanism]] — mechanism allowing networks to focus on relevant parts of input
+- [[attention-mechanisms]] — mechanism allowing networks to focus on relevant parts of input
 - [[tokenization]] — breaking text into tokens for neural network input
 
 ## Related Entities

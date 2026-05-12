@@ -18,6 +18,7 @@ Trust boundaries are the security perimeters that define which components of a s
 - **Evolution of Protection**: Zero boundaries -> secret injection proxy (prevents exfiltration but not runtime misuse) -> shared sandbox (partial isolation) -> separate compute (agent and code in distinct VMs) -> application sandbox with secret injection (recommended)
 - **Application Sandbox with Secret Injection**: The recommended architecture combines separate compute contexts with a proxy that injects credentials into outbound HTTP headers only for intended endpoints, preventing both direct credential access and exfiltration
 - **Harness vs. Generated Code**: The agent harness (running the LLM) and generated programs should always run in separate security contexts; the harness may be trusted, but generated code should never be
+- **Team-Level Trust**: If you cannot verify AI-generated code, you do not own it, and shipping it violates the trust boundary with your users
 - **Delegation Chain**: Enterprise systems (Volcano Engine) implement Agent Persona (workload identity) and Delegation Chain (identity chain for authorization) to maintain trust boundaries across distributed agent systems
 - **Vercel Implementation**: Uses ephemeral Linux VMs for generated code (destroyed after execution) and Fluid compute for the agent harness (billing pauses during I/O wait)
 
@@ -34,3 +35,4 @@ Trust boundaries are the security perimeters that define which components of a s
 - [[agent-security]] -- Protecting AI agents from attacks
 - [[secrets-management]] -- Secure credential handling patterns
 - [[security-boundaries-agentic-architectures]] -- Four actor model and trust boundary evolution
+- [[ai-coding-loop]] -- trust boundaries at the code level

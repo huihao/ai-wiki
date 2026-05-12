@@ -19,7 +19,7 @@ Geoffrey Huntley is a developer who created the Ralph Wiggum Technique (Ralph Lo
 
 ## Related Concepts
 
-- [[ralph-loop]] — autonomous agent loop using PRD + progress file
+- [[ralph]] — autonomous agent loop using PRD + progress file
 - [[agentic-engineering-engineering-revolution|Agentic Engineering]] — Ralph is a foundational technique
 
 ## Sources

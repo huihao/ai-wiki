@@ -29,7 +29,7 @@ LlamaIndex.TS is the official TypeScript port of the LlamaIndex data framework. 
 
 ## Related Concepts
 
-- [[rag|Retrieval-Augmented Generation]]
+- [[retrieval-augmented-generation|Retrieval-Augmented Generation]]
 - [[vector-store|Vector Store]]
 
 ## Sources

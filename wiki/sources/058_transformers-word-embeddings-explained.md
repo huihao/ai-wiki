@@ -25,7 +25,7 @@ Part of a four-article series explaining transformers, this article covers word 
 - [[ahmad-mustapha]]
 
 ## Concepts Mentioned
-- [[word-embedding]]
+- [[word-embeddings]]
 - [[word-embeddings]]
 - [[tokenization]]
 - [[next-token-prediction]]

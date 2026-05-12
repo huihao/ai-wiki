@@ -1,35 +1,28 @@
 ---
-created: 2026-04-29
-updated: 2026-04-29
-tags: [deep-learning, optimization, training]
-sources: 1
+created: 2026-05-12
+updated: 2026-05-12
+tags: [concept]
+sources: 0
 ---
+
 # Muon Optimizer
 
 ## Definition
 
-The Muon (Momentum Orthogonalized by Newton-Schulz) optimizer is a novel optimization algorithm that boosts gradient directions with low eigenvalues using Newton-Schulz orthogonalization, providing faster convergence than Adam for many deep learning tasks.
-
-## Key Concepts
-
-- Muon orthogonalizes the momentum buffer using Newton-Schulz iteration (an approximation of matrix sign)
-- The orthogonalization effectively boosts directions with low eigenvalues in the gradient
-- Muon provides faster convergence than AdamW on language modeling and other tasks
-- Muon with spectral muP ensures maximal updates and hyperparameter transfer across width
-- The computational cost of Newton-Schulz iteration is modest (similar to a single gradient step)
-- Muon works best for weight matrices; biases and LayerNorm parameters still use Adam
-- The optimizer was created by Keller Jordan and gained traction in the open-source training community
-- Muon requires careful scaling of the learning rate and weight decay to maintain stability
-- DeepSeek and other labs have experimented with orthogonalization-based optimizers for large-scale training
+A momentum-based optimizer for neural network training that achieves better token efficiency than [[adamw-optimizer]]. Uses a modified momentum update rule that improves convergence speed. At trillion-parameter scale, suffered from attention logit explosion — motivating the development of [[muonclip-optimizer]] which adds [[qk-clip]].
 
 ## Related Concepts
 
-- [[mup-parameterization]]
-- [[weight-decay-scaling]]
-- [[qk-layernorm]]
-- [[scaling-laws]]
+- [[muonclip-optimizer]] — MuonClip extends Muon with QK-Clip
+- [[adamw-optimizer]] — the baseline optimizer Muon improves upon
+- [[qk-clip]] — clipping mechanism added to stabilize Muon at scale
 
 ## Sources
 
-- [[how-to-scale]]
-- [[what-to-do-to-scale-up]]
+- [[kimi-k2-deepseek-v3-training]] — Muon used in Kimi-K2 training
+
+## Evolution
+
+- **AdamW**: Standard optimizer for large-scale training. Good generalization but suboptimal token efficiency
+- **Muon**: Momentum-based alternative with better token efficiency — achieves the same validation loss with fewer training tokens. However, at trillion-parameter scale, attention logits grow unboundedly, destabilizing training
+- **MuonClip (2026)**: Adds QK-Clip to Muon, resolving the logit explosion issue while preserving token efficiency gains

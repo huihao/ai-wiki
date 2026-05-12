@@ -34,7 +34,7 @@ Yu Wu is a researcher specializing in 3D vision and multi-view attention mechani
 ## Related Concepts
 
 - [[projective-ray-positional-encoding|Positional Encoding]] — RayRoPE variant
-- [[attention-mechanism|Multi-view Attention]] — computer vision architecture
+- [[attention-mechanisms|Multi-view Attention]] — computer vision architecture
 - [[transformer-architecture|Transformer]] — underlying architecture
 - [[rope|RoPE]] — related positional encoding scheme
 

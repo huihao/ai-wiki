@@ -27,7 +27,7 @@ Krupa Dave is the author and illustrator of "Everything About Transformers," a c
 ## Related Concepts
 
 - [[transformers|Transformers]] — Main topic of Dave's educational work
-- [[attention-mechanism|Attention Mechanism]] — Core concept explained
+- [[attention-mechanisms|Attention Mechanism]] — Core concept explained
 - [[neural-networks|Neural Networks]] — Foundation covered in historical progression
 
 ## Sources

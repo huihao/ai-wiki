@@ -27,7 +27,7 @@ FlashRAG is a Python toolkit designed for efficient development of reproducible 
 
 ## Related Concepts
 
-- [[rag|Retrieval Augmented Generation (RAG)]] — Core technique
+- [[retrieval-augmented-generation|Retrieval Augmented Generation (RAG)]] — Core technique
 - [[rag-benchmarking|RAG Benchmarking]] — Primary use case
 - [[rag-optimization|RAG Optimization]] — Goal of FlashRAG usage
 

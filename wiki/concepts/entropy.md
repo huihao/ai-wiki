@@ -29,7 +29,7 @@ H(P) = -Σ P(x) log₂ P(x)
 
 ## Related Concepts
 
-- [[cross-entropy]] — Bits needed using wrong distribution for encoding
+- [[cross-entropy-loss]] — Bits needed using wrong distribution for encoding
 - [[kl-divergence]] — Extra bits when using Q instead of P
 
 ## Sources

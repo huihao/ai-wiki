@@ -20,7 +20,7 @@ Gabriel Mongaras is an ML engineer and technical writer known for publishing det
 - [[self-attention-masks]] — masking mechanisms preventing unwanted token interactions in attention
 - [[padding-masks]] — masking technique for handling batched sequences with padding tokens
 - [[look-ahead-masks]] — autoregressive masks that block future tokens during training
-- [[attention-mechanism]] — the core transformer mechanism his writing explains
+- [[attention-mechanisms]] — the core transformer mechanism his writing explains
 
 ## Sources
 - [[how-do-self-attention-masks-work]] — detailed explanation of padding and look-ahead masks

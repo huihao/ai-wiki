@@ -42,7 +42,7 @@ A detailed walkthrough of the landmark "Attention is All You Need" paper by Vasw
 - [[encoder-decoder-architecture]] -- sequence-to-sequence model with separate encoder and decoder
 - [[causal-attention]] -- masked attention preventing future position access
 - [[layer-normalization]] -- normalization applied after each sub-layer
-- [[residual-connection]] -- skip connections summing sub-layer output with its input
+- [[residual-connections]] -- skip connections summing sub-layer output with its input
 
 ## Raw Notes
 

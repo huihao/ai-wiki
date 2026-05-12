@@ -58,7 +58,7 @@ Choice depends on specific requirements:
 - [[ai-agents]]
 - [[multi-agent-systems]]
 - [[function-calling]]
-- [[rag]]
+- [[retrieval-augmented-generation]]
 - [[knowledge-agents]]
 
 ## Related Entities

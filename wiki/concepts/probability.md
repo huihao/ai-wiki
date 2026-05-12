@@ -25,6 +25,13 @@ Probability theory is the mathematical framework for quantifying uncertainty. In
 - **Variance**: Var(X) = E[(X - μ)²] — spread of distribution
 - **Covariance**: Cov(X, Y) — how two variables move together
 
+### Markov Chains and Information Theory
+
+- **Markov chains**: Model sequences of events where the next state depends only on the current state (memoryless property), foundational to sequence modeling
+- **Entropy**: Measures the uncertainty of a distribution; the expected value of -log P(x)
+- **Mutual information**: Quantifies shared information between variables; how much knowing one reduces uncertainty about the other
+- **LLM connection**: Next-token prediction is conditional probability estimation — the model assigns probabilities to each possible next token given the context
+
 ### Bayes' Theorem
 
 ```
@@ -60,6 +67,7 @@ Equivalent to minimizing negative log-likelihood. Standard training objective fo
 - [[072_math-for-machine-learning-resources]]
 - [[mathematics-for-machine-learning-book]]
 - [[auxiliary-material-mathematics-cse]]
+- [[a-a-markov]] -- Markov chains, entropy, and mutual information
 
 ## Evolution
 

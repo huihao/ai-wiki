@@ -28,7 +28,7 @@ Used as training data for foundation models and large language models, providing
 
 ## Related Concepts
 
-- [[foundation-model]] — models that use this for training
+- [[foundation-models]] — models that use this for training
 - [[llm-training]] — this dataset supports the training process
 
 ## Sources

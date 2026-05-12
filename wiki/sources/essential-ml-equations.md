@@ -37,7 +37,7 @@ A comprehensive reference guide covering foundational mathematical equations use
 - KL divergence — relative entropy between two distributions
 - [[gradient-descent]] — first-order optimization algorithm
 - [[backpropagation]] — algorithm for computing neural network gradients
-- [[attention-mechanism]] — weighted aggregation mechanism in neural networks
+- [[attention-mechanisms]] — weighted aggregation mechanism in neural networks
 - [[diffusion-models]] — generative models based on noise schedules
 
 ## Raw Notes

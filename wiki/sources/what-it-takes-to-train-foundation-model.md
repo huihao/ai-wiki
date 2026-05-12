@@ -41,7 +41,7 @@ A comprehensive guide exploring the challenges and requirements for training fou
 
 ## Concepts Mentioned
 
-- [[foundation-model]] — large AI models trained on massive unlabeled data
+- [[foundation-models]] — large AI models trained on massive unlabeled data
 - [[fine-tuning]] — adapting pre-trained models to specific tasks
 - [[parameter-efficient-fine-tuning]] — efficient customization techniques
 - [[llm-training]] — the process of training large language models

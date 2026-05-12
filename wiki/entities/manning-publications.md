@@ -24,7 +24,7 @@ Manning Publications is a technical book publisher focused on computing, AI, and
 
 ## Related Concepts
 
-- [[rlhf|RLHF]] — topic of Nathan Lambert's Manning book
+- [[reinforcement-learning-from-human-feedback|RLHF]] — topic of Nathan Lambert's Manning book
 
 ## Sources
 

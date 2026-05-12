@@ -20,7 +20,7 @@ A Git feature that allows multiple working trees associated with the same reposi
 
 ## Related Concepts
 
-- [[ralph-loop]] — Ralph loops can run in parallel via worktrees
+- [[ralph]] — Ralph loops can run in parallel via worktrees
 - [[sandbox-execution]] — worktrees provide feature-level isolation
 
 ## Sources

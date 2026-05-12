@@ -33,7 +33,7 @@ Research paper introducing RayRoPE, a novel positional encoding scheme for multi
 
 - [[projective-ray-positional-encoding|Positional encoding]] — RayRoPE variant
 - [[self-attention|Multi-view attention]] — computer vision architecture
-- [[word-embedding|Transformers]] — underlying architecture
+- [[word-embeddings|Transformers]] — underlying architecture
 
 ## Questions / Follow-ups
 

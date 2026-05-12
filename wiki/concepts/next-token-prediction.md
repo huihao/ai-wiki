@@ -30,7 +30,7 @@ Next-token prediction is the fundamental task performed by large language models
 - [[conditional-probability]] — mathematical foundation
 - [[autoregressive-model]] — sequential generation paradigm
 - [[softmax]] — converts scores to probability distribution
-- [[temperature-sampling]] — controlling randomness in selection
+- [[temperature-parameter]] — controlling randomness in selection
 - [[context-window]] — how many previous tokens are considered
 - [[language-modeling]] — broader task category
 

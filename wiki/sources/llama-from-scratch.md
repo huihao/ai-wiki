@@ -44,7 +44,7 @@ A practical walkthrough of implementing a scaled-down Llama architecture from sc
 - [[swiglu]] — Swish-gated linear unit activation function
 - [[self-attention|Causal attention]] — masking future tokens in autoregressive models
 - [[multi-head-attention-from-scratch|Multi-head attention]] — parallel attention heads
-- [[residual-connection]] — adding input to sub-layer output
+- [[residual-connections]] — adding input to sub-layer output
 - [[teacher-forcing]] — implicitly discussed in training setup
 
 ## Questions / Follow-ups

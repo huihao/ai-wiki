@@ -68,7 +68,7 @@ Key contributors acknowledged: Costa Huang, Ross Taylor, Hamish Ivison, John Sch
 
 ## Concepts Mentioned
 
-- [[rlhf]] — Reinforcement Learning from Human Feedback
+- [[reinforcement-learning-from-human-feedback]] — Reinforcement Learning from Human Feedback
 - [[post-training]] — Training after initial pretraining
 - [[alignment]] — Making AI systems aligned with human values
 - [[reward-modeling]] — Learning reward functions from human feedback

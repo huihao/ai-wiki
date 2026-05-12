@@ -29,5 +29,5 @@ Part 1 of a 5-part series on understanding Transformer architecture. A hands-on 
 - [[scaled-dot-product-attention]]
 - [[positional-encoding]]
 - [[tokenization]]
-- [[word-embedding]]
+- [[word-embeddings]]
 - [[next-token-prediction]]

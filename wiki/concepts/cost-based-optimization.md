@@ -28,7 +28,7 @@ Cost-based optimization (CBO) is the strategy used by database query planners to
 - [[merge-join]]
 - [[grace-hash-join]]
 - [[broadcast-join]]
-- [[b-tree-index]]
+- [[b-tree]]
 - [[buffer-pool]]
 
 ## Sources

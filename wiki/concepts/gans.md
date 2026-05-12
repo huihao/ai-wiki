@@ -33,7 +33,7 @@ Generative Adversarial Networks (GANs) are a framework for training generative m
 - [[autoencoders]] — another generative model family that learns latent representations
 - [[neural-networks]] — GANs are composed of two competing neural networks
 - [[adversarial-training]] — the adversarial paradigm is central to GAN training dynamics
-- [[mode-collapse]] — a well-known failure mode where the generator produces limited variety
+- [[mode-collapse-in-llms]] — a well-known failure mode where the generator produces limited variety
 - [[generative-ai-platform]] — GANs are one building block of generative AI platforms
 - [[loss-function]] — GANs use a unique adversarial loss function rather than standard supervised losses
 - [[deep-learning]] — GANs are a major application of deep neural network architectures

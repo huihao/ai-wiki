@@ -27,7 +27,7 @@ Nested Loop Join is the simplest and most intuitive database join algorithm, com
 - [[hash-join]]
 - [[merge-join]]
 - [[cost-based-optimization]]
-- [[b-tree-index]]
+- [[b-tree]]
 
 ## Sources
 

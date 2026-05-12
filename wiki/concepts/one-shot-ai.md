@@ -25,7 +25,7 @@ One-shot AI refers to the pattern of prompting a large language model to generat
 - [[ai-coding-loop]] -- The disciplined incremental alternative to one-shot generation
 - [[incremental-development]] -- Building software piece-by-piece with verification
 - [[output-validation]] -- Post-generation checking of AI-produced code
-- [[trust-boundary]] -- Security concept violated by naive one-shot generation
+- [[trust-boundaries]] -- Security concept violated by naive one-shot generation
 
 ## Sources
 

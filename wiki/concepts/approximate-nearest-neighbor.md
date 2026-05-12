@@ -22,7 +22,7 @@ Approximate Nearest Neighbor (ANN) search refers to algorithms that find vectors
 - [[embedding-layers]] — ANN search operates on vectors produced by embedding models
 - [[curse-of-dimensionality]] — explains why exact NN search becomes infeasible in high dimensions
 - Product Quantization — a compression-based approach to ANN that reduces memory requirements
-- [[b-tree-index]] — the traditional exact index structure that ANN replaces for high-dimensional data
+- [[b-tree]] — the traditional exact index structure that ANN replaces for high-dimensional data
 - [[re-ranking]] — ANN provides initial candidates, which are then re-ranked for precision
 
 ## Related Entities

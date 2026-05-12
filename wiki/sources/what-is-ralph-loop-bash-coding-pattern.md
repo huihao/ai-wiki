@@ -44,7 +44,7 @@ A comprehensive explanation of the Ralph loop pattern — a deliberately simple 
 
 ## Concepts Mentioned
 
-- [[ralph-loop]] — the autonomous agent loop pattern
+- [[ralph]] — the autonomous agent loop pattern
 - [[stop-hook]] — mechanism for intercepting agent exit in Claude Code
 - [[prd]] — Product Requirements Document as task specification
 - [[backpressure]] — tests/lints/builds acting as gates rejecting invalid output

@@ -20,7 +20,7 @@ Pipeline parallelism is a model-parallel training strategy that partitions a neu
 - [[tensor-parallelism]] — splits individual tensors horizontally, often paired with pipeline parallelism for 3D parallelism
 - [[distributed-training]] — the overarching paradigm pipeline parallelism belongs to
 - Micro Batching — the technique of splitting a batch into micro-batches to fill the pipeline and reduce bubbles
-- [[gradient-checkpointing]] — reduces memory per stage, enabling deeper models on fewer devices
+- [[activation-checkpointing]] — reduces memory per stage, enabling deeper models on fewer devices
 - [[communication-bandwidth]] — inter-stage communication cost depends heavily on the chosen partition boundaries
 - [[model-parallelism]] — the general class of strategies pipeline parallelism falls under
 

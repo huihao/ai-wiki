@@ -26,7 +26,7 @@ Jay Allamar created "The Illustrated Transformer," a widely referenced visual gu
 ## Related Concepts
 
 - [[transformers|Transformers]] — Main topic of educational content
-- [[attention-mechanism|Attention Mechanism]] — Visualized in Allamar's work
+- [[attention-mechanisms|Attention Mechanism]] — Visualized in Allamar's work
 
 ## Sources
 

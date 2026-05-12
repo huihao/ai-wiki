@@ -47,7 +47,7 @@ GitHub's Trust Layer framework (Dominator Tree method) achieved 100% accuracy on
 
 - [[dominator-analysis|Dominator Analysis]] — the compiler theory technique underlying agent validation
 - [[agent-trust|Agent Trust]] — broader frameworks for establishing trust in autonomous systems
-- [[trust-boundary|Trust Boundary]] — security concept separating trusted/untrusted domains
+- [[trust-boundaries|Trust Boundary]] — security concept separating trusted/untrusted domains
 - [[computer-use|Computer Use]] — agents that interact with UIs, creating non-deterministic validation challenges
 - [[output-validation|Output Validation]] — validation of model outputs (complementary to behavioral validation)
 

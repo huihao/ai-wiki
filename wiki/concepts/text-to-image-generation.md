@@ -23,7 +23,7 @@ Text-to-image generation is the task of synthesizing photorealistic or artistic 
 ## Related Concepts
 
 - [[diffusion-models]]
-- [[text-encoders]]
+- [[text-encoder]]
 - [[latent-diffusion]]
 - [[text-to-video-generation]]
 

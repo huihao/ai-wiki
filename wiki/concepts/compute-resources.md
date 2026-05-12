@@ -26,7 +26,7 @@ Compute resources refers to the GPU/TPU infrastructure, storage, and networking 
 - [[what-it-takes-to-train-foundation-model]]
 - [[compute-bound]]
 - [[communication-bandwidth]]
-- [[foundation-model]]
+- [[foundation-models]]
 
 ## Sources
 

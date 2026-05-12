@@ -20,7 +20,7 @@ Batch normalization is a technique that normalizes the inputs to each layer of a
 
 ## Related Concepts
 - [[ada-layernorm]]
-- [[activation-recomputation]]
+- [[activation-checkpointing]]
 
 ## Sources
 - [[brandon-rohrer-blog]]

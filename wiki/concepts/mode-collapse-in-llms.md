@@ -27,7 +27,10 @@ Mode collapse in LLMs refers to the tendency of language models to generate homo
 - [[open-ended-generation]]
 - [[llm-diversity-evaluation]]
 - [[ai-safety]]
+- [[model-diversity]] — related concept measuring output variation across models
 
 ## Sources
 
 - [[announcing-neurips-2025-best-paper-awards]]
+- [[artificial-hivemind]]
+- [[infinity-chat]]

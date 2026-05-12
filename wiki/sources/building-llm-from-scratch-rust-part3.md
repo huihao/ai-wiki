@@ -38,9 +38,9 @@ Part 3 of the Feste series implements the GPT-2 transformer architecture in Rust
 ## Concepts Mentioned
 
 - [[transformer-architecture]] — GPT-2 implementation
-- [[attention-mechanism]] — multi-head self-attention
+- [[attention-mechanisms]] — multi-head self-attention
 - [[layer-normalization]] — training stability
-- [[residual-connection|Residual connections]] — gradient flow
+- [[residual-connections|Residual connections]] — gradient flow
 - [[gelu]] — activation function
 - [[building-llm-from-scratch-rust-part1|Rust]] — implementation language
 

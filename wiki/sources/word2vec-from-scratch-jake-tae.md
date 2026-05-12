@@ -39,7 +39,7 @@ A comprehensive tutorial implementing Word2Vec from scratch using NumPy. Explain
 
 - [[word2vec]] — the core embedding technique
 - [[skip-gram]] — Word2Vec architecture variant
-- [[word-embedding]] — dense vector representations of words
+- [[word-embeddings]] — dense vector representations of words
 - [[one-hot-encoding]] — sparse input representation
 - [[softmax]] — output layer probability normalization
 - [[cross-entropy-loss]] — training loss function

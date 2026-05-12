@@ -40,7 +40,7 @@ An advanced University of Chicago course on LLMs covering three core frontiers: 
 - Alignment — Scalable oversight and emergent misalignment.
 - [[llm-agents]] — Autonomous agents for software engineering and research.
 - [[deepseek-sparse-attention|Sparse autoencoders]] — Tools for probing feature geometry.
-- [[word-embedding|Transformers]] — Prerequisite knowledge.
+- [[word-embeddings|Transformers]] — Prerequisite knowledge.
 
 ## Raw Notes
 

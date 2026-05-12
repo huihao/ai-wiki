@@ -25,10 +25,10 @@ Training techniques are methods for optimizing the computational efficiency and 
 ## Related Concepts
 
 - [[gradient-accumulation]]
-- [[gradient-checkpointing]]
+- [[activation-checkpointing]]
 - [[mixed-precision-training]]
 
 ## Sources
 
 - [[gradient-accumulation]]
-- [[gradient-checkpointing]]
+- [[activation-checkpointing]]

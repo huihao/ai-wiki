@@ -23,7 +23,7 @@ Renmin University of China (RUC) NLPIR Lab is a research group focused on natura
 
 ## Related Concepts
 
-- [[rag]] — primary research focus
+- [[retrieval-augmented-generation]] — primary research focus
 - [[rag-benchmarking]] — dataset and evaluation methodology work
 
 ## Sources

@@ -40,13 +40,13 @@ A comprehensive, accessible deep-dive into how [[what-is-chatgpt-doing-wolfram|C
 
 - [[large-language-models|LLM]] — the core technology behind ChatGPT
 - [[transformer-architecture|transformer]] — the neural architecture enabling modern LLMs
-- [[attention-mechanism]] — how transformers focus on relevant context
+- [[attention-mechanisms]] — how transformers focus on relevant context
 - [[rotary-positional-embedding|embedding]] — numerical representations of words in meaning space
 - [[tokenization]] — splitting text into tokens (words or subwords)
 - [[convolutional-neural-network|neural network]] — the computational foundation
 - [[backpropagation]] — how neural nets learn from examples
 - [[reinforcement-learning-from-human-feedback|RLHF]] — post-training with human feedback
-- [[temperature-sampling]] — controlling randomness in generation
+- [[temperature-parameter]] — controlling randomness in generation
 - [[computational-irreducibility]] — fundamental limits of what neural nets can learn
 
 ## Raw Notes

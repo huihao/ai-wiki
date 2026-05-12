@@ -17,7 +17,7 @@ Curtis Pyke is the author of "What Is a Ralph Loop?" — a comprehensive explain
 
 ## Related Concepts
 
-- [[ralph-loop]] — autonomous agent loop using PRD + progress file
+- [[ralph]] — autonomous agent loop using PRD + progress file
 
 ## Sources
 

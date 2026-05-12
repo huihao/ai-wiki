@@ -25,6 +25,10 @@ The Jacobian is a matrix containing all first-order partial derivatives of a vec
 - [[matrix-calculus]]
 - [[backpropagation]]
 - [[automatic-differentiation]]
+- [[gradient]] — Jacobian of a scalar function (horizontal vector)
+- [[chain-rule]] — Composing Jacobians for nested functions
+- [[partial-derivative]] — Individual element of the Jacobian
+- [[vector-chain-rule]] — vector chain rule expressed as Jacobian multiplication
 
 ## Sources
 

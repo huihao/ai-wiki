@@ -23,7 +23,7 @@ Output quality in the context of AI systems refers to the correctness, relevance
 
 ## Related Concepts
 
-- [[mode-collapse]]
+- [[mode-collapse-in-llms]]
 - [[modular-context-management]]
 
 ## Sources

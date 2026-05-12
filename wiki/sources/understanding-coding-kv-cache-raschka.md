@@ -40,7 +40,7 @@ A hands-on tutorial explaining the KV cache — a critical optimization for effi
 
 - [[kv-caching|KV cache]] — caching key/value vectors for efficient autoregressive inference
 - [[autoregressive-image-generation|autoregressive generation]] — generating one token at a time
-- [[attention-mechanism]] — the computation being optimized
+- [[attention-mechanisms]] — the computation being optimized
 - [[vector-embeddings-mallya|key]] and [[vector-embeddings-mallya|value]] — attention components being cached
 - [[vector-embeddings-mallya|query]] — the vector that attends to cached keys/values
 - [[multi-head-attention-from-scratch|multi-head attention]] — where the cache is implemented

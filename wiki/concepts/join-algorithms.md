@@ -51,7 +51,7 @@ Strategies used by relational database query planners to combine rows from two o
 
 - [[cost-based-optimization]] — Query planner selecting cheapest join plan
 - [[buffer-pool]] — In-memory cache reducing disk reads
-- [[b-tree-index]] — Tree structure for O(log n) lookups
+- [[b-tree]] — Tree structure for O(log n) lookups
 
 ## Sources
 

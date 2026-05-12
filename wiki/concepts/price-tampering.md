@@ -20,7 +20,7 @@ Price tampering is a security vulnerability that occurs when a system accepts an
 - Highlights the importance of human oversight in AI-assisted development: the human must define trust boundaries, not the AI
 
 ## Related Concepts
-- [[trust-boundary]]
+- [[trust-boundaries]]
 - [[ai-coding-loop]]
 - [[verification]]
 

@@ -33,7 +33,7 @@ A practical, no-nonsense 5-phase roadmap for learning LLMs, designed for people 
 - [[scaled-dot-product-attention]]
 - [[next-token-prediction]]
 - [[lora]]
-- [[rlhf]]
+- [[reinforcement-learning-from-human-feedback]]
 - [[fine-tuning]]
 - [[scaling-laws]]
 - [[distributed-training]]

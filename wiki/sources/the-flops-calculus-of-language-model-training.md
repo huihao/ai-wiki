@@ -46,7 +46,7 @@ A practical guide to reasoning about the compute requirements for training large
 - [[transformer-scaling|Transformer Scaling]] — Compute requirements scaling with model size
 - [[gpu-throughput|GPU Throughput]] — Actual vs theoretical FLOPs performance
 - [[weight-flops|Weight FLOPs]] — Primary computational cost in Transformers
-- [[activation-recomputation|Activation Recomputation]] — Checkpointing technique reducing memory
+- [[activation-checkpointing|Activation Recomputation]] — Checkpointing technique reducing memory
 - [[mixed-precision-training|Mixed Precision Training]] — Training optimization technique
 
 ## Raw Notes

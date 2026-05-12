@@ -37,7 +37,7 @@ Mathematical proof demonstrating that the Transformer's positional encoding (fro
 
 - [[transformer-architecture|Transformer Architecture]] — positional encoding component
 - [[positional-encoding|Positional Encoding]] — sinusoidal position representation
-- [[attention-mechanism|Attention Mechanism]] — relative position learning
+- [[attention-mechanisms|Attention Mechanism]] — relative position learning
 - [[linear-transformation|Linear Transformation]] — mathematical property proved
 
 ## Mathematical Details
@@ -51,4 +51,4 @@ This enables relative position attention because shifting by k positions is a li
 ## Questions / Follow-ups
 
 - Compare with [[rope|RoPE]] (Rotary Positional Embedding) which builds on similar mathematical foundations
-- Link to [[attention-is-all-you-need]] for the original positional encoding definition
+- Link to [[transformers]] for the original positional encoding definition

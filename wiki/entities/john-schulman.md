@@ -22,7 +22,7 @@ John Schulman is a co-founder of OpenAI and the lead author of the Proximal Poli
 
 ## Related Concepts
 - [[ppo]] — Proximal Policy Optimization, the RL algorithm he developed
-- [[rlhf]] — Reinforcement Learning from Human Feedback, the alignment technique he pioneered
+- [[reinforcement-learning-from-human-feedback]] — Reinforcement Learning from Human Feedback, the alignment technique he pioneered
 - [[alignment]] — the broader field of ensuring AI systems behave as intended
 
 ## Sources

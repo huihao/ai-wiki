@@ -39,7 +39,7 @@ A hands-on tutorial implementing the CBOW architecture from scratch using Keras/
 
 - [[the-evolution-of-modern-rag-architectures|Continuous bag of words]] — Word2Vec architecture predicting target from context
 - [[skip-gram]] — complementary Word2Vec architecture
-- [[word-embedding]] — dense vector representations of words
+- [[word-embeddings]] — dense vector representations of words
 - [[word2vec]] — Google's word embedding framework
 - [[Keras]] — deep learning framework used in implementation
 - [[tensorflow]] — backend for Keras

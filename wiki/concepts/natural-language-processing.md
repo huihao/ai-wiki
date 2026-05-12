@@ -49,6 +49,7 @@ Natural Language Processing (NLP) is a field at the intersection of computer sci
 - [[074_speech-and-language-processing|74-speech-and-language-processing]] — detailed summary of the Speech and Language Processing textbook
 - [[natural-language-processing-blog]] — NLP blog covering techniques and applications
 - [[llms-know-linguistics-blevins]] — exploration of how LLMs relate to traditional NLP and linguistics
+- [[vector-embeddings-from-baby-nlp-to-mature-llms]] — embeddings progression from one-hot to contextual transformers
 
 ## Evolution
 

@@ -55,7 +55,7 @@ Nathan Lambert is an AI researcher and author specializing in reinforcement lear
 
 ## Related Concepts
 
-- [[rlhf]] — Reinforcement Learning from Human Feedback
+- [[reinforcement-learning-from-human-feedback]] — Reinforcement Learning from Human Feedback
 - [[post-training]] — Training after pretraining
 - [[alignment]] — AI value alignment
 - [[reward-modeling]] — Preference learning

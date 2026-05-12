@@ -28,6 +28,7 @@ Cross-entropy loss is a loss function widely used in classification tasks and la
 - [[kl-divergence]] — cross-entropy equals the entropy of the true distribution plus the KL divergence from true to predicted
 - [[next-word-prediction]] — the training objective for autoregressive LLMs uses cross-entropy loss
 - categorical-crossentropy — the specific form of cross-entropy used for multi-class classification
+- [[generalization]] -- cross-entropy relates to generalization through its connection to maximum likelihood
 
 ## Related Entities
 

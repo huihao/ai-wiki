@@ -20,7 +20,7 @@ In the context of AI coding agents, backpressure refers to external feedback sig
 
 ## Related Concepts
 
-- [[ralph-loop]] — Ralph loops use backpressure to drive iteration
+- [[ralph]] — Ralph loops use backpressure to drive iteration
 - [[test-driven-development]] — tests provide backpressure for implementation
 
 ## Sources

@@ -22,7 +22,7 @@ An iteration limit is a cap on the number of times an autonomous agent loop repe
 
 ## Related Concepts
 
-- [[ralph-loop]]
+- [[ralph]]
 - [[autonomous-coding-agents]]
 - [[cost-control]]
 

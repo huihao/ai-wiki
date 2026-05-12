@@ -27,7 +27,7 @@ Vaswani et al. refers to the authors of the landmark 2017 paper "Attention Is Al
 ## Related Concepts
 
 - [[transformer-architecture]] — the architecture introduced by Vaswani et al.
-- [[attention-mechanism]] — core innovation of the paper
+- [[attention-mechanisms]] — core innovation of the paper
 - [[self-attention]] — specific attention variant introduced
 - [[multi-head-attention-from-scratch|Multi-Head Attention]] — parallel attention heads in the original design
 

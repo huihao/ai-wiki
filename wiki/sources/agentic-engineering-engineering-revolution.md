@@ -50,7 +50,7 @@ A 40,000-word Chinese实践记录 documenting the evolution of an Agentic Engine
 - [[progressive-disclosure]] — pull-based context loading
 - [[agentic-search]] — lightweight index + dynamic retrieval
 - [[context-rot]] — metadata consuming context space
-- [[ralph-loop]] — self-iterating agent execution
+- [[ralph]] — self-iterating agent execution
 - Knowledge复利 — compounding knowledge assets
 - Three-level capability — Command / Skill / Subagent hierarchy
 - [[hallucination|Anti-hallucination]] — requiring sources for all claims

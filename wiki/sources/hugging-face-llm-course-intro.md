@@ -32,7 +32,7 @@ The setup chapter of the Hugging Face LLM Course. Covers environment setup via G
 
 ## Concepts Mentioned
 
-- [[word-embedding|Transformers library]] — Hugging Face's Python library for pretrained models
+- [[word-embeddings|Transformers library]] — Hugging Face's Python library for pretrained models
 - SentencePiece — subword tokenizer used by many multilingual models
 - [[google|Google Colab]] — cloud Jupyter notebook environment
 

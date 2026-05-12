@@ -35,7 +35,7 @@ The draft 3rd edition of the classic NLP textbook by Jurafsky and Martin. The Ja
 ## Concepts Mentioned
 
 - [[speech-and-language-processing|Natural language processing]] — core subject
-- [[word-embedding|Transformers]] — updated figures and coverage
+- [[word-embeddings|Transformers]] — updated figures and coverage
 - [[agentic-engine-optimization-source|Direct preference optimization]] — DPO in chapter 9
 - [[speech-and-language-processing|Speech recognition]] — ASR chapter
 - [[how-to-think-about-gpus|Text-to-speech]] — TTS chapter

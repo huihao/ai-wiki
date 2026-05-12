@@ -61,7 +61,7 @@ An interactive visualization tool showing probability mass distribution across p
 - [[probability-mass-visualization]] — visual representation of probability
 - [[renormalization]] — probability rescaling technique
 - [[conditional-probability]] — foundation of chain rule calculation
-- [[temperature-sampling]] — sampling at temperature 1
+- [[temperature-parameter]] — sampling at temperature 1
 
 ## Raw Notes
 

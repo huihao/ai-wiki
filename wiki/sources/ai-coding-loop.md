@@ -134,7 +134,7 @@ In AI era, coding isn't less important—it's more important, differently:
 
 - [[ai-coding-loop|AI Coding Loop]] — 7-step disciplined workflow
 - [[one-shot-ai|One-Shot AI]] — Problem of generating entire app at once
-- [[trust-boundary|Trust Boundary]] — Security concept separating trusted/untrusted sources
+- [[trust-boundaries|Trust Boundary]] — Security concept separating trusted/untrusted sources
 - [[price-tampering|Price Tampering]] — Attack vector accepting client prices
 - [[failing-tests|Failing Tests as Flashlight]] — Debugging approach
 - [[prompt-template|Prompt Template]] — Reusable format for requests

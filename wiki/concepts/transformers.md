@@ -17,7 +17,7 @@ The Transformer is a neural network architecture introduced in the 2017 paper "A
 - **Multi-head attention**: The original architecture uses 8 parallel attention heads, each with separate Q/K/V weight matrices. Different heads learn different types of relationships (grammatical, semantic, positional) simultaneously. Outputs are concatenated and linearly projected. This provides multiple representation subspaces for richer feature extraction.
 - **Encoder-decoder structure**: The original Transformer uses a stack of 6 encoder layers and 6 decoder layers. Encoders apply self-attention over the full input. Decoders use masked self-attention (preventing access to future tokens) plus encoder-decoder cross-attention. Modern decoder-only models (GPT, Llama) use only the decoder stack with causal masking.
 - **Feed-forward networks (FFN)**: Each transformer block includes a position-wise two-layer MLP that expands the hidden dimension (typically 4x), applies a nonlinear activation (GELU standard), then contracts back. FFNs serve as the "computational engine" that transforms attention's contextual signals into task-relevant features. They dominate per-token compute and memory costs.
-- **Positional encoding**: Since transformers process all positions in parallel, they lack inherent order information. The original paper uses sinusoidal functions at geometrically progressing frequencies. Modern models use learned positional embeddings, Rotary Position Embeddings (RoPE), or ALiBi. Position information is added to token embeddings before the first layer.
+- **Positional encoding**: Since transformers process all positions in parallel, they lack inherent order information. The original paper uses sinusoidal functions at geometrically progressing frequencies, where for any fixed offset k, PE(pos+k) can be represented as a linear function of PE(pos) via block-diagonal rotation matrices. Modern models use learned positional embeddings, Rotary Position Embeddings (RoPE), or ALiBi. Position information is added to token embeddings before the first layer.
 - **Residual connections and layer normalization**: Every sub-layer (attention and FFN) is wrapped with a residual connection and layer normalization (Pre-LN in modern models). These are essential for training stability in deep stacks -- residual connections prevent vanishing gradients and help propagate positional information through the network.
 - **Parallelization advantage**: Unlike RNNs which must process tokens sequentially, transformers process all tokens simultaneously, enabling massive parallelization on GPU/TPU hardware. This was the key enabler for scaling to billions of parameters.
 - **Scaling and evolution**: The architecture has scaled from 65M parameters (original) to trillions. Key variants include encoder-only (BERT), decoder-only (GPT), and encoder-decoder (T5). Modern optimizations include FlashAttention, Grouped Query Attention, Mixture-of-Experts FFNs, and sliding window attention.
@@ -59,6 +59,9 @@ Modern LLMs are almost exclusively decoder-only.
 - [[jay-allamar]] -- the Illustrated Transformer series
 - [[google-brain]] -- original research team behind the architecture
 - [[feed-forward-networks]] -- position-wise MLP components
-- [[gelu-activation]] -- activation function used in transformer FFNs
+- [[gelu]] -- activation function used in transformer FFNs
 - [[mixed-precision-training]] -- optimization technique for transformer training
 - [[log]] -- transformer-related observations and notes
+- [[linear-relationships-positional-encoding]] -- positional encoding linear relationship proofs
+- [[transformer-novel-neural-network-architecture-language-understanding]] -- original paper analysis
+- [[understanding-and-coding-self-attention-mechanism]] -- self-attention implementation deep dive

@@ -27,7 +27,7 @@ Stanford Human-Centered AI Institute (HAI) is a research institute at Stanford U
 
 ## Related Concepts
 
-- [[foundation-model]] — term coined and defined by Stanford HAI
+- [[foundation-models]] — term coined and defined by Stanford HAI
 - [[machine-learning]] — core technical domain
 - Human-centered AI — guiding philosophy
 

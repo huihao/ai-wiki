@@ -21,7 +21,7 @@ CLIP (Contrastive Language-Image Pre-training) is a neural network developed by 
 
 ## Related Concepts
 
-- [[text-encoders]]
+- [[text-encoder]]
 - [[clip-mmd]]
 - [[latent-diffusion]]
 - [[text-to-image-architectural-experiments]]

@@ -25,7 +25,7 @@ Sumit Analyzen is the author (along with Sumit Saha) of "The AI Coding Loop: How
 ## Related Concepts
 
 - [[ai-coding-loop]]
-- [[trust-boundary]]
+- [[trust-boundaries]]
 
 ## Sources
 

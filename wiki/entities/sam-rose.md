@@ -25,7 +25,7 @@ Sam Rose is a technical writer and engineer at ngrok, specializing in deep-dive 
 - [[kv-cache]] — key-value cache mechanism central to prompt caching
 - [[tokenization]] — process of converting text to tokens, covered in his writing
 - [[embeddings]] — vector representations of text, part of his technical explanations
-- [[attention-mechanism]] — the Q/K/V projection system explained in his articles
+- [[attention-mechanisms]] — the Q/K/V projection system explained in his articles
 
 ## Sources
 - [[prompt-caching-ngrok]] — his detailed technical article on prompt caching mechanics

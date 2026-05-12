@@ -35,3 +35,4 @@ Recommendation systems are algorithms and architectures that predict and suggest
 - [[eugene-yan]] -- ML engineer and recommendation systems expert
 - [[matrix-factorization]] -- Core mathematical technique for recommendations
 - [[writing-eugene-yan]] -- Complete catalog of recommendation systems writing and teardowns
+- [[dive-into-deep-learning]] -- interactive textbook covering recommender systems with neural collaborative filtering

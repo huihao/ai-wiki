@@ -25,7 +25,7 @@ Probability mass visualization is the practice of graphically representing the p
 
 - [[probability-distributions]] -- Mathematical foundation of probability mass across outcomes
 - [[renormalization]] -- Probability rescaling technique for conditional exploration
-- [[temperature-sampling]] -- How temperature affects the displayed probability mass
+- [[temperature-parameter]] -- How temperature affects the displayed probability mass
 - [[language-model-multiverse]] -- The conceptual framework of branching possible futures
 
 ## Sources

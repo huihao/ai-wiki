@@ -36,7 +36,7 @@ A detailed technical blog post that builds up from attention mechanisms and KV c
 
 - [[continuous-batching]] — technique for maximizing throughput in LLM serving
 - [[kv-caching|KV Cache]] — caching mechanism for efficient autoregressive generation
-- [[attention-mechanism]] — core transformer operation for token interaction
+- [[attention-mechanisms]] — core transformer operation for token interaction
 - Chunked Prefill — splitting long prompts across multiple forward passes
 - [[continuous-batching|Ragged Batching]] — concatenating variable-length sequences without padding
 - Dynamic Scheduling — replacing finished prompts with waiting ones

@@ -23,7 +23,7 @@ Costa Huang is a contributor to Nathan Lambert's RLHF Book (Reinforcement Learni
 
 ## Related Concepts
 
-- [[rlhf]]
+- [[reinforcement-learning-from-human-feedback]]
 - [[alignment]]
 
 ## Sources

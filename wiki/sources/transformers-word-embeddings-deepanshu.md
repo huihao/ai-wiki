@@ -35,7 +35,7 @@ A beginner-friendly tutorial on word embeddings as the first step in training tr
 
 ## Concepts Mentioned
 
-- [[word-embedding]] — dense vector representation of words
+- [[word-embeddings]] — dense vector representation of words
 - [[positional-encoding|one-hot encoding]] — sparse binary vector representation
 - [[word2vec]] — word embedding algorithm family
 - [[implementing-cbow|Continuous Bag of Words]] — predicts target from context

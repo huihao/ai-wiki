@@ -21,7 +21,7 @@ The general rule for differentiating composed functions: the Jacobian of the out
 
 ## Related Concepts
 
-- [[jacobian-matrix]] — Matrix used in the vector chain rule multiplication
+- [[jacobian]] — Matrix used in the vector chain rule multiplication
 - [[gradient]] — Vector of partials propagated via chain rule
 - [[automatic-differentiation]] — Computational implementation of the chain rule
 

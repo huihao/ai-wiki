@@ -37,7 +37,7 @@ Embeddings are extracted from the first weight matrix (W1) of a shallow two-laye
 ## Related Concepts
 
 - [[skip-gram]] — primary architecture variant
-- [[word-embedding]] — the output embeddings
+- [[word-embeddings]] — the output embeddings
 - [[one-hot-encoding]] — input representation
 - [[softmax]] — output layer
 - [[cross-entropy-loss]] — training objective

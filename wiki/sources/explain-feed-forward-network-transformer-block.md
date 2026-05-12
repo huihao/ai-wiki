@@ -38,8 +38,8 @@ A practical engineering perspective on feed-forward networks (FFN) in transforme
 
 - [[feed-forward-networks|Feed-Forward Networks]] — Core topic, position-wise nonlinear transformations
 - [[transformers|Transformers]] — Architecture context
-- [[attention-mechanism|Attention Mechanism]] — Complementary component providing context
-- [[gelu-activation|GELU Activation]] — Standard nonlinear activation in FFNs
+- [[attention-mechanisms|Attention Mechanism]] — Complementary component providing context
+- [[gelu|GELU Activation]] — Standard nonlinear activation in FFNs
 - [[layer-normalization|Layer Normalization]] — Training stability component
 - [[mixed-precision-training|Mixed-Precision Training]] — Production optimization technique
 - [[mixture-of-experts|Mixture-of-Experts]] — Future direction for sparse FFN architectures

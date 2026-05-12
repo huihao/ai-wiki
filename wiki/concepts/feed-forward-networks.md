@@ -21,7 +21,7 @@ Feed-forward networks (FFN) in transformers are position-wise, two-layer neural 
 
 - [[transformers|Transformers]] — Architecture containing FFN blocks
 - [[attention-mechanisms|Attention Mechanism]] — Complementary component (attention = context, FFN = transformation)
-- [[gelu-activation|GELU Activation]] — Standard nonlinear activation
+- [[gelu|GELU Activation]] — Standard nonlinear activation
 - [[layer-normalization|Layer Normalization]] — Stability mechanism around FFN
 - [[residual-connections|Residual Connections]] — Skip connections around FFN sublayers
 - [[mixture-of-experts|Mixture-of-Experts]] — Sparse FFN evolution

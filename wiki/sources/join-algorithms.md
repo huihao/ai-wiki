@@ -47,7 +47,7 @@ Comprehensive guide to the join algorithms that power relational databases: Nest
 - [[broadcast-join]] — Replicate small table to all nodes in distributed systems.
 - [[buffer-pool]] — In-memory cache reducing disk reads during joins.
 - [[cost-based-optimization]] — Query planner selecting cheapest join plan.
-- [[b-tree-index]] — Tree structure enabling O(log n) index lookups.
+- [[b-tree]] — Tree structure enabling O(log n) index lookups.
 
 ## Raw Notes
 

@@ -111,7 +111,7 @@ Python implementations:
 - [[linear-classification]]
 - [[svm-loss]]
 - [[softmax-classifier]]
-- [[loss-functions]]
+- [[loss-function]]
 - [[regularization]]
 - [[deep-learning]]
 - [[computer-vision]]

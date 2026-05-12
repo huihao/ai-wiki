@@ -179,7 +179,7 @@ The leaderboard provides:
 - [[open-weights-vs-proprietary]] - Model accessibility
 - [[context-windows]] - Token limits in models
 - [[inference-speed]] - Throughput and latency metrics
-- [[model-pricing]] - Cost structures for LLM APIs
+- [[llm-pricing]] - Cost structures for LLM APIs
 
 ## Related Entities
 

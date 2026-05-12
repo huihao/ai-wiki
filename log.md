@@ -5,7 +5,25 @@
 
 ---
 
-## [2026-05-11] ingest | 12 clippings: 4 new (auto-eval platform, knowledge moat, Agent deep-dive, Spec+RAG)
+## [2026-05-12] ingest | 6 clippings: Agent Skill spec, Kimi-K2, MMM on CPU, Harness Engineering, Learning Beyond Gradients, Transformers Primer
+
+Ingested all 6 files from `Clippings/`:
+
+**New source pages (6):**
+- `wiki/sources/agent-skill-spec-design-patterns.md` — Agent Skill spec article from Alibaba
+- `wiki/sources/kimi-k2-deepseek-v3-training.md` — Kimi-K2 training deep-dive (PyImageSearch)
+- `wiki/sources/fast-mmm-cpu-from-scratch.md` — MMM optimization (siboehm.com)
+- `wiki/sources/ryo-kusnadi-harness-engineering.md` — Harness Engineering guide (GitConnected)
+- `wiki/sources/learning-beyond-gradients.md` — Heuristic Learning paradigm (Jiayi Weng)
+- `wiki/sources/transformers-a-primer.md` — Transformer math walkthrough (Columbia)
+
+**New entity pages (5):** jiayi-weng, justin-lee, kimi-k2, ryo-kusnadi, columbia-university
+
+**New concept pages (27):** agent-skill, heuristic-learning, heuristic-system, muonclip-optimizer, muon-optimizer, adamw-optimizer, qk-clip, sparsity-scaling-law, harness-maturity-model, agent-rules, three-layer-loading, skill-creator, loop-reordering, cache-blocking, simd, knowledge-data-rephrasing, token-utility, continual-learning, catastrophic-forgetting, model-predictive-control, central-pattern-generators, coupling-complexity, data-augmentation, bidirectional-encoders, label-smoothing, modularity
+
+**Ghost check:** 0 new ghost references introduced
+
+## [2026-05-12] lint | Concept deduplication — 25 files deleted
 
 Ingested 12 files from `Clippings/` — 8 already existed in wiki, 4 were new:
 
@@ -1872,3 +1890,38 @@ Moved 18 entity-like pages from `concepts/` to `entities/`, updating tags `[conc
 - Ghost links: ~373 pre-existing (26 reduced from [[mcp]] link fixes)
 - Entity pages: 646 (was 629)
 - Concept pages: 1,457 (was 1,477)
+
+## [2026-05-12] lint | Concept deduplication — 25 files deleted
+
+Ran comprehensive concept deduplication pass across 1,459 concept pages.
+
+**Alias stubs deleted (6):** rlhf, rag, word-embedding, loss-functions, embedding, attention-mechanism — all were redirect pages with no unique content; all inbound links rewritten to canonical targets.
+
+**Content merges (19):** Each non-canonical file's unique content was absorbed into the canonical page before deletion. All `[[old-name]]` links were rewritten.
+
+| Deleted | Canonical |
+|---|---|
+| nlp | natural-language-processing |
+| rnns | recurrent-neural-networks |
+| recommender-systems | recommendation-systems |
+| probability-theory | probability |
+| model-pricing | llm-pricing |
+| gelu-activation | gelu |
+| mode-collapse | mode-collapse-in-llms |
+| gradient-checkpointing, activation-recomputation | activation-checkpointing (three-way merge) |
+| temperature-sampling | temperature-parameter |
+| attention-is-all-you-need | transformers |
+| foundation-model | foundation-models |
+| residual-connection | residual-connections |
+| text-encoders | text-encoder (rewritten as comprehensive page) |
+| trust-boundary | trust-boundaries |
+| cross-entropy | cross-entropy-loss |
+| jacobian-matrix | jacobian |
+| ralph-loop | ralph |
+| b-tree-index | b-tree |
+
+**Kept separate (9 pairs verified as genuinely distinct):** svd ↔ singular-value-decomposition, categorical-crossentropy ↔ cross-entropy-loss, cuda-architecture ↔ cuda, conditional-probability ↔ conditional-probability-distributions, compounding-errors ↔ compounding-errors-in-llms, gpu-inference ↔ model-inference, model-deployment ↔ production-deployment, embedding-layers ↔ embedding-matrix, self-attention ↔ self-attention-masks
+
+**Ghost links:** 0 new (403 pre-existing, down from 427 before this session)
+**Concept pages:** 1,434 (was 1,459, -25 net)
+**Lint report updated:** lint-report.md

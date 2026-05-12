@@ -19,7 +19,7 @@ A buffer pool is an in-memory cache maintained by a database system that stores 
 - **Index efficiency**: B-Tree index lookups benefit enormously from buffer pools -- the upper tree levels are almost always cached, so index scans typically require only 1-2 disk reads for the leaf level
 
 ## Related Concepts
-- [[b-tree-index]] -- index pages cached in the buffer pool
+- [[b-tree]] -- index pages cached in the buffer pool
 - [[hash-join]] -- hash tables that must fit within buffer pool memory
 - [[grace-hash-join]] -- the fallback when buffer pool is insufficient for hash join
 

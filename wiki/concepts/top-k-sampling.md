@@ -23,7 +23,7 @@ Top-k sampling is a token selection strategy used during text generation in lang
 ## Related Concepts
 
 - [[top-p-sampling]] -- nucleus sampling, an alternative truncation strategy based on cumulative probability
-- [[temperature-sampling]] -- controls randomness before top-k filtering
+- [[temperature-parameter]] -- controls randomness before top-k filtering
 - [[greedy-decoding]] -- the extreme case where k=1
 
 ## Sources

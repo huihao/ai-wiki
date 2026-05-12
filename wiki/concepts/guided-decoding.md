@@ -23,7 +23,7 @@ Guided decoding is a technique for constraining LLM text generation to conform t
 - [[logits-processor]] — the mechanism through which guided decoding modifies token probabilities
 - [[logits-masking]] — the core operation of guided decoding: masking disallowed tokens
 - [[grammar-based-output-control]] — using formal grammars to guide generation
-- [[temperature-sampling]] — interacts with guided decoding since the mask is applied before sampling
+- [[temperature-parameter]] — interacts with guided decoding since the mask is applied before sampling
 - [[json-generation]] — a primary use case for guided decoding
 - [[function-calling]] — structured function call outputs often rely on guided decoding or constrained generation
 - [[prompting]] — guided decoding extends prompting by adding structural constraints on output

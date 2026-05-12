@@ -121,7 +121,7 @@ Python servers: `uvx mcp-server-git` or `pip install mcp-server-git`
 - [[model-context-protocol]] — protocol standardized by Anthropic
 - [[mcp-servers]] — server implementations
 - [[tool-use]] — exposing functions to LLMs
-- [[rag]] — retrieval augmentation via MCP resources
+- [[retrieval-augmented-generation]] — retrieval augmentation via MCP resources
 - [[security-compliance]] — security considerations for MCP
 
 ## Raw Notes

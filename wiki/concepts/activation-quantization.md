@@ -18,7 +18,7 @@ Activation quantization is a model compression technique that reduces the numeri
 - When combined with weight quantization, enables substantial memory savings for deployment on edge and consumer hardware
 
 ## Related Concepts
-- [[activation-recomputation]]
+- [[activation-checkpointing]]
 - [[cloud-ml-services]]
 
 ## Sources

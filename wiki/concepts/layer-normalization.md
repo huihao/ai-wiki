@@ -24,7 +24,7 @@ A normalization technique that normalizes across the embedding dimensions of a s
 - [[rmsnorm]] — simplified variant without mean-centering
 - [[feed-forward-network]] — the other major transformer sub-layer
 - [[transformers]] — how attention, normalization, and FFN compose
-- [[residual-connection]] — paired with LayerNorm for gradient flow
+- [[residual-connections]] — paired with LayerNorm for gradient flow
 
 ## Sources
 

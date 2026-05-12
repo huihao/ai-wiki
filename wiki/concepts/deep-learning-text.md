@@ -29,7 +29,7 @@ Deep learning for text refers to neural network approaches applied to natural la
 - [[word2vec]]
 - [[cbow]]
 - [[skip-gram]]
-- [[nlp]]
+- [[natural-language-processing]]
 - [[transformers]]
 
 ## Sources

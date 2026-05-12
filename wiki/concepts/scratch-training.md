@@ -27,7 +27,7 @@ Scratch training is the process of building a foundation model from the ground u
 
 - [[fine-tuning]] -- Adapting pre-trained models, the more practical alternative for most organizations
 - [[parameter-efficient-fine-tuning]] -- Efficient customization without full retraining
-- [[foundation-model]] -- Large AI models trained on massive unlabeled data
+- [[foundation-models]] -- Large AI models trained on massive unlabeled data
 - [[compute-resources]] -- GPU/TPU infrastructure required for training
 
 ## Sources

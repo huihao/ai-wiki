@@ -24,7 +24,7 @@ CLIP-MMD (Maximum Mean Discrepancy) is an evaluation metric used to assess text-
 
 - [[clip]]
 - [[text-to-image-architectural-experiments]]
-- [[text-encoders]]
+- [[text-encoder]]
 - [[flow-matching]]
 
 ## Sources

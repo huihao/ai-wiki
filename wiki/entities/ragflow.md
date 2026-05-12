@@ -28,7 +28,7 @@ RAGFlow is an open-source engine employing deep document understanding as the dr
 
 ## Related Concepts
 
-- [[rag|Retrieval Augmented Generation (RAG)]] — Core technique
+- [[retrieval-augmented-generation|Retrieval Augmented Generation (RAG)]] — Core technique
 - [[deep-document-understanding|Deep Document Understanding]] — Key differentiator
 - [[rag-optimization|RAG Optimization]] — Benefit of RAGFlow usage
 

@@ -18,7 +18,7 @@ Arithmetic intensity is the ratio of floating-point operations (FLOPs) to memory
 - Understanding arithmetic intensity helps explain why practical GPU throughput (50-150 TFLOP/s on A100) is far below theoretical peak (312 TFLOP/s)
 
 ## Related Concepts
-- [[activation-recomputation]]
+- [[activation-checkpointing]]
 - [[cache-economics]]
 
 ## Sources

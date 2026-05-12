@@ -37,7 +37,7 @@ A step-by-step guide to setting up the Ralph loop — a technique for running AI
 
 ## Concepts Mentioned
 
-- [[ralph-loop]] — autonomous agent loop using PRD + progress file
+- [[ralph]] — autonomous agent loop using PRD + progress file
 - [[claude-code-source-leak-harness|Claude Code]] — the agentic coding tool used
 - [[stop-calling-tools-start-writing-code-mode|Plan mode]] — Claude Code feature for iterating on plans
 - [[docker|Docker sandbox]] — isolated execution environment

@@ -21,7 +21,7 @@ FLOPs calculus provides mathematical reasoning about the computational requireme
 - [[transformer-scaling|Transformer Scaling]] — Application domain
 - [[gpu-throughput|GPU Throughput]] — Practical consideration
 - [[weight-flops|Weight FLOPs]] — Primary computation
-- [[activation-recomputation|Activation Recomputation]] — Memory technique
+- [[activation-checkpointing|Activation Recomputation]] — Memory technique
 
 ## Sources
 

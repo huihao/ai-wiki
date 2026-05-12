@@ -21,7 +21,7 @@ Rectified Linear Unit (ReLU) is an [[activation-function]] defined as f(x) = max
 ## Related Concepts
 
 - [[activation-function]] — ReLU is the most prominent member of the activation function family
-- [[gelu-activation|gelu]] — a smooth approximation of ReLU used in the [[transformers]]
+- [[gelu|gelu]] — a smooth approximation of ReLU used in the [[transformers]]
 - [[swiglu]] — a gated activation variant using ReLU-like gating, used in modern LLM feed-forward layers
 - [[feed-forward-network]] — transformer feed-forward layers use ReLU or GELU activations
 - [[vanishing-gradients]] — ReLU addresses this problem by maintaining constant gradient for positive inputs
@@ -49,5 +49,5 @@ Rectified Linear Unit (ReLU) is an [[activation-function]] defined as f(x) = max
 - **2010**: Glorot and Bengio compare activation functions, finding ReLU superior for deep networks
 - **2012**: AlexNet uses ReLU, contributing to its breakthrough performance on ImageNet
 - **2015**: Batch normalization makes training with ReLU more stable in very deep networks
-- **2017**: [[gelu-activation|GELU]] introduced as a smooth ReLU alternative, adopted in the [[transformers]]
+- **2017**: [[gelu|GELU]] introduced as a smooth ReLU alternative, adopted in the [[transformers]]
 - **2017-2025**: SwiGLU and other gated variants replace vanilla ReLU in state-of-the-art LLM feed-forward layers

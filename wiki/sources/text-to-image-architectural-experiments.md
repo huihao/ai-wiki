@@ -50,7 +50,7 @@ A technical deep-dive into architectural choices for training a text-to-image fo
 - [[cross-attention]] — Text conditioning mechanism in transformer blocks
 - [[ada-layernorm]] — Adaptive normalization modulated by timestep/conditioning
 - [[clip-mmd]] — CLIP-based evaluation metric for text-image alignment
-- [[text-encoders]] — T5, T5Gemma for mapping text to embeddings
+- [[text-encoder]] — T5, T5Gemma for mapping text to embeddings
 - [[autoencoders]] — Encoder-decoder for latent space compression
 
 ## Raw Notes

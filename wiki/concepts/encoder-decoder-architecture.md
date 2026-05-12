@@ -43,7 +43,7 @@ A neural network architecture consisting of two stacks: an encoder that processe
 - [[self-attention]] — Mechanism allowing each position to attend to all positions
 - [[multi-head-attention]] — Multiple parallel attention operations
 - [[masked-causal-attention]] — Preventing future token access
-- [[residual-connection]] — Skip connections for gradient flow
+- [[residual-connections]] — Skip connections for gradient flow
 - [[layer-normalization]] — Stabilizing training
 
 ## Sources

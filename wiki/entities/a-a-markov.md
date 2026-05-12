@@ -33,7 +33,7 @@ His 1900 book "The Calculus of Probabilities" was recently translated to English
 ## Related Concepts
 
 - [[markov-chains]] — Stochastic models describing sequences of possible events
-- [[probability-theory]] — Mathematical framework for analyzing random phenomena
+- [[probability]] — Mathematical framework for analyzing random phenomena
 - [[stochastic-processes]] — Mathematical models of systems that evolve randomly
 
 ## Sources

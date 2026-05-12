@@ -20,7 +20,7 @@ Dropout is a regularization technique for neural networks that randomly deactiva
 - Dropout rates may vary across layers, with higher rates in layers prone to overfitting
 
 ## Related Concepts
-- [[cross-entropy]]
+- [[cross-entropy-loss]]
 - [[generalization]]
 
 ## Sources

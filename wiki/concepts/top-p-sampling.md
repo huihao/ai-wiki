@@ -23,7 +23,7 @@ Top-p sampling (also called nucleus sampling) is a token selection strategy for 
 ## Related Concepts
 
 - [[top-k-sampling]] -- fixed-width alternative that always retains exactly k tokens
-- [[temperature-sampling]] -- reshapes the probability distribution before nucleus truncation
+- [[temperature-parameter]] -- reshapes the probability distribution before nucleus truncation
 - [[transformer-explainer-visually-explained]] -- interactive visualization of the sampling process
 
 ## Sources

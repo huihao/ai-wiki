@@ -30,10 +30,11 @@ GELU (Gaussian Error Linear Unit) is an activation function used in modern trans
 
 - [[the-parts-of-a-transformer-nobody-talks-about|The Parts of a Transformer Nobody Talks About (But That Make It Work)]] — discusses GELU vs. ReLU
 - [[feed-forward-network]] — role of activation functions in transformers
+- [[explain-feed-forward-network-transformer-block]] — engineering perspective on GELU in transformer FFN blocks
 
 ## Evolution
 
-- **2016**: GELU introduced; initially niche
+- **2016**: GELU introduced by Hendrycks & Gimpel; initially niche
 - **2018**: BERT and GPT-2 adopt GELU, establishing it as the transformer standard
-- **2021–2023**: SwiGLU begins displacing GELU in newer architectures
+- **2021–2023**: SwiGLU begins displacing GELU in newer architectures; production systems favor GELU for numerical stability under mixed-precision training
 - **2024–2026**: GELU remains common in encoder models; SwiGLU dominates decoder-only LLMs
